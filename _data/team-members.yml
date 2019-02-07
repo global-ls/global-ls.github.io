@@ -1,0 +1,132 @@
+Marta Puxan Oliva:
+  name        : "Marta Puxan Oliva"
+  bio         : "Postdoctoral researcher (UOC) | Assistant Professor at the Universitat de Barcelona."
+  avatar      : "/assets/images/marta-puxan.png"
+  links:
+    - label: "mpuxano@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mpuxano@uoc.edu"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://thewhip.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+
+Diana Roig Sanz:
+  name        : "Diana Roig Sanz"
+  bio         : "Ramon y Cajal Research Fellow (UOC) | PI of MapModern | Coordinator of GlobaLS"
+  avatar      : "/assets/images/diana-roig.jpg"
+  links:
+    - label: "dsanzr@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:dsanzr@uoc.edu"
+    - label: "MapModern Project"
+      icon: "fas fa-fw fa-link"
+      url: "https://mapmodern.wordpress.com"
+    #- label: "Twitter"
+      #icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/extravagantman"
+
+Neus Rotger Cerdà:
+  name        : "Neus Rotger Cerdà"
+  bio         : "Associate Professor of Comparative Literature (UOC) | Guest Lecturer at Universitat Autònoma de Barcelona"
+  avatar      : "/assets/images/neus-rotger.jpg"
+  links:
+    - label: "nrotgerc@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nrotgerc@uoc.edu"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://thewhip.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+
+Laura Fólica:
+  name        : "Laura Fólica"
+  bio         : "Postdoctoral researcher (UOC) | Assistant Professor at Universitat Pompeu Fabra (UPF).
+"
+  avatar      : "/assets/images/laura-folica.png"
+  links:
+    - label: "lfolica@uoc.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lfolica@uoc.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://thewhip.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+
+Pau Bosch Santos:
+  name        : "Pau Bosch Santos"
+  #bio         : "..."
+  avatar      : "/assets/images/portrait-placeholder.png"
+  links:
+    - label: "pboschsantos@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pboschsantos@uoc.edu"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://thewhip.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+
+Ana Kvirikashvili:
+  name        : "Ana Kvirikashvili"
+  #bio         : "..."
+  avatar      : "/assets/images/ana-kvirikashvili.jpg"
+  links:
+    - label: "akvirikashvili@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:akvirikashvili@uoc.edu"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://thewhip.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+
+Aina Vidal Pérez:
+  name        : "Aina Vidal Pérez"
+  #bio         : "..."
+  avatar      : "/assets/images/aina-vidal.jpg"
+  links:
+    - label: "avidalpe@uoc.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:avidalpe@uoc.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://thewhip.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/extravagantman"
+
+## Site Author
+#author:
+#  name             : "Your Name"
+#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+#  bio              : "I am an amazing person."
+#  location         : "Somewhere"
+#  email            :
+#  links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      # url: mailto:your.name@email.com
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      # url: "https://your-website.com"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      # url: "https://github.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      # url: "https://instagram.com/"

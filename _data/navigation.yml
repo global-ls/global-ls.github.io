@@ -1,0 +1,60 @@
+# main links
+main:
+
+  - title: "About"
+    url: /about/
+  - title: "Team"
+    url: /team/
+  - title: "News"
+    url: /news/
+  - title: "Activities"
+    url: /activities/
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
+#  - title: "Join us"
+#    url: /join-us/
+  - title: "Contact"
+    url: /contact/
+
+foo:    #navigation sidebar for Team
+  - title: "Researchers"
+    url: /team/
+    children:
+         -   title: "Marta Puxan Oliva"
+             url: /team/marta-puxan/
+         -   title: "Diana Roig Sanz"
+             url: /team/diana-roig/
+         -   title: "Neus Rotger Cerdà"
+             url: /team/neus-rotger/
+         -   title: "Laura Fólica"
+             url: /team/laura-folica/
+
+  - title: "PhD Students"
+    url: /team/phd
+    children:
+         -   title: "Pau Bosch Santos"
+             url: /team/pau-bosch/
+         -   title: "Ana Kvirikashvili"
+             url: /team/ana-kvirikashvili/
+         -   title: "Aina Vidal Pérez"
+             url: /team/aina-vidal/
+
+foo2:   #navigation sidebar for Activities
+        - title: "Upcoming events"
+          url: /activities/
+        - title: International Seminars
+          url: /activities/international-seminars/
+        - title: Doctoral Seminars
+          url: /activities/doctoral-seminars/
+#        - title: Conferences
+#          url: /activities/conferences/
+
+foo3:   #navigation sidebar for Publications
+        - title: "Books and edited collections"
+          url: /publications/
+#        - title: "Book chapters"
+#          url: /publications/chapters/
+#        - title: "Articles"
+#          url: /publications/articles/
