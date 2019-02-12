@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Global Literary Studies - GlobaLS | Research Group"
+title                    : "Global Literary Studies Research Group"
 title_separator          : "-"
 name                     : "GlobaLS"
 description              : "Website of the Global Literary Studies Research Group (GlobaLS) at the Open University of Catalonia"
