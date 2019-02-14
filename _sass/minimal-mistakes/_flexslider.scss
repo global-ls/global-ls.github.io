@@ -23,7 +23,7 @@
  * RESETS
  * ====================================================================================================================*/
 .flex-container a:hover,
-.flex-slider a:hover {
+.flex-slider a:hover, a:focus {
   outline: none;
 }
 .slides,
@@ -48,10 +48,7 @@
   display: none;
   -webkit-backface-visibility: hidden;
 }
-.flexslider .slides img {
-  width: auto;
-  display: block;
-}
+
 .flexslider .slides:after {
   content: "\0020";
   display: block;
@@ -87,41 +84,39 @@ html[xmlns] .flexslider .slides {
   box-shadow: '' 0 1px 4px rgba(0, 0, 0, 0.2);
 }
 .flexslider .slides {
-  zoom: 1;
+   display: flex;
+   align-items: center;
+   zoom: 1;
+   a, a:visited, a:hover, a:focus {
+      text-decoration: none;
+      outline: none;
+      color: $text-color
+   }
+   p {
+      margin: 0;
+      padding: 0.3em 3.3em;
+      font-size: .6em;
+      @include breakpoint($small) {font-size: .7em;}
+      @include breakpoint($large) {
+         font-size: .75em;
+         padding: auto 2em;
+      }
+   }
 }
+
 .flexslider .slides img {
-  max-height: 165px;
-  object-fit: contain;
-  -moz-user-select: none;
+   display: none;
+   @include breakpoint($small) {
+      display: inline-block;
+      padding: 0.2em;
+      margin-right: 1em;
+      width: auto;
+      max-height: 8em;
+      object-fit: contain;
+      float:left;
+   }
 }
-.flexslider .slides {
-        a, a:visited, a:hover {
-            text-decoration: none;
-            color: $text-color
-  }
-        p {
-          margin: 0;
-          padding: 0.3em 1.2em;
-          font-size: .6em;
-              @include breakpoint($small) {font-size: .7em;}
-              @include breakpoint($large) {
-                   font-size: .75em;
-                   padding: 1.2em 3em;
-           }
-  }
-        td {
-           p {
-            margin: 0;
-            padding: 0.3em 1.2em;
-               }
-           @include breakpoint($large) {
-                    min-width: 240px;
-                    visibility: visible !important;
 
-        }
-  }
-
-}
 .flex-viewport {
   max-height: 183px;
   -webkit-transition: all 1s ease;
@@ -166,7 +161,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-direction-nav a:before {
   font-family: "flexslider-icon";
-  font-size: 36px;
+  font-size: 34px;
   display: inline-block;
   content: '\f001';
   color: rgba(0, 0, 0, 0.8);
@@ -297,13 +292,13 @@ html[xmlns] .flexslider .slides {
 /* ====================================================================================================================
  * RESPONSIVE
  * ====================================================================================================================*/
-@media screen and (max-width: 860px) {
+@media screen and (max-width: 768px) {
   .flex-direction-nav .flex-prev {
-    opacity: 1;
-    left: 10px;
+    opacity: 0.4;
+    left: 5px;
   }
   .flex-direction-nav .flex-next {
-    opacity: 1;
-    right: 10px;
+    opacity: 0.4;
+    right: 5px;
   }
 }

@@ -3,17 +3,11 @@
 	{% for post in site.posts limit:5  %}
          <li><a href="{{ post.permalink | relative_url }}">
 		 {% if post.image %}
-		  <table>
-            	     <tr>
-	      		<td style="visibility:collapse"> <img src="{{ '/assets/images/' | append: post.image | relative_url }}"></td>
-              		<td>{{ post.excerpt }}</td>
-		     </tr>
-      		  </table>
-		{% else %}
+		  <img src="{{ '/assets/images/' | append: post.image | relative_url }}">
+		 {% endif %}
 		  <p>{{ post.excerpt }}</p>
-		  {% endif %}
 	   </a>
 	  </li>
-	 {% endfor %}
+	{% endfor %}
 	</ul>
 </div>

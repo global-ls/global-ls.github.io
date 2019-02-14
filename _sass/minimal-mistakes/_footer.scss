@@ -26,9 +26,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 1.2em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0 1em 0.8em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -53,7 +53,7 @@
 }
 
 .page__footer-info {
-   margin-bottom: 1em;
+   margin-bottom: 0.7em;
    p {
       font-size: $type-size-6;
    }
@@ -62,7 +62,6 @@
     padding: 0;
     list-style-type: none;
   }
-
   li {
     display: inline-block;
     padding-top: 5px;
@@ -70,6 +69,18 @@
     font-family: $sans-serif-narrow;
     font-size: $type-size-6;
     /*text-transform: uppercase;*/
+  }
+  .logos {
+     max-width: max-content;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     img {
+       height: 2em;
+       margin-right: 1em;
+       padding-bottom: 0.2em;
+    }
+    @include breakpoint($small){float:left; clear:both;;}
   }
 
 /*  li + li:before {
@@ -88,11 +99,6 @@
     }
   }
 */
-
-  img {
-     height: 2.2em;
-     margin-right: 1em;
- }
 }
 
 .page__footer-social {
@@ -141,5 +147,8 @@
   border-top-style: solid;
   @include breakpoint($small) {
      float: right;
+     position: relative;
+     bottom: -1.8em;
+     border-top: none;
  }
 }
