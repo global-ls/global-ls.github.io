@@ -20,7 +20,7 @@ sidebar:
 {:.archive__item style="width: 13em; font-size: 0.61em"}  
 ![Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel]({{ '/assets/images/narrative-reliability.jpg' | relative_url }}){:style="width: 12em; height: 15em; object-fit: fill"}  
 [*Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel*](https://www.routledge.com/Narrative-Reliability-Racial-Conflicts-and-Ideology-in-the-Modern-Novel/Puxan-Oliva/p/book/9780367140878)  
-<span style="color:lightslategray">**Marta Puxan Oliva (Ed.)**</span>  
+<span style="color:lightslategray">**Marta Puxan-Oliva**</span>  
 <br>London/New York: Routledge, 2019.
 
 {:.grid__item}
