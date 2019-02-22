@@ -5,7 +5,7 @@ permalink: /news/marta-puxan-new-book/
 #categories: News
 ---
 
-*Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel*, edited by **Marta Puxan Oliva** will be published in the coming months by Routledge.
+*Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel*, authored by **Marta Puxan-Oliva** will be published in the coming months by Routledge.
 
 [![Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel][1]{: style="max-width:150px"}{: .align-center}][2]{:target="_blank"}
 
