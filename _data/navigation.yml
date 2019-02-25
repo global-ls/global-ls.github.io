@@ -40,6 +40,8 @@ foo:    #navigation sidebar for Team
              url: /team/ana-kvirikashvili/
          -   title: "Aina Vidal Pérez"
              url: /team/aina-vidal/
+         -   title: "Elisabet Carbó Catalan"
+             url: /team/elisabet-carbo/
 
 foo2:   #navigation sidebar for Activities
         - title: "Upcoming events"

@@ -6,12 +6,6 @@ Marta Puxan Oliva:
     - label: "mpuxano@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mpuxano@uoc.edu"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://thewhip.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/extravagantman"
 
 Diana Roig Sanz:
   name        : "Diana Roig Sanz"
@@ -24,9 +18,6 @@ Diana Roig Sanz:
     - label: "MapModern Project"
       icon: "fas fa-fw fa-link"
       url: "https://mapmodern.wordpress.com"
-    #- label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/extravagantman"
 
 Neus Rotger Cerdà:
   name        : "Neus Rotger Cerdà"
@@ -36,12 +27,6 @@ Neus Rotger Cerdà:
     - label: "nrotgerc@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nrotgerc@uoc.edu"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://thewhip.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/extravagantman"
 
 Laura Fólica:
   name        : "Laura Fólica"
@@ -52,12 +37,6 @@ Laura Fólica:
     - label: "lfolica@uoc.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lfolica@uoc.com"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://thewhip.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/extravagantman"
 
 Pau Bosch Santos:
   name        : "Pau Bosch Santos"
@@ -67,12 +46,6 @@ Pau Bosch Santos:
     - label: "pboschsantos@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pboschsantos@uoc.edu"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://thewhip.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/extravagantman"
 
 Ana Kvirikashvili:
   name        : "Ana Kvirikashvili"
@@ -82,12 +55,6 @@ Ana Kvirikashvili:
     - label: "akvirikashvili@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:akvirikashvili@uoc.edu"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://thewhip.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/extravagantman"
 
 Aina Vidal Pérez:
   name        : "Aina Vidal Pérez"
@@ -97,36 +64,12 @@ Aina Vidal Pérez:
     - label: "avidalpe@uoc.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:avidalpe@uoc.com"
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://thewhip.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/extravagantman"
 
-## Site Author
-#author:
-#  name             : "Your Name"
-#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#  bio              : "I am an amazing person."
-#  location         : "Somewhere"
-#  email            :
-#  links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      # url: mailto:your.name@email.com
-#    - label: "Website"
-#      icon: "fas fa-fw fa-link"
-#      # url: "https://your-website.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      # url: "https://twitter.com/"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      # url: "https://facebook.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      # url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      # url: "https://instagram.com/"
+Elisabet Carbó Catalan:
+  name        : "Elisabet Carbó Catalan"
+  #bio         : "..."
+  avatar      : "/assets/images/elisabet-carbo.jpg"
+  links:
+    - label: "ecarboc@uoc.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ecarboc@uoc.com"

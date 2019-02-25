@@ -19,6 +19,11 @@ feature_row:
     alt: "Aina Vidal Pérez"   
     title: "Aina Vidal Pérez"
     url: /team/aina-vidal/
+
+  - image_path: /assets/images/elisabet-carbo.jpg
+    alt: "Elisabet Carbó Catalan"   
+    title: "Elisabet Carbó"
+    url: /team/elisabet-carbo/
 ---
 <section class="entries-grid">
 {% if include.id %}
