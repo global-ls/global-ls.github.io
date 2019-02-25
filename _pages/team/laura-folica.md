@@ -3,8 +3,8 @@ layout: single
 permalink: "/team/laura-folica/"
 sidebar:
         nav: "foo"
-team-member_profile: true
-team-member: Laura Fólica
+person_profile: true
+person: Laura Fólica
 ---
 Laura Fólica is a postdoctoral researcher in the Department of Arts and Humanities at the Universitat Oberta de Catalunya (UOC) and an Assistant Professor in the Department of Language Sciences and Translation at the Universitat Pompeu Fabra (UPF).
 

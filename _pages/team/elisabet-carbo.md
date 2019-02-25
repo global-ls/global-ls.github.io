@@ -3,8 +3,8 @@ layout: single
 permalink: "/team/elisabet-carbo/"
 sidebar:
         nav: "foo"
-team-member_profile: true
-team-member: Elisabet Carbó Catalan
+person_profile: true
+person: Elisabet Carbó Catalan
 ---
 Elisabet Carbó has a B.A. in Translation and Interpreting and French Philology (UAB) and a Master's Degree in Catalan Didactics for Adults (UB-UVic). She also completed the Erasmus Mundus Master Course in European Literary Cultures (Université de Strasbourg and Alma Mater Studiorum Università di Bologna), which allowed her to specialize in the field of sociology of translation.
 

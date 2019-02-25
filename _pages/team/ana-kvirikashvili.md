@@ -3,8 +3,8 @@ layout: single
 permalink: "/team/ana-kvirikashvili/"
 sidebar:
         nav: "foo"
-team-member_profile: true
-team-member: Ana Kvirikashvili
+person_profile: true
+person: Ana Kvirikashvili
 ---
 Ana Kvirikashvili és estudiant de doctorat, adscrita a GlobaLS, al programa de Societat de la Informació i el Coneixement de la Universitat Oberta de Catalunya (UOC) des de l’any 2018-2019 amb la beca de la Fundació per a la Universitat Oberta de Catalunya.
 

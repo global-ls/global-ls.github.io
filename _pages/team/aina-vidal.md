@@ -3,8 +3,8 @@ layout: single
 permalink: "/team/aina-vidal/"
 sidebar:
         nav: "foo"
-team-member_profile: true
-team-member: Aina Vidal Pérez
+person_profile: true
+person: Aina Vidal Pérez
 ---
 
 Llicenciada en Filologia Hispànica per la Universitat de València. Ha cursat el Màster d’Humanitats: art, literatura i cultura contemporànies de la Universitat Oberta de Catalunya, aprovat amb un TFM sobre memòria i espai en la narrativa de Rafael Chirbes.

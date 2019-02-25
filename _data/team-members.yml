@@ -30,8 +30,7 @@ Neus Rotger Cerdà:
 
 Laura Fólica:
   name        : "Laura Fólica"
-  bio         : "Postdoctoral researcher (UOC) | Assistant Professor at Universitat Pompeu Fabra (UPF).
-"
+  bio         : "Postdoctoral researcher (UOC) | Assistant Professor at Universitat Pompeu Fabra (UPF)."
   avatar      : "/assets/images/laura-folica.png"
   links:
     - label: "lfolica@uoc.edu"

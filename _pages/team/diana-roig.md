@@ -3,8 +3,8 @@ layout: single
 permalink: "/team/diana-roig/"
 sidebar:
         nav: "foo"
-team-member_profile: true
-team-member: Diana Roig Sanz
+person_profile: true
+person: Diana Roig Sanz
 ---
 Diana Roig-Sanz is a Ramón y Cajal senior research fellow at the Universitat Oberta de Catalunya (UOC) and a Visiting Scholar at the Oxford Internet Institute.
 

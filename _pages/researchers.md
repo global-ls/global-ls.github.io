@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/neus-rotger.jpg
     alt: "Neus Rotger Cerdà"
     title: "Neus Rotger Cerdà"
-    url: team/neus_rotger/
+    url: team/neus-rotger/
     excerpt: "Associate Professor of Comparative Literature (UOC) - Guest Lecturer at Universitat Autònoma de Barcelona"
   - image_path: /assets/images/laura-folica.png
     alt: "Laura Fólica"

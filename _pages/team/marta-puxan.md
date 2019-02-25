@@ -3,8 +3,8 @@ layout: single
 permalink: "/team/marta-puxan/"
 sidebar:
         nav: "foo"
-team-member_profile: true
-team-member: Marta Puxan Oliva
+person_profile: true
+person: Marta Puxan Oliva
 ---
 Marta Puxan-Oliva is a postdoctoral researcher in the Department of Arts and Humanities at the Universitat Oberta de Catalunya (UOC) and an Assistant Professor in the Department of Modern Languages and Literatures and English Studies at the Universitat de Barcelona.
 
