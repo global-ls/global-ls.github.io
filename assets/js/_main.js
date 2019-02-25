@@ -19,9 +19,9 @@ $(document).ready(function() {
   // Sticky sidebar
   var stickySideBar = function() {
     var show =
-      $(".author__urls-wrapper button").length === 0
+      $(".person__urls-wrapper button").length === 0
         ? $(window).width() > 1024 // width should match $large Sass variable
-        : !$(".author__urls-wrapper button").is(":visible");
+        : !$(".person__urls-wrapper button").is(":visible");
     if (show) {
       // fix
       $(".sidebar").addClass("sticky");
@@ -38,9 +38,9 @@ $(document).ready(function() {
   });
 
   // Follow menu drop down
-  $(".author__urls-wrapper button").on("click", function() {
-    $(".author__urls").toggleClass("is--visible");
-    $(".author__urls-wrapper button").toggleClass("open");
+  $(".person__urls-wrapper button").on("click", function() {
+    $(".person__urls").toggleClass("is--visible");
+    $(".person__urls-wrapper button").toggleClass("open");
   });
 
   // Search toggle
