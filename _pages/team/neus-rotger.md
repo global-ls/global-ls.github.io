@@ -4,7 +4,7 @@ permalink: "/team/neus-rotger/"
 sidebar:
         nav: "foo"
 person_profile: true
-person: Neus Rotger Cerdà
+person: Neus Rotger
 ---
 Neus Rotger is Associate Professor of Comparative Literature at the Universitat Oberta de Catalunya (UOC) and Guest Lecturer at the Universitat Autònoma de Barcelona.
 

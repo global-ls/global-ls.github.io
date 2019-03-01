@@ -17,8 +17,8 @@ feature_row:
     url: team/diana-roig/
     excerpt: "Ramon y Cajal Research Fellow (UOC) - PI of MapModern - Coordinator of GlobaLS"
   - image_path: /assets/images/neus-rotger.jpg
-    alt: "Neus Rotger Cerdà"
-    title: "Neus Rotger Cerdà"
+    alt: "Neus Rotger"
+    title: "Neus Rotger"
     url: team/neus-rotger/
     excerpt: "Associate Professor of Comparative Literature (UOC) - Guest Lecturer at Universitat Autònoma de Barcelona"
   - image_path: /assets/images/laura-folica.png
