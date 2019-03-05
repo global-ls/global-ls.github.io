@@ -14,11 +14,11 @@ Her current project focuses on global rewritings of the canon in the contemporar
 
 <details><summary>Selected Bibliography</summary>
 <ul>
-<li>ROTGER, N. (2018). "La Princesa de Clèves, de Madame de Lafayette". In: LLOVET, J. <em>La literatura admirable: del Génesis a Lolita</em>. BARCELONA: Pasado & Presente, pàg. 251 - 263. ISBN: 978-84-947694-4-3.</li>
-<li>ROTGER, N. (2012). "Ancients, Moderns and the Gothic in Eighteenth-Century Historiography". In: BOD, R; MAAT, J; WESTSTEIJN, T. <em>The Making of the Humanities. From Early Modern to Modern Disciplines</em>. AMSTERDAM: Amsterdam University Press, pp. 321 - 336. ISBN: 978-90-8964-4558.</li>
-<li>ROTGER, N. (2010). "The Uses of History in the Early Gothic Novel". In: SIKORSKA, L. <em>History is Mostly Repair and Revenge. Discourses of/on History in the Literature in English</em>. pp. 57 - 67. ISBN: 978-3-361-59-771-2.</li>
-<li>ROTGER, N. (2009). "A vueltas con la historia: sobre la idea de literatura europea". <em>La investigación en el área de las Humanidades</em>. MADRID: Biblioteca Nueva, S.L., pp. 183 - 198. ISBN: 978-84-9742-976-4.</li>
-<li>ROTGER, N. (2003). "'Lector sine fabula'. Hiperliteratura y deconstrucción". A: VEGA, M.J. <em>Literatura hipertextual y teoría literaria</em>. MADRID: Marenostrum, pp. 202 - 209. ISBN: 84-95509-59-8.</li>
+<li>Rotger, Neus. "*La Princesa de Clèves*, de Madame de Lafayette". <em>La literatura admirable: del "Génesis" a "Lolita"</em>. Jordi Llovet (dir.). Barcelona: Pasado & Presente, 2018, 251-263. ISBN: 978-84-947694-4-3.</li>
+<li>Rotger, Neus. "Ancients, Moderns and the Gothic in Eighteenth-Century Historiography". <em>The Making of the Humanities. From Early Modern to Modern Disciplines</em>.  Rens Bod, Jaap Maat, Thijs Weststeijn (eds.). Amsterdam: Amsterdam University Press, 2016, 321-336. ISBN: 978-90-8964-4558.</li>
+<li>Rotger, Neus. "The Uses of History in the Early Gothic Novel". <em>History is Mostly Repair and Revenge. Discourses of/on History in the Literature in English</em>. Liliana Sikorska (ed.). Frankfurt am Main, New York: Peter Lang Verlag, 2010, 57-67. ISBN: 978-3-631-59771-2.</li>
+<li>Rotger, Neus. "A vueltas con la historia: sobre la idea de literatura europea". <em>La investigación en el área de las Humanidades</em>. Carme de-la-Mota, Gemma Puigvert (eds.). Madrid: Biblioteca Nueva, 2009, 183-198. ISBN: 978-84-9742-976-4.</li>
+<li>Rotger, Neus. "'Lector sine fabula'. Hiperliteratura y deconstrucción". <em>Literatura hipertextual y teoría literaria</em>. María José Vega Ramos (ed.). Madrid: Marenostrum, 2003, 202-209. ISBN: 84-95509-59-8.</li>
 </ul>
 </details>
 

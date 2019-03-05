@@ -5,7 +5,7 @@ permalink: /publications/
 classes: wide
 entries_layout: grid
 sidebar:
-        nav: foo3
+        nav: pubs
 pub-type: books
 ---
 {% assign type = page.pub-type %}
