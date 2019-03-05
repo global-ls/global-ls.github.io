@@ -6,10 +6,6 @@ header:
   overlay_image: /assets/images/worldbooks.png
 excerpt: "Global Literary Studies Research Group"
 flexslider: true
-#intro:
-#  - excerpt: "  "
-#sidebar:
-#        twitter: "" #Enables twitter feed as right sidebar with toggle options (when responsive)
 ---
 
 {% include flexslider-posts.html type="center" %}
