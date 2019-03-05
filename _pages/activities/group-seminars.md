@@ -1,9 +1,9 @@
 ---
 layout: single
-title: International Seminars
-permalink: /activities/international-seminars/
+title: Group Seminars
+permalink: /activities/group-seminars/
 sidebar:
-        nav: foo2
+        nav: activities
 ---
 
 ## II International Global Literary Studies Seminar

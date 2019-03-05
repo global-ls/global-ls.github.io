@@ -1,16 +1,16 @@
 ---
 layout: single
-permalink: "/team/diana-roig/"
+permalink: "/team/lead/diana-roig/"
 sidebar:
-        nav: "foo"
+        nav: team
 person_profile: true
 person: Diana Roig Sanz
 ---
-Diana Roig-Sanz is a Ramón y Cajal senior research fellow at the Universitat Oberta de Catalunya (UOC) and a Visiting Scholar at the Oxford Internet Institute.
+Diana Roig-Sanz is a Ramón y Cajal senior research fellow at the Universitat Oberta de Catalunya (UOC) and an ERC Starting Grant holder.
 
 Her research interests have to do with sociology of translation and cultural history from a global and digital humanities approach.
 
-She is the principal investigator of the project [MapModern](https://mapmodern.wordpress.com/) and the coordinator of the Global Literary Studies Research Group (GlobaLS).
+She is the coordinator of the Global Literary Studies Research Group (GlobaLS) and the principal investigator of the project [MapModern](https://mapmodern.wordpress.com/).
 
 Her publications include *Bourdieu after Bourdieu* (Arco Libros, 2014), *Literary Translation in ‘Peripheral’ Cultures. Customs Officers or Smugglers?* (Palgrave, 2018, co-edited with Reine Meylaerts), and *Mapping Global Literary Translation Flows. Literature Across Boundaries* (in preparation for John Benjamins).
 
@@ -23,3 +23,6 @@ Her publications include *Bourdieu after Bourdieu* (Arco Libros, 2014), *Literar
 <li>GARCIA, I; ROIG, D. (2017). <em>Traducció, món editorial i literatura catalana (1975-2000). VI Simposi sobre Traducció i Recepció en la Literatura Catalana Contemporània</em>. Editorial Punctum. ISBN: 978-84-945790-7-3.</li>
 </ul>
 </details>
+
+
+{% include latest-news.html %}

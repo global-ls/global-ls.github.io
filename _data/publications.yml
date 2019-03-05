@@ -1,0 +1,16 @@
+books:
+   -  title       :  Literary Translation and Cultural Mediators in ‘Peripheral’ Cultures
+      image       :  /assets/images/literary-translation.jpg
+      url         :  https://www.palgrave.com/gp/book/9783319781136
+      responsible :  Diana Roig Sanz and Reine Meylaerts (Eds.)
+      place       :  London/New York
+      publisher   :  Palgrave MacMillan
+      date        :  2018
+
+   -  title       :  Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel
+      image       :  /assets/images/narrative-reliability.jpg
+      url         :  https://www.routledge.com/Narrative-Reliability-Racial-Conflicts-and-Ideology-in-the-Modern-Novel/Puxan-Oliva/p/book/9780367140878
+      responsible :  Marta Puxan-Oliva
+      place       :  London/New York
+      publisher   :  Routledge
+      date        :  2019

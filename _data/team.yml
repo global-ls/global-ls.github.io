@@ -1,15 +1,6 @@
-Marta Puxan Oliva:
-  name        : "Marta Puxan Oliva"
-  bio         : "Postdoctoral researcher (UOC) | Assistant Professor at the Universitat de Barcelona."
-  avatar      : "/assets/images/marta-puxan.png"
-  links:
-    - label: "mpuxano@uoc.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mpuxano@uoc.edu"
-
 Diana Roig Sanz:
   name        : "Diana Roig Sanz"
-  bio         : "Ramon y Cajal Research Fellow (UOC) | PI of MapModern | Coordinator of GlobaLS"
+  bio         : "Coordinator of GlobaLS | Ramon y Cajal Research Fellow (UOC) | PI of MapModern"
   avatar      : "/assets/images/diana-roig.jpg"
   links:
     - label: "dsanzr@uoc.edu"
@@ -18,15 +9,6 @@ Diana Roig Sanz:
     - label: "MapModern Project"
       icon: "fas fa-fw fa-link"
       url: "https://mapmodern.wordpress.com"
-
-Neus Rotger:
-  name        : "Neus Rotger"
-  bio         : "Associate Professor of Comparative Literature (UOC) | Guest Lecturer at Universitat Autònoma de Barcelona"
-  avatar      : "/assets/images/neus-rotger.jpg"
-  links:
-    - label: "nrotgerc@uoc.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nrotgerc@uoc.edu"
 
 Laura Fólica:
   name        : "Laura Fólica"
@@ -37,18 +19,42 @@ Laura Fólica:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lfolica@uoc.edu"
 
+Marta Puxan Oliva:
+  name        : "Marta Puxan Oliva"
+  bio         : "Postdoctoral researcher (UOC) | Assistant Professor at the Universitat de Barcelona."
+  avatar      : "/assets/images/marta-puxan.png"
+  links:
+    - label: "mpuxano@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mpuxano@uoc.edu"
+
+Neus Rotger:
+  name        : "Neus Rotger"
+  bio         : "Associate Professor of Comparative Literature (UOC) | Guest Lecturer at Universitat Autònoma de Barcelona"
+  avatar      : "/assets/images/neus-rotger.jpg"
+  links:
+    - label: "nrotgerc@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:nrotgerc@uoc.edu"
+
 Pau Bosch Santos:
   name        : "Pau Bosch Santos"
-  #bio         : "..."
-  avatar      : "/assets/images/portrait-placeholder.png"
+  avatar      : "/assets/images/pau-bosch.png"
   links:
     - label: "pboschsantos@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pboschsantos@uoc.edu"
 
+Elisabet Carbó Catalan:
+  name        : "Elisabet Carbó Catalan"
+  avatar      : "/assets/images/elisabet-carbo.jpg"
+  links:
+    - label: "ecarboc@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ecarboc@uoc.edu"
+
 Ana Kvirikashvili:
   name        : "Ana Kvirikashvili"
-  #bio         : "..."
   avatar      : "/assets/images/ana-kvirikashvili.jpg"
   links:
     - label: "akvirikashvili@uoc.edu"
@@ -57,18 +63,8 @@ Ana Kvirikashvili:
 
 Aina Vidal Pérez:
   name        : "Aina Vidal Pérez"
-  #bio         : "..."
   avatar      : "/assets/images/aina-vidal.jpg"
   links:
     - label: "avidalpe@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:avidalpe@uoc.edu"
-
-Elisabet Carbó Catalan:
-  name        : "Elisabet Carbó Catalan"
-  #bio         : "..."
-  avatar      : "/assets/images/elisabet-carbo.jpg"
-  links:
-    - label: "ecarboc@uoc.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ecarboc@uoc.edu"

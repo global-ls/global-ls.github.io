@@ -1,0 +1,30 @@
+{% if site.tags contains page.person %}
+<div class="page__related">
+  <h3 class="page__related-title">Latest news featuring {{ page.person }}</h3>
+  <div class="grid__wrapper">
+    {% assign count = 0 %}
+    {% for post in site.posts %}
+      {% if post.tags contains page.person %}
+      <div class="grid__item">
+        <article class="archive__item">
+
+          <h5 class="archive__item-date">{{ post.date | date: "%-d %B %Y" }}</h5>
+          <h2 class="archive__item-title" itemprop="headline">
+            {% if post.link %}
+              <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+            {% else %}
+              <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+            {% endif %}
+          </h2>
+          {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</p>{% endif %}
+        </article>
+      </div>
+         {% assign count = count | plus:1 %}
+      {% endif %}
+      {% if count == 5 %}
+         {% break %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

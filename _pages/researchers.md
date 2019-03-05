@@ -1,31 +1,31 @@
 ---
 title: "Lead Researchers"
 layout: single
-permalink: /team/
+permalink: /team/lead/
 classes: wide
 sidebar:
-        nav: "foo"
+        nav: team
 feature_row:
-  - image_path: assets/images/marta-puxan.png
-    alt: "Marta Puxan Oliva"
-    title: "Marta Puxan Oliva"
-    url: team/marta-puxan/
-    excerpt: "Postdoctoral researcher (UOC) - Assistant Professor at the Universitat de Barcelona."
-  - image_path: /assets/images/diana-roig.jpg
-    alt: "Diana Roig Sanz"
-    title: "Diana Roig Sanz"
-    url: team/diana-roig/
-    excerpt: "Ramon y Cajal Research Fellow (UOC) - PI of MapModern - Coordinator of GlobaLS"
-  - image_path: /assets/images/neus-rotger.jpg
-    alt: "Neus Rotger"
-    title: "Neus Rotger"
-    url: team/neus-rotger/
-    excerpt: "Associate Professor of Comparative Literature (UOC) - Guest Lecturer at Universitat Autònoma de Barcelona"
-  - image_path: /assets/images/laura-folica.png
-    alt: "Laura Fólica"
-    title: "Laura Fólica"
-    url: team/laura-folica/
-    excerpt: "Postdoctoral researcher (UOC) - Assistant Professor at Universitat Pompeu Fabra (UPF)"
+   - image_path: /assets/images/diana-roig.jpg
+     alt: "Diana Roig Sanz"
+     title: "Diana Roig Sanz (PI)"
+     url: team/lead/diana-roig/
+     excerpt: "Coordinator of GlobaLS - Ramon y Cajal Research Fellow (UOC) - PI of MapModern"
+   - image_path: /assets/images/laura-folica.png
+     alt: "Laura Fólica"
+     title: "Laura Fólica"
+     url: team/lead/laura-folica/
+     excerpt: "Postdoctoral researcher (UOC) - Assistant Professor at Universitat Pompeu Fabra (UPF)"
+   - image_path: assets/images/marta-puxan.png
+     alt: "Marta Puxan Oliva"
+     title: "Marta Puxan Oliva"
+     url: team/lead/marta-puxan/
+     excerpt: "Postdoctoral researcher (UOC) - Assistant Professor at the Universitat de Barcelona."
+   - image_path: /assets/images/neus-rotger.jpg
+     alt: "Neus Rotger"
+     title: "Neus Rotger"
+     url: team/lead/neus-rotger/
+     excerpt: "Associate Professor of Comparative Literature (UOC) - Guest Lecturer at Universitat Autònoma de Barcelona"
 ---
 <section class="entries-grid">
 {% if include.id %}
@@ -36,7 +36,7 @@ feature_row:
 
 {% for f in feature_row %}
 
-<div class="grid__item" style="width: 160px">
+   <div class="grid__item-adjust">
 
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
@@ -44,7 +44,7 @@ feature_row:
       {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
     {% endif %}
 
-      <div class="archive__item-team">
+      <article class="archive__item">
        <a href="{{ f_url }}">
 
        <img src=
@@ -55,9 +55,8 @@ feature_row:
               {% endif %}
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
 
-         <h2 class="archive__item-title" style="clear: both">{{ f.title }}</h2>
-
-     </a>
+         <h2 class="archive__item-title">{{ f.title }}</h2>
+         </a>
 
         {% if f.excerpt %}
          <div class="archive__item-excerpt">
@@ -65,9 +64,7 @@ feature_row:
          </div>
         {% endif %}
 
-
-
-      </div>
-</div>
+      </article>
+   </div>
 {% endfor %}
 </section>

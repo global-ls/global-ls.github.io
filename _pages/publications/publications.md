@@ -5,27 +5,55 @@ permalink: /publications/
 classes: wide
 entries_layout: grid
 sidebar:
-        nav: foo3
+        nav: pubs
+pub-type: books
 ---
+{% assign type = page.pub-type %}
+{% assign publications = site.data.publications[type] | reverse  %}
 
+<div class="grid-entries">
 
+{% for pub in publications %}
+<div class="grid__item-adjust">
+   <div class="archive__item">
+      {% if pub.image %}
+         {% if pub.image contains "://" %}
+            {% assign pub-img = book.image %}
+         {% else %}
+            {% assign pub-img = pub.image | relative_url %}
+         {% endif %}
+      {% else %}
+         {% assign pub-img = "assets/images/portrait-placeholder.png" | relative_url %}
+      {% endif %}
 
-{:.grid__item}
-{:.archive__item style="width: 13em; font-size: 0.61em"}  
-![Journal of Global History]({{ '/assets/images/JoGH.jpg' | relative_url }}){:style="width: 12em; height: 15em; object-fit: fill"}  
-[*Special Issue of the Journal of Global History*]  
-<br>Forthcoming
+      {% if pub.url %}
+         <a href="{{ pub.url }}">
+         <img src="{{ pub-img }}" style="max-height:13em">
+         <p style="font-size: 0.65em"><em>{{ pub.title }}</em></p>
+         </a>
+      {% else %}
+         <img src="{{ pub-img }}" style="height=auto; max-height:13em">
+         <p style="font-size: 0.65em"><em>{{ pub.title }}</em></p>
+      {% endif %}
+      <p style="font-size: 0.61em">
+         {% if pub.responsible %}
+            by <span style="color:lightslategray"><strong>{{ pub.responsible }}</strong></span>
+         {% endif %}
+         <br>
+         {% if pub.date %}
+            {% if pub.place and pub.publisher %}
+               {{ pub.place }}: {{ pub.publisher }}, {{ pub.date }}
+            {% elsif pub.place or pub.publisher %}
+               {{ pub.place }}{{ pub.publisher }}, {{ pub.date }}
+            {% else %} {{ pub.date }}
+            {% endif %}
+         {% elsif pub.place and pub.publisher %}
+            {{ pub.place }}: {{ pub.publisher }}
+            {% else %} {{ pub.place }} {{ pub.publisher }}
+         {% endif %}
+      </p>
 
-{:.grid__item}
-{:.archive__item style="width: 13em; font-size: 0.61em"}  
-![Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel]({{ '/assets/images/narrative-reliability.jpg' | relative_url }}){:style="width: 12em; height: 15em; object-fit: fill"}  
-[*Narrative Reliability, Racial Conflicts and Ideology in the Modern Novel*](https://www.routledge.com/Narrative-Reliability-Racial-Conflicts-and-Ideology-in-the-Modern-Novel/Puxan-Oliva/p/book/9780367140878)  
-<span style="color:lightslategray">**Marta Puxan-Oliva**</span>  
-<br>London/New York: Routledge, 2019.
-
-{:.grid__item}
-{:.archive__item style="width: 13em; font-size: 0.61em"}  
-![Literary Translation and Cultural Mediators in ‘Peripheral’ Cultures]({{ '/assets/images/literary-translation.jpg' | relative_url }}){:style="width: 12em; height: 15em; object-fit: fill"}  
- [*Literary Translation and Cultural Mediators in ‘Peripheral’ Cultures*](https://www.palgrave.com/gp/book/9783319781136)  
- <span style="color:lightslategray">**Diana Roig Sanz and Reine Meylaerts (Eds.)**</span>  
- <br>London/New York: Palgrave MacMillan, 2018.
+   </div>
+</div>
+{% endfor %}
+</div>

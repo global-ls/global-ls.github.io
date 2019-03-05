@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: "/team/neus-rotger/"
+permalink: "/team/lead/neus-rotger/"
 sidebar:
-        nav: "foo"
+        nav: team
 person_profile: true
 person: Neus Rotger
 ---
@@ -27,3 +27,5 @@ Her studies have appeared in Arco Libros, Biblioteca Nueva, Peter Lang and Amste
 <li>ROTGER, N. (2003). "'Lector sine fabula'. Hiperliteratura y deconstrucción". A: VEGA, M.J. <em>Literatura hipertextual y teoría literaria</em>. MADRID: Marenostrum, pp. 202 - 209. ISBN: 84-95509-59-8.</li>
 </ul>
 </details>
+
+{% include latest-news.html %}

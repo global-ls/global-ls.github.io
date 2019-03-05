@@ -1,5 +1,5 @@
 {% assign person = page.person | default: page.persons[0] | default: site.person %}
-{% assign person = site.data.team-members[person] | default: person %}
+{% assign person = site.data.team[person] | default: person %}
 
 <div itemscope itemtype="https://schema.org/Person">
 
@@ -51,7 +51,7 @@
       {% if person.links %}
         {% for link in person.links %}
           {% if link.label and link.url %}
-            <li><a href="{{ link.url }}" target="_blank" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+            <li><a href="{{ link.url }}" target="_blank” rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
           {% endif %}
         {% endfor %}
       {% endif %}

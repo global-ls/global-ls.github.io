@@ -1,13 +1,16 @@
 ---
 layout: single
-permalink: "/team/ana-kvirikashvili/"
+permalink: "/team/phd/ana-kvirikashvili/"
 sidebar:
-        nav: "foo"
+        nav: team
 person_profile: true
 person: Ana Kvirikashvili
 ---
-Ana Kvirikashvili és estudiant de doctorat, adscrita a GlobaLS, al programa de Societat de la Informació i el Coneixement de la Universitat Oberta de Catalunya (UOC) des de l’any 2018-2019 amb la beca de la Fundació per a la Universitat Oberta de Catalunya.
+Ana Kvirikashvili is a PhD student in the Doctoral Programme in the Information and Knowledge Society at the Universitat Oberta de Catalunya (UOC) with a doctoral grant form the Fundació per a la Universitat Oberta de Catalunya.
 
-El seu projecte de tesi en curs és “La circulació de la literatura contemporània georgiana: entre el local i el global (1995-2020)” i els seus interessos de recerca són la sociologia de la literatura i de la traducció, els estudis literaris globals, les humanitats digitals, la literatura i cultura georgianes, així com l’art imprès i l’edició artística.
+Her doctoral project is titled “La circulació de la literatura contemporània georgiana: entre el local i el global (1995-2020)” and her research interests lie in the sociology of literature and translation, global literary studies, digital humanities, Georgian literature and culture, as well as in printed art and artistic publishing.
 
-Pel que fa a la seva formació prèvia, és graduada en Belles Arts per la Universitat de Barcelona, i ha realitzat el màster d’Humanitats: Art, Literatura i Cultura Contemporànies a la UOC.
+She holds a degree in Fine Arts from the Universitat de Barcelona and a Master's degree in Humanities: contemporary art, literature and culture from the UOC.
+
+
+{% include latest-news.html %}

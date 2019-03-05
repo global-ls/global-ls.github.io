@@ -55,14 +55,7 @@
 .page__splash_content {
     position:  relative;
     float:  left;
-    width: 100%
-/*   max-width: 100%;
-   @include breakpoint($large) {
-      width: calc(100% - #{$right-sidebar-width-narrow})
-      }
-   @include breakpoint($x-large) {
-      width: calc(100% - #{$right-sidebar-width})
-   }*/
+    max-width: 75%;
 }
 
 .page__title {
@@ -479,6 +472,7 @@
    ========================================================================== */
 
 .page__related {
+  font-size: smaller;
   @include clearfix();
   float: left;
   margin-top: 2em;
@@ -487,11 +481,11 @@
 
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: 100%; /*calc(100% - #{$right-sidebar-width-narrow});*/
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: 100% /*calc(100% - #{$right-sidebar-width});*/
   }
 
   a {
