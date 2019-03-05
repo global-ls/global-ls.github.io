@@ -12,15 +12,7 @@
   <script defer src="https://use.fontawesome.com/releases/v5.6.0/js/all.js" integrity="sha384-z9ZOvGHHo21RqN5De4rfJMoAxYpaVoiYhuJXPyVmSs8yn20IE3PmBM534CffwSJI" crossorigin="anonymous"></script>
 {% endif %}
 <script src="{{ '/assets/js/flexslider/jquery.flexslider-min.js' | relative_url }}"></script>
-<script>$(window).on('load', function() {
-$('.flexslider').flexslider({
-  animation: "slide",
-  pauseOnHover: true,
-  slideshowSpeed: 10000,
-  animationSpeed: 1000
-});
-});
-</script>
+<script src="{{ '/assets/js/app.js' | relative_url }}"></script>
 {% if site.search == true or page.layout == "search" %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
   {%- case search_provider -%}
