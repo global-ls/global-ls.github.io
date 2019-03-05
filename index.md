@@ -8,4 +8,4 @@ excerpt: "Global Literary Studies Research Group"
 flexslider: true
 ---
 
-{% include flexslider-posts.html type="center" %}
+{% include flexslider-posts.html %}
