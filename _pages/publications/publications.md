@@ -5,7 +5,7 @@ permalink: /publications/
 classes: wide
 entries_layout: grid
 sidebar:
-        nav: pubs
+        nav: foo3
 pub-type: books
 ---
 {% assign type = page.pub-type %}
@@ -23,11 +23,11 @@ pub-type: books
             {% assign pub-img = pub.image | relative_url %}
          {% endif %}
       {% else %}
-         {% assign pub-img = "assets/images/portrait-placeholder.png" | relative_url %}
+         {% assign pub-img = "assets/images/book-placeholder.png" | relative_url %}
       {% endif %}
 
       {% if pub.url %}
-         <a href="{{ pub.url }}" target="_blank" rel="noopener noreferrer">
+         <a href="{{ pub.url }}">
          <img src="{{ pub-img }}" style="max-height:13em">
          <p style="font-size: 0.65em"><em>{{ pub.title }}</em></p>
          </a>
