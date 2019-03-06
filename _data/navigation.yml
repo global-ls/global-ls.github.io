@@ -54,7 +54,3 @@ activities:   #navigation sidebar for Activities
 pubs:   #navigation sidebar for Publications
         - title: "Books and edited collections"
           url: /publications/
-        - title: "Book chapters"
-          url: /publications/chapters/
-        - title: "Articles"
-          url: /publications/articles/
