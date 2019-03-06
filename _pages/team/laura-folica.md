@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/lead/laura-folica/"
+permalink: "/team/researchers/laura-folica/"
 sidebar:
         nav: team
 person_profile: true

@@ -1,7 +1,7 @@
 ---
-title: "Lead Researchers"
+title: "Researchers"
 layout: single
-permalink: /team/lead/
+permalink: /team/researchers/
 classes: wide
 sidebar:
         nav: team
@@ -9,23 +9,28 @@ feature_row:
    - image_path: /assets/images/diana-roig.jpg
      alt: "Diana Roig Sanz"
      title: "Diana Roig Sanz (PI)"
-     url: team/lead/diana-roig/
+     url: team/researchers/diana-roig/
      excerpt: "Coordinator of GlobaLS - Ramon y Cajal Research Fellow (UOC) - PI of MapModern"
    - image_path: /assets/images/laura-folica.png
      alt: "Laura Fólica"
      title: "Laura Fólica"
-     url: team/lead/laura-folica/
+     url: team/researchers/laura-folica/
      excerpt: "Postdoctoral researcher (UOC) - Assistant Professor at Universitat Pompeu Fabra (UPF)"
    - image_path: assets/images/marta-puxan.png
      alt: "Marta Puxan Oliva"
      title: "Marta Puxan Oliva"
-     url: team/lead/marta-puxan/
+     url: team/researchers/marta-puxan/
      excerpt: "Postdoctoral researcher (UOC) - Assistant Professor at the Universitat de Barcelona."
    - image_path: /assets/images/neus-rotger.jpg
      alt: "Neus Rotger"
      title: "Neus Rotger"
-     url: team/lead/neus-rotger/
+     url: team/researchers/neus-rotger/
      excerpt: "Associate Professor of Comparative Literature (UOC) - Guest Lecturer at Universitat Autònoma de Barcelona"
+   - image_path: /assets/images/v-ikoff-bw.jpg
+     alt: "Ventsislav Ikoff"
+     title: "Ventsislav Ikoff"
+     url: team/researchers/ventsislav-ikoff/
+     excerpt: "Postdoctoral researcher (UOC)"
 ---
 <section class="entries-grid">
 {% if include.id %}

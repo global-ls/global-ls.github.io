@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/lead/marta-puxan/"
+permalink: "/team/researchers/marta-puxan/"
 sidebar:
         nav: team
 person_profile: true

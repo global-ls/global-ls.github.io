@@ -4,7 +4,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Team"
-    url: /team/lead/
+    url: /team/researchers/
   - title: "News"
     url: /news/
   - title: "Activities"
@@ -18,16 +18,18 @@ main:
 
 team:    #navigation sidebar for Team
   - title: "Researchers"
-    url: /team/lead/
+    url: /team/researchers/
     children:
          -   title: "Diana Roig Sanz (PI)"
-             url: /team/lead/diana-roig/
+             url: /team/researchers/diana-roig/
          -   title: "Laura Fólica"
-             url: /team/lead/laura-folica/
+             url: /team/researchers/laura-folica/
          -   title: "Marta Puxan Oliva"
-             url: /team/lead/marta-puxan/
+             url: /team/researchers/marta-puxan/
          -   title: "Neus Rotger"
-             url: /team/lead/neus-rotger/
+             url: /team/researchers/neus-rotger/
+         -   title: "Ventsislav Ikoff"
+             url: /team/researchers/ventsislav-ikoff/         
 
   - title: "PhD Students"
     url: /team/phd/

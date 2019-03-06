@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/lead/diana-roig/"
+permalink: "/team/researchers/diana-roig/"
 sidebar:
         nav: team
 person_profile: true

@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: "/team/lead/neus-rotger/"
+permalink: "/team/researchers/neus-rotger/"
 sidebar:
         nav: team
 person_profile: true
