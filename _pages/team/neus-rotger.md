@@ -14,7 +14,7 @@ Her current project focuses on global rewritings of the canon in the contemporar
 
 <details><summary>Selected Bibliography</summary>
 <ul>
-<li>Rotger, Neus. "*La Princesa de Clèves*, de Madame de Lafayette". <em>La literatura admirable: del "Génesis" a "Lolita"</em>. Jordi Llovet (dir.). Barcelona: Pasado & Presente, 2018, 251-263. ISBN: 978-84-947694-4-3.</li>
+<li>Rotger, Neus. "<em>La Princesa de Clèves</em>, de Madame de Lafayette". <em>La literatura admirable: del "Génesis" a "Lolita"</em>. Jordi Llovet (dir.). Barcelona: Pasado & Presente, 2018, 251-263. ISBN: 978-84-947694-4-3.</li>
 <li>Rotger, Neus. "Ancients, Moderns and the Gothic in Eighteenth-Century Historiography". <em>The Making of the Humanities. From Early Modern to Modern Disciplines</em>.  Rens Bod, Jaap Maat, Thijs Weststeijn (eds.). Amsterdam: Amsterdam University Press, 2016, 321-336. ISBN: 978-90-8964-4558.</li>
 <li>Rotger, Neus. "The Uses of History in the Early Gothic Novel". <em>History is Mostly Repair and Revenge. Discourses of/on History in the Literature in English</em>. Liliana Sikorska (ed.). Frankfurt am Main, New York: Peter Lang Verlag, 2010, 57-67. ISBN: 978-3-631-59771-2.</li>
 <li>Rotger, Neus. "A vueltas con la historia: sobre la idea de literatura europea". <em>La investigación en el área de las Humanidades</em>. Carme de-la-Mota, Gemma Puigvert (eds.). Madrid: Biblioteca Nueva, 2009, 183-198. ISBN: 978-84-9742-976-4.</li>
