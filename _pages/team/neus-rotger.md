@@ -6,7 +6,7 @@ sidebar:
 person_profile: true
 person: Neus Rotger
 ---
-Neus Rotger is Associate Professor of Comparative Literature at the Universitat Oberta de Catalunya (UOC) and Guest Lecturer at the Universitat Autònoma de Barcelona. Her research focuses on Theory of the Novel, Comparative Literary History, and World Literature. She is a member of the research group Global Literary Studies (GlobaLS), with a focus on the global novel.
+**Neus Rotger** is Associate Professor of Comparative Literature at the Universitat Oberta de Catalunya (UOC) and Guest Lecturer at the Universitat Autònoma de Barcelona. Her research focuses on Theory of the Novel, Comparative Literary History, and World Literature. She is a member of the research group Global Literary Studies (GlobaLS), with a focus on the global novel.
 
 Her studies have appeared in Arco Libros, Biblioteca Nueva, Peter Lang and Amsterdam University Press. She has been visiting researcher at the Center for the Study of the Novel (Stanford University), at the Centre de Recherche de Littérature Comparée (Université Sorbonne-Paris IV), and at the Department of Rhetoric (University of California, Berkeley).
 
