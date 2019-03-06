@@ -10,7 +10,7 @@ feature_row:
      alt: "Diana Roig Sanz"
      title: "Diana Roig Sanz (PI)"
      url: team/researchers/diana-roig/
-     excerpt: "Coordinator of GlobaLS - 2018 ERC Starting Grant - Ramon y Cajal Research Fellow (UOC) - PI of MapModern"
+     excerpt: "Coordinator of GlobaLS - 2018 ERC Starting Grant holder - Ramon y Cajal Research Fellow (UOC) - PI of MapModern"
    - image_path: /assets/images/laura-folica.png
      alt: "Laura Fólica"
      title: "Laura Fólica"
