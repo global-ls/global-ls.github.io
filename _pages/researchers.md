@@ -4,7 +4,7 @@ layout: single
 permalink: /team/lead/
 classes: wide
 sidebar:
-        nav: team
+        nav: "foo"
 feature_row:
    - image_path: /assets/images/diana-roig.jpg
      alt: "Diana Roig Sanz"

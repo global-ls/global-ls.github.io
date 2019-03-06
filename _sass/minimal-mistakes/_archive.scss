@@ -34,6 +34,28 @@
           text-decoration: none;
           color: inherit;}
 }
+/* Moved under grid__item
+.archive__item-team {
+  position: relative;
+  padding: 0px 5px;
+  width: 160px;
+  @include breakpoint($x-large){
+     width: 170px;
+ }
+  img {
+        padding: 5px;
+        object-fit: fill;
+        float:left;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 170px;
+  }
+  a, a::before, a:visited, a:hover {
+          text-decoration: none;
+          color: inherit;}
+}
+*/
 
 .archive__subtitle {
   margin: 1.414em 0 0;

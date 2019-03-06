@@ -4,7 +4,7 @@ title: "PhD Students"
 permalink: /team/phd/
 classes: wide
 sidebar:
-        nav: team
+        nav: "foo"
 feature_row:
    - image_path: assets/images/pau-bosch.jpg
      alt: "Pau Bosch Santos"

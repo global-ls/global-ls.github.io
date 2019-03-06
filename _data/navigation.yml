@@ -13,6 +13,8 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
+  - title: "Join us"
+    url: /join-us/
   - title: "Contact"
     url: /contact/
 
@@ -44,6 +46,8 @@ team:    #navigation sidebar for Team
 activities:   #navigation sidebar for Activities
         - title: "Upcoming events"
           url: /activities/
+        #- title: "Past events"
+        #  url: _pages/past-activities.html
         - title: Group Seminars
           url: /activities/group-seminars/
         - title: Doctoral Seminars
@@ -54,3 +58,7 @@ activities:   #navigation sidebar for Activities
 pubs:   #navigation sidebar for Publications
         - title: "Books and edited collections"
           url: /publications/
+        - title: "Book chapters"
+          url: /publications/chapters/
+        - title: "Articles"
+          url: /publications/articles/
