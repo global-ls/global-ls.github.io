@@ -25,7 +25,7 @@ Team: Diana Roig Sanz (PI, UOC), Elisabet Carbó Catalan (UOC), Laura Fólica (U
 
 Duration: December 2018 - December 2023  
 
-This project is funded by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme.![European Research Council](/GlobaLS/assets/images/logo-eu-erc.png){: .align-right style="width: 16em; height:auto;"}
+This project is funded by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme.![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 16em; height:auto;"}
 {: .notice style="overflow:auto"}
 
 ## Trad-Data: Translation and Market. The Circulation of Books (Spain-Latin America, 1909-1945) and Big Data
@@ -50,5 +50,5 @@ Team: Diana Roig Sanz (PI, UOC), Gabriella Gavagnin (UB), Víctor Martínez-Gil 
 Duration: November 2016 - November 2019  
 Project website: [https://mapmodern.wordpress.com/](https://mapmodern.wordpress.com/){: target="_blank" rel= ”noopener” style="color: inherit"}
 
-R+D project Mapping Hispanic Modernity. Cross-border Literary Networks and Cultural Mediators (1908-1939) (FFI2016-76055-P) is funded by the Spanish Ministerio de Economía, Industria y Competitividad.![Ministerio de Economía, Industria y Competitividad](/GlobaLS/assets/images/logo-ministerio-economia.png){: .align-right style="width: 16em; height:auto;"}
+R+D project Mapping Hispanic Modernity. Cross-border Literary Networks and Cultural Mediators (1908-1939) (FFI2016-76055-P) is funded by the Spanish Ministerio de Economía, Industria y Competitividad.![Ministerio de Economía, Industria y Competitividad](/assets/images/logo-ministerio-economia.png){: .align-right style="width: 16em; height:auto;"}
 {: .notice style="overflow:auto"}
