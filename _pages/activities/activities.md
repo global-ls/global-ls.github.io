@@ -28,7 +28,7 @@ Bio: Martin Puchner is the Byron and Anita Wien Chair of Drama and of English an
 
 Texts for discussion:
    - Puchner, Martin. “World Literature and the Creation of Literary Worlds”. *Neohelicon* (2011) 38:341–348. DOI 10.1007/s11059-011-0101-1
-   - Puchner, Martin. “Readers of the World Unite”. AEON, 20 Setembre 2017. https://aeon.co/essays/world-literature-is-both-a-market-reality-and-a-global-ideal.
+   - Puchner, Martin. “Readers of the World Unite”. AEON, 20 Setembre 2017. https://aeon.co/essays/world-literature-is-both-a-market-reality-and-a-global-ideal
 
 
 ##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room -2. 				
