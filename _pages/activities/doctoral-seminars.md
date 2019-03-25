@@ -6,7 +6,7 @@ sidebar:
         nav: activities
 ---
 
-### [VI Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2018/11/vi-seminari-de-doctorat-destudis-literaris/)
+### [VI Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2018/11/vi-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer"}
 ##### 23 November 2018
 
 *La circulació de la literatura georgiana contemporània: entre local i global (1995-2020)*  
@@ -16,7 +16,7 @@ Ana Kvirikashvili (Universitat Oberta de Catalunya)
 Aina Vidal Pérez (Universitat Oberta de Catalunya)
 
 
-### [V Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2018/01/v-seminari-de-doctorat-destudis-literaris/)
+### [V Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2018/01/v-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer"}
 ##### 6 February 2018
 
 *La Biblioteca del Desastre: el mercat de la literatura de la memòria i els seus agents en anglès, francès i castellà de 1990 fins al present vist a través dels premis*   
@@ -26,7 +26,7 @@ Pau Bosch (Universitat Oberta de Catalunya)
 Carlota Surós (Universitat Oberta de Catalunya)
 
 
-### [IV Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2017/12/iv-seminari-de-doctorat-destudis-literaris/)
+### [IV Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2017/12/iv-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer"}
 ##### 12 December 2017
 
 *Interrogant el gènere: protagonistes femenines al teatre contemporani representat a Barcelona al segle XXI*   
@@ -36,7 +36,7 @@ Adriana Nicolau (Universitat Oberta de Catalunya)
 Mireia Sopena (Universitat Autònoma de Barcelona)
 
 
-### [III Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2016/11/iii-seminari-de-doctorat-destudis-literaris/)
+### [III Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2016/11/iii-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer"}
 ##### 25 November 2016
 
 *La Shoah y la escritura de la historia en la novela contrafactual norteamericana del siglo XXI*   
@@ -49,7 +49,7 @@ Carmela Artime (Universitat Oberta de Catalunya)
 Yue Zhang (Universidad Autónoma de Madrid)
 
 
-### [II Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2016/04/ii-seminari-de-doctorat-destudis-literaris/#more-9199)
+### [II Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2016/04/ii-seminari-de-doctorat-destudis-literaris/#more-9199){: target="_blank" rel="noopener noreferrer"}
 ##### 29 April 2016
 
 *La censura franquista i la traducció de narrativa al català als anys seixanta del segle XX*   
@@ -59,7 +59,7 @@ Lara Estany (Universitat Autònoma de Barcelona)
 Ekaterina Erémina (Universitat Pompeu Fabra)
 
 
-### [I Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2016/01/i-seminari-de-doctorat-destudis-literaris/)
+### [I Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2016/01/i-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer"}
 ##### 29 January 2015
 
 *La recepció d’André Gide a Catalunya (1900-1939)*   

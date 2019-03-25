@@ -6,7 +6,7 @@ sidebar:
         nav: activities
 ---
 
-## II International Global Literary Studies Seminar
+## II Global Literary Studies International Seminar
 
 ##### 11 December 2018
 
@@ -24,7 +24,7 @@ Paulo Lemos Horta (New York University Abu Dhabi)
 *Latino-américa en Frankfurt: relaciones de dominación en el escenario editorial global*  
 Gustavo Sorá (Universidad Nacional de Córdoba, Argentina)
 
-## I International Global Literary Studies Seminar
+## I Global Literary Studies International Seminar
 ### GLobal Perspectives in the Humanities and the Social Sciences (Aprli-June 2017)
 
 ##### 15 June 2017

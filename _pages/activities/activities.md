@@ -5,18 +5,14 @@ permalink: /activities/
 sidebar:
         nav: activities
 ---
-## [The Global Novel](https://www.acla.org/global-novel)
-### Seminar at the American Comparative Literature Association (ACLA) Annual Meeting
+## [VII Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2019/03/vii-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer" }
+##### Friday, 29 March 2019, 11:30-13:30
 
-##### Georgetown University, Washington, USA, March 7-10, 2019.
-Organised by **Neus Rotger** and **Marta Puxan-Oliva**.
+*The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1990 to the Present Seen through Prizes*  
+**Pau Bosch** (Universitat Oberta de Catalunya)
 
-
-## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
-### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
-
-##### Universidad de Navarra, Pamplona, May 30-June 1, 2019.
-Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
+*Imatges i discursos literaris de la Barcelona post-olímpica (1992-2018)*   
+**Arnau Sala** (Universitat Autònoma de Barcelona)
 
 
 ## III Global Literary Studies International Seminar
@@ -43,12 +39,8 @@ Texts for discussion:
 Texts for discussion:
 - Brian Richardson, "The Trope of the Book in the Jungle: Colonial and Postcolonial Responses." The Conradian, 36.1 (2011): 1-13.
 
+## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home){: target="_blank" rel="noopener noreferrer" }
+### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
 
-## VII Doctoral Seminar in Literary Studies
-##### Friday, 29 March 2019, 11:30-13:30
-
-*The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1990 to the Present Seen through Prizes*  
-**Pau Bosch** (Universitat Oberta de Catalunya)
-
-[Title to be determined]  
-**Arnau Sala** (Universitat Autònoma de Barcelona)
+##### Universidad de Navarra, Pamplona, May 30-June 1, 2019.
+Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
