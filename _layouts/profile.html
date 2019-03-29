@@ -1,0 +1,21 @@
+---
+layout: single
+sidebar:
+        nav: "foo"
+person_profile: true
+---
+{% assign person = page.person %}
+{% assign person = site.data.team[person] %}
+{{ person.bio | markdownify }}
+
+{% if person.biblio %}
+<details><summary>Selected Bibliography</summary>
+<ul>
+   {% for pub in person.biblio %}
+   <li> {{ pub.ref | markdownify }} </li>
+   {% endfor %}
+</ul>
+</details>
+{% endif %}
+
+{% include latest-news.html %}

@@ -4,66 +4,48 @@ title: "PhD Students"
 permalink: /team/phd/
 classes: wide
 sidebar:
-        nav: team
-feature_row:
-   - image_path: assets/images/pau-bosch.jpg
-     alt: "Pau Bosch Santos"
-     title: "Pau Bosch Santos"
-     url: /team/phd/pau-bosch/
-   - image_path: assets/images/elisabet-carbo.jpg
-     alt: "Elisabet Carbó Catalan"   
-     title: "Elisabet Carbó"
-     url: /team/phd/elisabet-carbo/
-   - image_path: /assets/images/ana-kvirikashvili.jpg
-     alt: "Ana Kvirikashvili"
-     title: "Ana Kvirikashvili"
-     url: /team/phd/ana-kvirikashvili/
-   - image_path: /assets/images/aina-vidal.jpg
-     alt: "Aina Vidal Pérez"   
-     title: "Aina Vidal Pérez"
-     url: /team/phd/aina-vidal/
+        nav: "foo"
+team:
+   - res: Pau Bosch Santos
+   - res: Elisabet Carbó Catalan
+   - res: Ana Kvirikashvili
+   - res: Aina Vidal Pérez
 ---
 <section class="entries-grid">
-{% if include.id %}
-  {% assign feature_row = page[include.id] %}
-{% else %}
-  {% assign feature_row = page.feature_row %}
-{% endif %}
+{% assign team = page.team %}
 
-{% for f in feature_row %}
+{% for r in team %}
 
-<div class="grid__item-adjust">
-
-    {% if f.url contains "://" %}
-      {% capture f_url %}{{ f.url }}{% endcapture %}
+   <div class="grid__item-adjust">
+   {% assign person = r.res %}
+   {% assign person = site.data.team[person] %}
+    {% if person.url contains "://" %}
+      {% capture person_url %}{{ person.url }}{% endcapture %}
     {% else %}
-      {% capture f_url %}{{ f.url | relative_url }}{% endcapture %}
+      {% capture person_url %}{{ person.url | relative_url }}{% endcapture %}
     {% endif %}
 
-      <div class="archive__item">
-       <a href="{{ f_url }}">
+      <article class="archive__item">
+       <a href="{{ person_url }}">
 
        <img src=
-              {% if f.image_path contains "://" %}
-                "{{ f.image_path }}"
+              {% if person.avatar contains "://" %}
+                "{{ person.avatar }}"
               {% else %}
-                "{{ f.image_path | relative_url }}"
+                "{{ person.avatar | relative_url }}"
               {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            alt="{% if person.name %}{{ person.name }}{% endif %}">
 
-         <h2 class="archive__item-title" style="clear: both">{{ f.title }}</h2>
+         <h2 class="archive__item-title">{{ person.name }}</h2>
+         </a>
 
-     </a>
-
-        {% if f.excerpt %}
+        {% if person.bio-short %}
          <div class="archive__item-excerpt">
-         {{ f.excerpt | markdownify }}
+         {{ person.bio-short | markdownify }}
          </div>
         {% endif %}
 
-
-
-      </div>
-</div>
+      </article>
+   </div>
 {% endfor %}
 </section>
