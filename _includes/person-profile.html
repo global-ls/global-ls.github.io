@@ -32,9 +32,9 @@
     {% else %}
       <h3 class="person__name" itemprop="name">{{ person.name }}</h3>
     {% endif %}
-    {% if person.bio %}
+    {% if person.bio-short %}
       <p class="person__bio" itemprop="description">
-        {{ person.bio }}
+        {{ person.bio-short }}
       </p>
     {% endif %}
   </div>
