@@ -2,6 +2,6 @@
 layout: profile
 permalink: "/team/researchers/marta-puxan/"
 sidebar:
-        nav: "foo"
+        nav: "team"
 person: Marta Puxan Oliva
 ---

@@ -4,7 +4,7 @@ title: "PhD Students"
 permalink: /team/phd/
 classes: wide
 sidebar:
-        nav: "foo"
+        nav: "team"
 team:
    - res: Pau Bosch Santos
    - res: Elisabet Carbó Catalan

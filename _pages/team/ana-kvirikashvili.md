@@ -2,6 +2,6 @@
 layout: profile
 permalink: "/team/phd/ana-kvirikashvili/"
 sidebar:
-        nav: "foo"
+        nav: "team"
 person: Ana Kvirikashvili
 ---

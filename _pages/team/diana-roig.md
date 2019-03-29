@@ -1,7 +1,7 @@
 ---
 layout: profile
 sidebar:
-        nav: "foo"
+        nav: "team"
 permalink: "/team/researchers/diana-roig/"
 person: Diana Roig Sanz
 ---

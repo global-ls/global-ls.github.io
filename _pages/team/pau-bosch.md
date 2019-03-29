@@ -2,6 +2,6 @@
 layout: profile
 permalink: "/team/phd/pau-bosch/"
 sidebar:
-        nav: "foo"
+        nav: "team"
 person: Pau Bosch Santos
 ---

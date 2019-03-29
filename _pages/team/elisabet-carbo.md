@@ -2,6 +2,6 @@
 layout: profile
 permalink: "/team/phd/elisabet-carbo/"
 sidebar:
-        nav: "foo"
+        nav: "team"
 person: Elisabet Carbó Catalan
 ---

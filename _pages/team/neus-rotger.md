@@ -2,6 +2,6 @@
 layout: profile
 permalink: "/team/researchers/neus-rotger/"
 sidebar:
-        nav: foo
+        nav: team
 person: Neus Rotger
 ---

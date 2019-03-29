@@ -4,7 +4,7 @@ layout: single
 permalink: /team/researchers/
 classes: wide
 sidebar:
-        nav: "foo"
+        nav: "team"
 team:
    - res: Diana Roig Sanz
    - res: Laura Fólica

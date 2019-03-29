@@ -2,6 +2,6 @@
 layout: profile
 permalink: "/team/researchers/ventsislav-ikoff/"
 sidebar:
-        nav: "foo"
+        nav: "team"
 person: Ventsislav Ikoff
 ---

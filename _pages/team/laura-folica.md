@@ -2,6 +2,6 @@
 layout: profile
 permalink: "/team/researchers/laura-folica/"
 sidebar:
-        nav: "foo"
+        nav: "team"
 person: Laura Fólica
 ---
