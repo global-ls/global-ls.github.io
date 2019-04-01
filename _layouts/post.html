@@ -1,0 +1,34 @@
+---
+layout: single
+---
+{{ content }}
+{% comment %} IMAGE {% endcomment %}
+{% if page.image %}
+   {% if page.image-link %}
+
+      <a href="{{ page.image-link }}" target="_blank" rel="noopener noreferrer">
+         <img src="{{ '/assets/images/' | append: page.image | relative_url }}" class="align-center" style="max-height:450px">
+      </a>
+   {% else %}
+
+      <img src="{{ '/assets/images/' | append: page.image | relative_url }}" class="align-center" style="max-height:450px">
+
+   {% endif %}
+{% endif %}
+
+{% comment %} VIDEO {% endcomment %}
+
+{% if page.video %}
+   {% for v in page.video %}
+   {% if v.provider and v.video-id %}
+      {% include video id=v.video-id provider=v.provider %}
+   {% endif %}
+   {% endfor %}
+{% endif %}
+
+{% comment %} PDF {% endcomment %}
+{% if page.pdf %}
+<figure>
+   <object width="200" height="200" data="{{ '/assets/docs/' | append: page.pdf | relative_url }}"></object>
+</figure>
+{% endif %}
