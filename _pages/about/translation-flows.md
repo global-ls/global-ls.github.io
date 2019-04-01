@@ -9,5 +9,5 @@ This line of research builds on cross-border studies and their criticism of a na
 
 Thus, this line of research focuses on these other dynamic translation venues in order to rethink the role of major national literatures and broader regional configurations, as well as the place of smaller literatures and how they relate to the wider world. Comparative literature, world literary studies, and translation studies have generally focused on central languages or, at best, on the relationships between central and peripheral literatures, but there is still a lot of research to be done with regard to inter-peripheral literary exchanges. In that respect, this line of research intends to abandon the focus on “innovative” centres and “imitative” peripheries and aims to study new or lesser-known translation zones and processes of cultural exchange as they develop.
 
-Lead researchers: [Diana Roig Sanz](/team/diana-roig/) and [Laura Fólica](/team/laura-folica)
+Lead researchers: [Diana Roig Sanz](/team/researchers/diana-roig/) and [Laura Fólica](/team/researchers/laura-folica/)
 {: .notice--primary}
