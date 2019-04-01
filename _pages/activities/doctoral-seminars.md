@@ -5,6 +5,15 @@ permalink: /activities/doctoral-seminars/
 sidebar:
         nav: activities
 ---
+### [VII Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2019/03/vii-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer" }
+##### Friday, 29 March 2019, 11:30-13:30
+
+*The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1990 to the Present Seen through Prizes*  
+Pau Bosch (Universitat Oberta de Catalunya)
+
+*Imatges i discursos literaris de la Barcelona post-olímpica (1992-2018)*   
+Arnau Sala (Universitat Autònoma de Barcelona)
+
 
 ### [VI Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2018/11/vi-seminari-de-doctorat-destudis-literaris/){: target="_blank" rel="noopener noreferrer"}
 ##### 23 November 2018
