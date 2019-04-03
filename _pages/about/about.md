@@ -9,7 +9,6 @@ feature_row:
             url: /about/literary-environments/
             btn_label: "Read More"
             btn_class: "btn--inverse"
-
           - title: "The Global Novel"
             excerpt: "This line of research focuses on the novel from a global perspective. Aiming at a global history of the genre through the study of crucial transnational literary periods and spaces, the goal is to investigate the emergence and transformations of the modern and contemporary novel in its articulations across Europe and the world."
             url: /about/global-novel/
