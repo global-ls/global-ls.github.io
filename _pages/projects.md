@@ -43,7 +43,7 @@ Duration: September 2017 - March 2019
 
 
 
-## [MapModern: Mapping Hispanic Modernity. Cross-border Literary Networks and Cultural Mediators (1908-1939)]
+## MapModern: Mapping Hispanic Modernity. Cross-border Literary Networks and Cultural Mediators (1908-1939)
 {: .notice--primary}
 
 Funded by the Spanish Ministerio de Economía, Industria y Competitividad.![Ministerio de Economía, Industria y Competitividad](/assets/images/logo-ministerio-economia.png){: .align-right style="width: 16em; height:auto;"}
@@ -54,4 +54,4 @@ The project sets the grounds for a new approach exploring transnational processe
 Team: Diana Roig Sanz (PI, UOC), Gabriella Gavagnin (UB), Víctor Martínez-Gil (UAB), Jaume Subirana (UOC, UPF) Laura Fólica (UOC), Ventsislav Ikoff (UOC)
 
 Duration: November 2016 - November 2019  
-Project website: [https://mapmodern.wordpress.com/](https://mapmodern.wordpress.com/){: target="_blank" rel= ”noopener” style="color: inherit"}
+Project website: <https://mapmodern.wordpress.com/>{: target="_blank" rel= ”noopener” style="color: inherit"}
