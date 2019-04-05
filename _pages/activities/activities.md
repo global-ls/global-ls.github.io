@@ -5,21 +5,14 @@ permalink: /activities/
 sidebar:
         nav: activities
 ---
+## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
+### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
+
+##### Universidad de Navarra, Pamplona, May 30-June 1, 2019.
+Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
+
+
 ## III Global Literary Studies International Seminar
-
-##### Thursday, 4 April 2019, 16:00-18:00. UOC, Building Tibidabo 1-2, Room Tony Bates.
-
-*World Literature, from the Tablet to the Internet*  
-**Martin Puchner** (Harvard University)
-
-Abstract: In this lecture, Martin Puchner will present an argument about the interaction between storytelling and writing technologies by drawing on case studies from my recent book, *The Written World: The Power of Stories to Shape People, History, Civilization* (Random House, 2017; *El poder de las historias*, Crítica, 2019). Puchner will focus on moments when new technologies, such as paper and print, lower the cost of literature, when they give rise to new formats and format wars, such as the one between the scroll and the book, and when different writing technologies collide violently, as they did when Spanish Conquistadors encountered Maya writing. Puchner will use this history to cast light on the revolution in writing technologies brought about by the Internet, with its explosion of popular storytelling on websites such as wattpad.
-
-Bio: Martin Puchner is the Byron and Anita Wien Chair of Drama and of English and Comparative Literature at Harvard University. His prize-winning books cover subjects from philosophy to the arts, and his bestselling six-volume *Norton Anthology of World Literature* and his HarvardX MOOC (massive open online course) have brought four thousand years of literature to students across the globe. His most recent book, *The Written World: The Power of Stories of Shape People, History, Civilization* (Random House), which tells the story of literature from the invention of writing to the Internet, is being translated into some 20 languages. He is a member of the European Academy and has received numerous awards, including a Guggenheim Fellowship, a Cullman Fellowship, and the Berlin Prize.
-
-Texts for discussion:
-   - Puchner, Martin. “World Literature and the Creation of Literary Worlds”. *Neohelicon* (2011) 38:341–348. DOI 10.1007/s11059-011-0101-1
-   - Puchner, Martin. “Readers of the World Unite”. AEON, 20 Setembre 2017. https://aeon.co/essays/world-literature-is-both-a-market-reality-and-a-global-ideal
-
 
 ##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room -2. 				
 
@@ -29,8 +22,21 @@ Texts for discussion:
 Texts for discussion:
 - Brian Richardson, "The Trope of the Book in the Jungle: Colonial and Postcolonial Responses." The Conradian, 36.1 (2011): 1-13.
 
-## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home){: target="_blank" rel="noopener noreferrer" }
-### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
 
-##### Universidad de Navarra, Pamplona, May 30-June 1, 2019.
-Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
+## Big Translation History: The Use of Data Mining and Big Data Approaches
+
+### [EST Congress Stellenbosch 2019. Living Translation: People, Processes, Products](http://www.est2019.com/)
+
+##### 9-13 September, Stellenbosch, South Africa
+
+Organised by: **Diana Roig-Sanz** (UOC-Open University of Catalonia); **Ondrej Vimr** (University of Bristol); **Laura Fólica** (UOC-Open University of Catalonia).
+
+General description: Data mining and big data approaches are changing the ways in which we create knowledge, access information and preserve our cultural heritage. At the intersection of the Humanities and Computational Technologies, this panel aims to advance in a still new and very innovative research path in translation studies (the study of translation history in a big data age) and explore both theoretical and methodological questions as well as case studies dealing with big translation history. In that respect, the convenors of this panel define big translation history as a translation history that can be analyzed computationally within a big amount of data and propose to address the following approaches and subtopics:
+
+   - **Methodologies for the analysis of translation history at a large scale**: Is it possible to formulate a specific methodology for the study of foreign literatures and translations within a transnational and big data aproach? Can we contribute with new tools and a defined theoretical and methodological framework to the study of big translation history?
+
+   - **Methodological challenges for the collection, analysis and visualization of data and metadata** on and from a significant number of scattered translations in a vast corpus of books or periodicals.
+
+   - **The qualitative and quantitative relationship in the analysis of big translation history**: What possibilities does quantitative analysis open for the study of big translation history and the circulation of literatures and the agents involved in it (translators, publishers, etc.) worldwide? Is it possible to elaborate methods of quantitative analysis of large and heterogeneous corpora so as to overcome the challenges posed by these type of approaches? Is it possible to develop techniques for a qualitative study that put micro-textual analysis (close reading) into play, without neglecting the macrotextual (distant reading)?
+
+   - **Case studies in their relationship with big translation history and the world of publishing or the circulation of translations and the agents involved from different times and geographical spaces.**
