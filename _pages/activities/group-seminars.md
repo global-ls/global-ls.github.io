@@ -40,7 +40,7 @@ Paulo Lemos Horta (New York University Abu Dhabi)
 Gustavo Sorá (Universidad Nacional de Córdoba, Argentina)
 
 ## I International Global Literary Studies Seminar
-### GLobal Perspectives in the Humanities and the Social Sciences (Aprli-June 2017)
+### GLobal Perspectives in the Humanities and the Social Sciences (April-June 2017)
 
 ##### 15 June 2017
 *Notions of the ‘global’ in historiography after the spatial turn*  
