@@ -5,14 +5,14 @@ main:
     url: /about/
   - title: "Team"
     url: /team/researchers/
-  - title: "News"
-    url: /news/
   - title: "Activities"
     url: /activities/
   - title: "Publications"
     url: /publications/
   - title: "Projects"
     url: /projects/
+  - title: "News archive"
+    url: /news/
   - title: "Contact"
     url: /contact/
 
@@ -29,7 +29,7 @@ team:    #navigation sidebar for Team
          -   title: "Neus Rotger"
              url: /team/researchers/neus-rotger/
          -   title: "Ventsislav Ikoff"
-             url: /team/researchers/ventsislav-ikoff/         
+             url: /team/researchers/ventsislav-ikoff/
 
   - title: "PhD Students"
     url: /team/phd/

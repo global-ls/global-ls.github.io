@@ -1,5 +1,5 @@
 ---
-title: News
+title: News archive
 layout: posts
 permalink: /news/
 collection: posts
