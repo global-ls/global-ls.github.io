@@ -4,6 +4,11 @@ title: Upcoming events
 permalink: /activities/
 sidebar:
         nav: activities
+photos:
+   -  file: # file name
+      position: # left, center, or right (default)
+      size: # small, medium (default), or large
+      caption: # photo caption  
 ---
 ## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
 ### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
