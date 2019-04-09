@@ -8,7 +8,7 @@ photos:
      -  file:  # file name
         position:  # left, center, or right (default)
         size:  # small, medium (default), or large
-        caption: # Any text  
+        caption: # photo caption 
 ---
 ## III Global Literary Studies International Seminar
 
