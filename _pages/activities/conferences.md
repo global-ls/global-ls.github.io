@@ -4,6 +4,11 @@ title: Conferences
 permalink: /activities/conferences/
 sidebar:
         nav: activities
+photos:
+     -  file:  # file name
+        position:  # left, center, or right (default)
+        size:  # small, medium (default), or large
+        caption: # Any text  
 ---
 ## [The Global Novel](https://www.acla.org/global-novel)
 ### Seminar at the American Comparative Literature Association (ACLA) Annual Meeting

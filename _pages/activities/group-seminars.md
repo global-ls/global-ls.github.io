@@ -4,6 +4,11 @@ title: Group Seminars
 permalink: /activities/group-seminars/
 sidebar:
         nav: activities
+photos:
+     -  file:  # file name
+        position:  # left, center, or right (default)
+        size:  # small, medium (default), or large
+        caption: # Any text  
 ---
 ## III Global Literary Studies International Seminar
 

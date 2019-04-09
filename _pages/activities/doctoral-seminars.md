@@ -4,6 +4,11 @@ title: Doctoral Seminars
 permalink: /activities/doctoral-seminars/
 sidebar:
         nav: activities
+photos:
+     -  file:  # file name
+        position:  # left, center, or right (default)
+        size:  # small, medium (default), or large
+        caption: # Any text  
 ---
 ### [VII Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2019/03/vii-seminari-de-doctorat-destudis-literaris/)
 ##### Friday, 29 March 2019, 11:30-13:30
