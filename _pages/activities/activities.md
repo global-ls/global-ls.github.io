@@ -14,7 +14,7 @@ Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
 
 ## III Global Literary Studies International Seminar
 
-##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room -2. 				
+##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room "Hannah Arendt". 				
 
 *Shakespeare, Conrad, and the Global Intertext*  
 **Brian Richardson** (University of Maryland)
