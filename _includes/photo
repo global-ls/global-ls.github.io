@@ -1,0 +1,21 @@
+{% if include.id %}
+   {% assign id = include.id | minus:1 %}
+   {% assign photo = page.photos[id] %}
+{% else %}
+  {% assign photo = page.photos[0] %}
+{% endif %}
+
+{% if photo.size == "small" %}
+   {% assign width = 18 %}
+{% elsif photo.size == "large" %}
+   {% assign width = 45 %}
+{% else %}
+   {% assign width = 30 %}
+{% endif %}
+
+<figure class="{{ photo.position | default: "right" }}" style="width:{{ width }}%">
+<img src="{{ '/assets/images/' | append: photo.file | relative_url }}">
+{% if photo.caption %}
+   <figcaption>{{ photo.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
+{% endif %}
+</figure>

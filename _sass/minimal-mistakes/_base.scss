@@ -31,6 +31,9 @@ h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  a {
+    text-decoration: none;
+  }
 }
 
 h1 {
@@ -217,6 +220,9 @@ li ol {
 /* Figures and images */
 
 figure {
+
+  display: none;
+  @include breakpoint($small) {
   display: -webkit-box;
   display: flex;
   -webkit-box-pack: justify;
@@ -224,9 +230,9 @@ figure {
   -webkit-box-align: start;
   align-items: flex-start;
   flex-wrap: wrap;
-  margin: 2em 0;
+  margin: 0.5em 0;
+  }
 
-  img,
   iframe,
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
@@ -270,13 +276,34 @@ figure {
   }
 }
 
+/* figure alignment: left, right, center */
+
+.left {
+    float: left;
+    margin-right: 1em;
+  }
+.right {
+    float: right;
+    margin-left: 1em;
+  }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
 /* Figure captions */
 
 figcaption {
-  margin-bottom: 0.5em;
-  color: $muted-text-color;
+  position: relative;
+  bottom: 2em;
+  padding: 2px 5px;
+  color: #fff;
+  background-color: #000;
+  z-index: 5;
+  opacity: 0.8;
   font-family: $caption-font-family;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   a {
     -webkit-transition: $global-transition;
