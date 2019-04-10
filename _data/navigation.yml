@@ -11,6 +11,8 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
+  - title: "Join us"
+    url: /join-us/
   - title: "News archive"
     url: /news/
   - title: "Contact"
