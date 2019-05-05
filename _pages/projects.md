@@ -29,7 +29,7 @@ Team: Diana Roig Sanz (PI, UOC), Elisabet Carbó Catalan (UOC), Laura Fólica (U
 Duration: December 2018 - December 2023  
 
 
-## Trad-Data: Translation and Market. The Circulation of Books (Spain-Latin America, 1909-1945) and Big Data
+## Trad-Data: Translation and Market. The Circulation of Books (Spain-Latin America, 1900-1945) and Big Data
 {: .notice--primary}
 
 Funded by a BBVA Foundation Leonardo 2017 Grant for Young Scholars and Cultural Creatives.
