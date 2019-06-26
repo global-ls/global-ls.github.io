@@ -1,6 +1,8 @@
 <div class="flexslider">
 	<ul class="slides">
-	{% for post in site.posts limit:5  %}
+	{% assign post_count == 0 %}
+	{% for post in site.posts %}
+		{% unless post.slide == 'no' %}
          <li><a href="{{ post.permalink | relative_url }}">
 		 {% if post.image %}
 		  <img src="{{ '/assets/images/' | append: post.image | relative_url }}">
@@ -8,11 +10,16 @@
 		  <p>{{ post.excerpt }}</p>
 	   </a>
 	  </li>
+	  	{% assign post_count = post_count | plus:1 %}
+	  {% endunless %}
+	  {% if post_count == 5 %}
+  			{% break %}
+	  {% endif %}
 	{% endfor %}
 	</ul>
 </div>
-<script src="{{ 'assets/js/main.min.js' | relative_url }}"></script>
-<script src="{{ 'assets/js/flexslider/jquery.flexslider-min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/flexslider/jquery.flexslider-min.js' | relative_url }}"></script>
 <script>$(window).on('load', function() {
 $('.flexslider').flexslider({
   animation: "slide",
