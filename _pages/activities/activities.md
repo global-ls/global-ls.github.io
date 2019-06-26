@@ -10,24 +10,6 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption  
 ---
-## [The Poetics and Politics of the Global Novel](https://www.unav.edu/web/narrative-2019/home)
-### Panel at the International Conference on Narrative. International Society for the Study of Narrative (ISSN).
-
-##### Universidad de Navarra, Pamplona, May 30-June 1, 2019.
-Organised by **Marta Puxan-Oliva** and **Neus Rotger**.
-
-
-## III Global Literary Studies International Seminar
-
-##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room "Hannah Arendt". 				
-
-*Shakespeare, Conrad, and the Global Intertext*  
-**Brian Richardson** (University of Maryland)
-
-Texts for discussion:
-- Brian Richardson, "The Trope of the Book in the Jungle: Colonial and Postcolonial Responses." The Conradian, 36.1 (2011): 1-13.
-
-
 ## Big Translation History: The Use of Data Mining and Big Data Approaches
 
 ### [EST Congress Stellenbosch 2019. Living Translation: People, Processes, Products](https://www.est2019.com/)

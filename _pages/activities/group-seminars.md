@@ -8,9 +8,19 @@ photos:
      -  file:  # file name
         position:  # left, center, or right (default)
         size:  # small, medium (default), or large
-        caption: # photo caption 
+        caption: # photo caption
 ---
 ## III Global Literary Studies International Seminar
+
+##### Tuesday, 4 June 2019, 15:00-17:00. UOC, Building Tibidabo 3, Room Hannah Arendt. 				
+
+*Shakespeare, Conrad, and the Global Intertext*  
+**Brian Richardson** (University of Maryland)
+
+Texts for discussion:
+- Brian Richardson, "The Trope of the Book in the Jungle: Colonial and Postcolonial Responses." The Conradian, 36.1 (2011): 1-13.
+
+
 
 ##### Thursday, 4 April 2019, 16:00-18:00. UOC, Building Tibidabo 1-2, Room Tony Bates.
 
