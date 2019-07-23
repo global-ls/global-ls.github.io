@@ -15,7 +15,7 @@ The position will focus on the role of Iberoamerican women in the cultural field
 
 
 Contact person: [Diana Roig Sanz](/team/researchers/diana-roig/) (dsanzr@uoc.edu)  
-Application deadline: **1 August 2019**
+Application deadline: **10 August 2019**
 {: .notice--primary }
 
 <figure>
