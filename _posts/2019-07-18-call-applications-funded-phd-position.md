@@ -2,6 +2,7 @@
 title: "Call for applications: 4-year fully funded doctoral fellowship"
 permalink: /news/call-applications-funded-phd-fellowship/
 tags: [Call for applications, Social Networks of the Past project]
+slide: 'no'
 ---
 We are inviting applications for one **fully funded PhD position** as part of the project ERC StG project [*Social Networks of the Past*](/projects/#social-networks-of-the-past-mapping-hispanic-and-lusophone-literary-modernity-1898-1959){: target="_blank" rel="noopener noreferrer"}.  
 
