@@ -198,3 +198,22 @@ Aina Vidal Pérez:
     - label: "avidalpe@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:avidalpe@uoc.edu"
+
+Ainamar Clariana Rodagut:
+   name        : "Ainamar Clariana Rodagut"
+   #bio-short   : "..."
+   bio         : "Ainamar Clariana is doctoral student in Information and Knowledge Society at the Universitat Oberta de Catalunya. She is a member of the Global Literary Studies Research Group (GlobaLS) and a research assistant in the in the project “Social Networks of the Past. Mapping Hispanic and Lusophone Literary Modernity, 1898-1959” at the at the same university.
+
+
+Her current research interests focus on the study of cineclub as a cross-border social and cultural network.
+
+
+She obtained a PhD in Humanities from Universitat Pompeu Fabra (2017) with a thesis titled: “Iconography of the eye: from the cinema of authors related to surrealist aesthetics (1926-1932)”. She holds a Master in Comparative Studies of Literature, Art and Thought from Universitat Pompeu Fabra, and a bachelor in Audiovisual Communication from Universitat Autònoma de Barcelona. "
+   #   biblio:
+   #   - ref:
+   avatar      : "/assets/images/ainamar-clariana.png"
+   url         : "/team/phd/ainamar-clariana/"
+   links:
+    - label: "aclariana@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aclariana@uoc.edu"

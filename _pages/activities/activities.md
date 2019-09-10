@@ -10,6 +10,24 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption  
 ---
+## Uses of translation in the 21<sup>st</sup> century
+
+**Patricia Wilson** (University of Liège)
+
+##### 26 September, 16:00-18:30. UOC - Building Tibidabo 3, Room Hannah Arendt
+
+
+Abstract: Regardless of whether we consider as the end of the 20<sup>th</sup> century the date proposed by historian Enzo Traverso (1989, the fall of the Berlin Wall), or the one proposed by historian Eric Hobsbawm (1991, the collapse of the Soviet Union), the 21<sup>st</sup> century seems to find in translation a critical and epistemological tool, capable of accounting for the processes of globalization and the constitution of hegemonic imaginary. This hypothesis will be tested by presenting and analyzing the contributions of comparatism and translation.
+
+
+Bio: Patricia Willson is a professor at the University of Liège and the director of the Literary Translation specialization program at the School of Philosophy and Humanities at the University of Buenos Aires. She is the author of *La constelación del Sur. Traductores y traducciones en la literatura argentina del siglo XX* (Siglo XXI Editores, 2004, 2017) and *Página impar. Textos sobre la traducción en Argentina: conceptos, historia, figuras* (EThos, 2019). She is co-editor of *Impliciter/Expliciter. L'intervention du traducteur* (Presses universitaires de Liège, 2018) and *Traductores y traducciones en la historia cultural de América Latina* (UNAM, 2011). She has translated works by Roland Barthes, Paul Ricœur, Gustave Flaubert, Jean-Paul Sartre, Richard Rorty, Mary Shelley, Mark Twain, H.P. Lovecraft and Jack London, among others. She is a founding member of the Latin American Association for Translation and Interpreting Studies (ALAETI) and  the International Association for Translation & Intercultural Studies (IATIS).
+
+
+Texts for discussion:  
+   - Walkowitz, Rebeca. 2015. *Born Translated. The Contemporary Novel in a Age of World Literature.* New York: Columbia University Press, pp.1-48.
+   - Willson, Patricia. 2013. "La traducción y sus discursos. Apuntes sobre la historia de la traductología". *Ex-Libris* 2, pp. 82-95.  
+
+
 ## Big Translation History: The Use of Data Mining and Big Data Approaches
 
 ### [EST Congress Stellenbosch 2019. Living Translation: People, Processes, Products](https://www.est2019.com/)
