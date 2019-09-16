@@ -24,5 +24,5 @@ Bionota: Patricia Willson es doctora en letras por la Universidad de Buenos Aire
 
 
 Lecturas sugeridas:  
-   - Walkowitz, Rebeca. 2015. *Born Translated. The Contemporary Novel in a Age of World Literature.* New York: Columbia University Press, pp.1-48.
+   - Walkowitz, Rebeca. 2015. *Born Translated. The Contemporary Novel in an Age of World Literature.* New York: Columbia University Press, pp.1-48.
    - Willson, Patricia. 2013. "La traducción y sus discursos. Apuntes sobre la historia de la traductología". *Ex-Libris* 2, pp. 82-95.  
