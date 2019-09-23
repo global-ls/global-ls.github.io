@@ -218,8 +218,8 @@ She obtained a PhD in Humanities from Universitat Pompeu Fabra (2017) with a the
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:aclariana@uoc.edu"
 
-Pablo González Suárez:
-   name        : "Pablo González Suárez"
+Pablo Suárez-Mansilla:
+   name        : "Pablo Suárez-Mansilla"
    #bio-short   : "..."
    bio         : "Pablo Suárez-Mansilla has a BA in Audiovisual Communication from the Universidade de Santiago de
 Compostela (USC) and a Masters in Contemporary Films and Audiovisual Advanced Studies from
@@ -239,8 +239,8 @@ Group (GlobaLS, UOC-IN3) and the Audiovisual Studies Research Group –Audiovisu
 contents, formats and technology– (GEA, USC)."
    #   biblio:
    #   - ref:
-   avatar      : "/assets/images/pablo-gonzalez.png"
-   url         : "/team/phd/pablo-gonzalez/"
+   avatar      : "/assets/images/pablo-suarez.png"
+   url         : "/team/phd/pablo-suarez-mansilla/"
    links:
     - label: "psuarezmg@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
