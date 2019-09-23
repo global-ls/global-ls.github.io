@@ -11,7 +11,7 @@
    {% if page.flexslider != true %}  {% comment %}Avoid loading main.min.js for a second time, as flexslider include already does so earlier in the body{% endcomment %}
   <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
    {% endif %}
-  <script defer src="https://use.fontawesome.com/releases/v5.6.0/js/all.js" integrity="sha384-z9ZOvGHHo21RqN5De4rfJMoAxYpaVoiYhuJXPyVmSs8yn20IE3PmBM534CffwSJI" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 {% endif %}
 {% if site.search == true or page.layout == "search" %}
   {%- assign search_provider = site.search_provider | default: "lunr" -%}
