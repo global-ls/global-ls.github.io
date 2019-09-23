@@ -217,3 +217,31 @@ She obtained a PhD in Humanities from Universitat Pompeu Fabra (2017) with a the
     - label: "aclariana@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:aclariana@uoc.edu"
+
+Pablo González Suárez:
+   name        : "Pablo González Suárez"
+   #bio-short   : "..."
+   bio         : "Pablo Suárez-Mansilla has a BA in Audiovisual Communication from the Universidade de Santiago de
+Compostela (USC) and a Masters in Contemporary Films and Audiovisual Advanced Studies from
+Universitat Pompeu Fabra (UPF) of Barcelona.
+
+
+He is currently a grant holder researcher for the ERC Project “Social Networks of the Past: Mapping
+Hispanic and Lusophone Literary Modernity (1898-1959)” in the Department of Arts and Humanities at
+the Universitat Oberta de Catalunya (UOC), a doctoral student in Information and Knowledge Society
+(UOC) and a PhD candidate in Communication with the Aesthetic Research of Audiovisual Media Group
+(CINEMA, UPF).
+
+
+His research interests go through different academic approach modes, mainly aesthetics, sociology of art,
+cultural history and communication theory. He is a member of the Global Literary Studies Research
+Group (GlobaLS, UOC-IN3) and the Audiovisual Studies Research Group –Audiovisual Communication:
+contents, formats and technology– (GEA, USC)."
+   #   biblio:
+   #   - ref:
+   avatar      : "/assets/images/pablo-gonzalez.png"
+   url         : "/team/phd/pablo-gonzalez/"
+   links:
+    - label: "psuarezmg@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:psuarezmg@uoc.edu"
