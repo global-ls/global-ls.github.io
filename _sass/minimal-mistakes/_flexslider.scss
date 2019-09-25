@@ -83,6 +83,7 @@ html[xmlns] .flexslider .slides {
   -o-box-shadow: '' 0 1px 4px rgba(0, 0, 0, 0.2);
   box-shadow: '' 0 1px 4px rgba(0, 0, 0, 0.2);
 }
+
 .flexslider .slides {
    display: flex;
    align-items: center;
@@ -92,6 +93,9 @@ html[xmlns] .flexslider .slides {
       outline: none;
       color: $text-color
    }
+   .title {
+      text-transform: uppercase;
+      }
    p {
       margin: 0;
       padding: 0.3em 3.3em;

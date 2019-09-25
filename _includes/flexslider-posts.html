@@ -4,12 +4,17 @@
 	{% for post in site.posts %}
 		{% unless post.slide == 'no' %}
          <li><a href="{{ post.permalink | relative_url }}">
-		 {% if post.image %}
-		  <img src="{{ '/assets/images/' | append: post.image | relative_url }}">
-		 {% endif %}
-		  <p>{{ post.excerpt }}</p>
-	   </a>
-	  </li>
+		 		{% if post.image %}
+		  		<img src="{{ '/assets/images/' | append: post.image | relative_url }}">
+		 		{% endif %}
+		  		<p class="title">{{ post.title }}</p>
+				{% assign excerpt=post.excerpt | replace: '<strong>', '__strong~~' %}
+				{% assign excerpt=excerpt | replace: '</strong>', '__/strong~~' %}
+				{% assign excerpt=excerpt | replace: '<em>', '__em~~' %}
+				{% assign excerpt=excerpt | replace: '</em>', '__/em~~' %}
+				{% assign excerpt=excerpt | strip_html | replace: '__', '<' | replace: '~~', '>' %}
+				<p>{{ excerpt }}</p>
+		   </a></li>
 	  	{% assign post_count = post_count | plus:1 %}
 	  {% endunless %}
 	  {% if post_count == 5 %}
