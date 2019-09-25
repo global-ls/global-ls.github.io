@@ -30,6 +30,8 @@ team:    #navigation sidebar for Team
              url: /team/researchers/marta-puxan/
          -   title: "Neus Rotger"
              url: /team/researchers/neus-rotger/
+         -   title: "Jorge J. Locane"
+             url: /team/researchers/jorge-locane/
          -   title: "Ventsislav Ikoff"
              url: /team/researchers/ventsislav-ikoff/
 

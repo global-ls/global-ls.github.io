@@ -22,3 +22,11 @@ books:
       place       :  London/New York
       publisher   :  Routledge
       date        :  Forthcoming
+      
+   -  title       :  "Dossier: Políticas de la poesía latinoamericana. Soportes y circulaciones disidentes."
+      image       :  /assets/images/jardin-poetas-V8.jpg
+      url         :  http://cajaderesonancia.com/index.php?mod=jardin&view=detalle&id=505
+      responsible :  Irina Garbatzky y Jorge J. Locane (coords.)
+      place       :  El jardín de los poetas. Revista de teoría y crítica de poesía latinoamericana, V, 8
+      publisher   :
+      date        :  2019

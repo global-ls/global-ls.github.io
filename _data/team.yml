@@ -245,3 +245,24 @@ contents, formats and technology– (GEA, USC)."
     - label: "psuarezmg@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:psuarezmg@uoc.edu"
+
+Jorge J. Locane:
+   name        : "Jorge J. Locane"
+   bio-short   : "Visiting Scholar"
+   bio         : "JORGE J. LOCANE studied literature at the University of Buenos Aires and obtained his PhD at the Free University of Berlin. His doctoral thesis was awarded with the German ADLAF prize and published under the title *Miradas locales en tiempos globales* by Iberoamericana/Vervuert.
+
+
+               As a postdoctoral researcher he has been part of the ERC project “Reading Global. Constructions of World Literature and Latin America”, hosted by the University of Cologne. From this project arose his monograph *De la literatura latinoamericana a la literatura (latinoamericana) mundial* (De Gruyter), dedicated to the (non) international circulation of literature and editorial policies, and, among others, the collective volume, edited together with Gesine Müller and Benjamin Loy, *Re-mapping World Literature. Writing, Book Markets and Epistemologies between Latin America and the Global South* (De Gruyter). He also edited, with Daniel Nemrava, *Experiencias límite en la ficción latinoamericana (literatura, cine, teatro)* (Iberoamericana/Vervuert).
+
+
+               He is co-founder of the bilingual magazine *alba. lateinamerika lesen*, dedicated since 2012 to the cultural mediation between Latin America and Germany, and author of two collections of poems.
+
+
+               His research interests focus on translation, editorial policies, poetry, cultural and literary theory, reception and South/South transfers. His current project focuses on the cultural relations between Latin America and China."
+   biblio:
+    - ref: "Locane, Jorge J. (2019). *De la literatura latinoamericana a la literatura (latinoamericana) mundial : condiciones materiales, procesos y actores*. Berlin: Walter de Gruyter."
+    - ref: "Nemrava, Daniel and Jorge J. Locane (eds.) (2019). *Experiencias límite en la ficción latinoamericana : literatura, cine y teatro*. Madrid / Frankfurt: Iberoamericana Vervuert."
+    - ref: "Müller, Gesine, Jorge J. Locane and Benjamin Loy (eds.) (2018). *Re-mapping World Literature Writing, Book Markets and Epistemologies between Latin America and the Global South / Escrituras, mercados y epistemologías entre América Latina y el Sur Global*. Berlin / Boston: Walter de Gruyter."
+    - ref: "Locane, Jorge J. (2016). *Miradas locales en tiempos globales. Intervenciones literarias sobre la ciudad latinoamericana*. Madrid / Frankfurt: Iberoamericana Vervuert."
+   avatar      : "/assets/images/jorge-locane.jpg"
+   url         : "/team/researchers/jorge-locane/"
