@@ -13,6 +13,8 @@ main:
     url: /projects/
   #- title: "Join us"
    # url: /join-us/
+  - title: "Calls"
+    url: /calls/   
   - title: "News archive"
     url: /news/
   - title: "Contact"
