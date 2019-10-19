@@ -24,7 +24,7 @@ These goals will be achieved by a twofold methodology:
    By combining computational methods, cultural and literary history, translation, sociology, gender and media studies, an interdisciplinary team of 6 researchers  will fill the gap in modernist studies and will significantly contribute, with an empirically tested method, to open new methodological paths for a decentred global cultural history.
 
 
-Team: Diana Roig Sanz (PI, UOC), Elisabet Carbó Catalan (UOC), Laura Fólica (UOC), Ventsislav Ikoff (UOC)
+Team: Diana Roig Sanz (PI, UOC), Elisabet Carbó Catalan (UOC), Ainamar Clariana (UOC), Laura Fólica (UOC), Ventsislav Ikoff (UOC), Pablo Suárez-Mansilla (UOC)
 
 Duration: December 2018 - December 2023  
 
