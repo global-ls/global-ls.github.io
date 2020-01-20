@@ -15,14 +15,6 @@ books:
       publisher   :  Routledge
       date        :  2019
 
-   -  title       :  Cultural Organisations, Networks and Mediators in Contemporary Ibero-America
-      image       :
-      url         :
-      responsible :  Diana Roig Sanz and Jaume Subirana (eds.)
-      place       :  London/New York
-      publisher   :  Routledge
-      date        :  Forthcoming
-      
    -  title       :  "Dossier: Políticas de la poesía latinoamericana. Soportes y circulaciones disidentes."
       image       :  /assets/images/jardin-poetas-V8.jpg
       url         :  http://cajaderesonancia.com/index.php?mod=jardin&view=detalle&id=505
@@ -30,3 +22,11 @@ books:
       place       :  El jardín de los poetas. Revista de teoría y crítica de poesía latinoamericana, V, 8
       publisher   :
       date        :  2019
+
+   -  title       :  "Cultural Organizations, Networks and Mediators in Contemporary Ibero-America"
+      image       :  /assets/images/cultural_organizations.jpg
+      url         :  https://www.routledge.com/Cultural-Organizations-Networks-and-Mediators-in-Contemporary-Ibero-America/Roig-Sanz-Subirana/p/book/9780367280505
+      responsible :  Diana Roig-Sanz and Jaume Subirana (eds.)
+      place       :  London/New York
+      publisher   :  Routledge
+      date        :  2020
