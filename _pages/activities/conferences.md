@@ -10,6 +10,13 @@ photos:
         size:  # small, medium (default), or large
         caption: # photo caption  
 ---
+## [CERES Symposium: ‘Circulation of Symbolic Goods’](https://receptionstudies.be/2019/11/04/csg/?fbclid=IwAR1_5kgR1fZUUiBOyFM9DNC0hmStgl9mZ4W7LkLnnD5GaEv2mHaH-_eIn7g)
+
+##### Tuesday, 21 January 2020, KU Leuven, Brussels Campus, Brussels, Belgium
+
+With the participation of **Pau Bosch Santos**, **Elisabet Carbó Catalan** and **Ana Kvirikashvili**
+
+
 ## Big Translation History: The Use of Data Mining and Big Data Approaches
 
 ### [EST Congress Stellenbosch 2019. Living Translation: People, Processes, Products](https://www.est2019.com/)
