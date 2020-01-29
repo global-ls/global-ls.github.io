@@ -24,9 +24,17 @@ books:
       date        :  2019
 
    -  title       :  "Cultural Organizations, Networks and Mediators in Contemporary Ibero-America"
-      image       :  /assets/images/cultural_organizations.jpg
+      image       :  /assets/images/cultural-organizations.jpg
       url         :  https://www.routledge.com/Cultural-Organizations-Networks-and-Mediators-in-Contemporary-Ibero-America/Roig-Sanz-Subirana/p/book/9780367280505
       responsible :  Diana Roig-Sanz and Jaume Subirana (eds.)
       place       :  London/New York
       publisher   :  Routledge
+      date        :  2020
+
+   -  title       :  "Literatura latinoamericana mundial. Dispositivos y disidencias"
+      image       :  /assets/images/literatura-latinoamericana-mundial.jpg
+      url         :  https://www.degruyter.com/view/product/547968
+      responsible :  Gustavo Guerrero, Jorge J. Locane, Benjamin Loy & Gesine Müller (eds.)
+      place       :  Berlin
+      publisher   :  DeGruyter
       date        :  2020
