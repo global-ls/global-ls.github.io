@@ -38,3 +38,9 @@ books:
       place       :  Berlin
       publisher   :  DeGruyter
       date        :  2020
+
+   -  title       :  "Dispersiones de la memoria, flujos y porosidades en la serie Manglares (1997, [2005], 2006, 2013), de Tomás González "
+      image       :  /assets/images/cuadernos-de-literatura.png
+      url         :  https://revistas.javeriana.edu.co/index.php/cualit/article/view/28691
+      responsible :  Jorge J. Locane
+      publisher   :  Cuadernos de literatura, 46  
