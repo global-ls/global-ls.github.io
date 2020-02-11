@@ -1,6 +1,7 @@
 ---
 title: "UOC opens call for postdoctoral research stays"
 permalink: /news/UOC-call-postdoc/
+tags: [call]
 ---
 The UOC's Research and Innovation Committee has approved the publication of a call for five new three-year postdoctoral research stays at the UOC. The places are aimed at teaching staff and postdoctoral researchers specialized in any of the areas of knowledge covered by the University's research groups. **The deadline to apply is 1 March**.
 
