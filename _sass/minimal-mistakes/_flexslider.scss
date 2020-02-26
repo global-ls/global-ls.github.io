@@ -115,14 +115,16 @@ html[xmlns] .flexslider .slides {
       padding: 0.2em;
       margin-right: 1em;
       width: auto;
-      max-height: 8em;
+//      max-height: 8em;
+      height:auto;
+      max-width: 6.5em;
       object-fit: contain;
       float:left;
    }
 }
 
 .flex-viewport {
-  max-height: 183px;
+//  max-height: 183px;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
   -ms-transition: all 1s ease;
