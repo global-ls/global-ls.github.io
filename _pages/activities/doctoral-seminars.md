@@ -10,6 +10,16 @@ photos:
         size:  # small, medium (default), or large
         caption: # photo caption  
 ---
+## [IX Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/ix-seminari-de-doctorat-destudis-literaris/)
+##### Thursday, 20 February 2020, 15:30-17:30 (Building Tibidabo 3, Room Hannah Arendt)
+
+*Film-clubs as Social Networks in Ibero-America between 1918 and 1965*  
+Ainamar Clariana (Universitat Oberta de Catalunya)
+
+*Film Criticism in the Hispanic and Lusophone Space (1898-1959)*  
+Pablo Suárez-Mansilla (Universitat Oberta de Catalunya)  
+
+
 ## [VIII Doctoral Seminar in Literary Studies](http://humanitats.blogs.uoc.edu/2019/10/28/viii-seminari-de-doctorat-destudis-literaris/)
 ##### Friday, 8 November 2019, 11:00-13:00
 
