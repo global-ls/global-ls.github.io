@@ -276,16 +276,23 @@ figure {
   }
 }
 
-/* figure alignment: left, right, center */
+/* figure alignment */
+/* figure align right */
 
 .left {
     float: left;
     margin-right: 1em;
   }
+
+/* figure align right */
+
 .right {
     float: right;
     margin-left: 1em;
   }
+
+/* figure align center */
+
 .center {
     margin-left: auto;
     margin-right: auto;
@@ -295,9 +302,23 @@ figure {
 /* Figure captions */
 
 figcaption {
+   /*position: absolute;
+   bottom: 0;
+   right: 0;
+   margin: 0 auto;
+   padding: 2px 5px;
+   color: #fff;
+   font-family: $caption-font-family;
+   font-size: $type-size-7;
+   background: #000;
+   text-align: right;
+   z-index: 5;
+   opacity: 0.5;
+   border-radius: $border-radius 0 0 0;
+*/
   position: relative;
   bottom: 2em;
-  padding: 2px 5px;
+  padding: 5px 10px;
   color: #fff;
   background-color: #000;
   z-index: 5;
