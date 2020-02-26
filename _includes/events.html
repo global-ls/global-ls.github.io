@@ -1,0 +1,25 @@
+<aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+<nav class="toc">
+<header><h4 class="nav__title"><i class="fas fa-calendar-alt"></i> Upcoming events</h4></header>
+  <a href="https://globals.research.uoc.edu/activities/">
+  <table style="font-size: small">
+    {% for e in site.data.events %}
+      <tr>
+        <td>
+          {% if e.date2 %}
+            {% if e.separate_dates %}
+            {{ e.date1 }}, {{ e.date2 }}
+            {% else %}
+            {{ e.date1 }} - {{ e.date2 }}
+            {% endif %}
+          {% else %}
+            {{ e.date1 }}
+          {% endif %}
+        </td>
+        <td> {{ e.title }}  </td>
+      </tr>
+      {% endfor %}
+  </table>
+  </a>
+</nav>
+</aside>

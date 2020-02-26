@@ -8,15 +8,20 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
-<div id="main" role="main">
-        {% if page.sidebar.twitter %}
-            {% include twitter-sidebar.html %}
-        {% endif %}
+<div id="main" role="main" style="padding-top: 10px">
+
   <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
+
+    {% if page.sidebar.events %}
+        {% include events.html %}
+    {% endif %}
+    {% if page.sidebar.twitter %}
+        {% include twitter-sidebar.html %}
+    {% endif %}
 
     <section class="page__splash_content" itemprop="text">
       {{ content }}
