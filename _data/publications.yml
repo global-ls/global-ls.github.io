@@ -43,4 +43,10 @@ books:
       image       :  /assets/images/cuadernos-de-literatura.png
       url         :  https://revistas.javeriana.edu.co/index.php/cualit/article/view/28691
       responsible :  Jorge J. Locane
-      publisher   :  Cuadernos de literatura, 46  
+      publisher   :  Cuadernos de literatura, 46
+
+   -  title       :  "Specialisation and Institutionalisation: The Transnational Professionalisation of European Literary Criticism during the Interwar Period"
+      image       :  /assets/images/csh.png
+      url         :  https://www.tandfonline.com/doi/full/10.1080/14780038.2020.1723308
+      responsible :  Diana Roig-Sanz
+      publisher   :  Cultural and Social History

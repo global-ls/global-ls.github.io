@@ -1,11 +1,9 @@
 ---
-title: "Call for Papers and Panels ‘The Making of the Humanities IX’, Barcelona"
+title: "<strong>Call for papers for the 9th Making of the Humanities conference</strong>, UOC-UPF. Barcelona, 21-23 September 2020"
 permalink: /news/cfp-making-humanities/
-tags: [call]
+tags: [call, Neus Rotger]
 ---
-‘The Making of the Humanities’ conference goes to Barcelona! The Universitat Pompeu Fabra (UPF) together with the Universitat Oberta de Catalunya (UOC) will host the 9th Making of the Humanities conference, from 21 to 23 September 2020, at the facilities of the UPF Faculty of Humanities.  
-Panels and papers on any period or region are welcome. Special interest is given to work that transcend the history of specific humanities disciplines by comparing scholarly practices across disciplines and civilisations.  
-The deadline for submitting abstracts and panel proposals is **7 May 2020**.
+Panels and papers on any period or region are welcome. Special interest is given to work that transcends the history of specific humanities disciplines by comparing scholarly practices across disciplines and civilisations. **Neus Rotger** is part of the local organizing committee. **Final deadline** for the submission of abstracts and panel proposals: **7 May 2020**.
 
 ### Goal of the Making of the Humanities (MoH) Conferences
 
@@ -46,5 +44,10 @@ Notification of acceptance: June 2020
 
 The exact conference fee will be determined in spring 2020 and will be ca. €100 for regular participants and ca. €80 for PhD students. The fee includes access to all sessions, access to the welcoming reception, simple lunches, and tea and/or coffee during the breaks.
 
+### Organization
+
+Local Organizing Committee: Daniele Cozzoli (UPF), Linda Gale Jones (UPF), Tomas Macsotay (UPF) and Neus Rotger (UOC)
+
+Program Committee: [International Board of the Society](http://www.historyofhumanities.org/about-the-society/)
 
 This call is originally published on the site of [The Society for the History of the Humanities](http://www.historyofhumanities.org/2019/12/13/call-for-papers-and-panels-the-making-of-the-humanities-ix/).
