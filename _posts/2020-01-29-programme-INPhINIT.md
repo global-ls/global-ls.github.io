@@ -1,6 +1,7 @@
 ---
 title: "Doctoral fellowship programme INPhINIT “la Caixa”"
 permalink: /news/programme-INPhINIT/
+slide: "no"
 ---
 30 PhD fellowships for researchers willing to carry out their PhD project in any research domain and any university or research center in Spain or Portugal.  
 Application deadline: 12 February.

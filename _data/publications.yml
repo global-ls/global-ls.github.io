@@ -1,4 +1,4 @@
-books:
+book:
    -  title       :  Literary Translation and Cultural Mediators in ‘Peripheral’ Cultures
       image       :  /assets/images/literary-translation.jpg
       url         :  https://www.palgrave.com/gp/book/9783319781136
@@ -13,14 +13,6 @@ books:
       responsible :  Marta Puxan-Oliva
       place       :  London/New York
       publisher   :  Routledge
-      date        :  2019
-
-   -  title       :  "Dossier: Políticas de la poesía latinoamericana. Soportes y circulaciones disidentes."
-      image       :  /assets/images/jardin-poetas-V8.jpg
-      url         :  http://cajaderesonancia.com/index.php?mod=jardin&view=detalle&id=505
-      responsible :  Irina Garbatzky y Jorge J. Locane (coords.)
-      place       :  El jardín de los poetas. Revista de teoría y crítica de poesía latinoamericana, V, 8
-      publisher   :
       date        :  2019
 
    -  title       :  "Cultural Organizations, Networks and Mediators in Contemporary Ibero-America"
@@ -38,6 +30,24 @@ books:
       place       :  Berlin
       publisher   :  DeGruyter
       date        :  2020
+
+
+journal:
+   -  title       :  "Dossier: Políticas de la poesía latinoamericana. Soportes y circulaciones disidentes."
+      image       :  /assets/images/jardin-poetas-V8.jpg
+      url         :  http://cajaderesonancia.com/index.php?mod=jardin&view=detalle&id=505
+      responsible :  Irina Garbatzky y Jorge J. Locane (coords.)
+      place       :  El jardín de los poetas. Revista de teoría y crítica de poesía latinoamericana, V, 8
+      publisher   :
+      date        :  2019
+
+   -  title       :  "Historicizing the global: an interdisciplinary perspective"
+      image       :  /assets/images/jogh.jpg
+      url         :  https://www.cambridge.org/core/journals/journal-of-global-history/issue/historicizing-the-global-an-interdisciplinary-perspective/8254B24B45B2D908736F4915B4B6A3D3
+      responsible :  Neus Rotger, Diana Roig-Sanz and Marta Puxan-Oliva (eds.)
+      place       :  "Special issue of the Journal of Global History, 14(3)"
+      publisher   :
+      date        :  2019
 
    -  title       :  "Dispersiones de la memoria, flujos y porosidades en la serie Manglares (1997, [2005], 2006, 2013), de Tomás González "
       image       :  /assets/images/cuadernos-de-literatura.png
