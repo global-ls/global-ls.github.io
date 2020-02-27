@@ -14,7 +14,7 @@ main:
   #- title: "Join us"
    # url: /join-us/
 #  - title: "Calls"
-#    url: /calls/   
+#    url: /calls/
   - title: "News archive"
     url: /news/
   - title: "Contact"
@@ -64,5 +64,7 @@ activities:   #navigation sidebar for Activities
           url: /activities/conferences/
 
 pubs:   #navigation sidebar for Publications
-        - title: "Books and edited collections"
+        - title: "Books and Edited Volumes"
           url: /publications/
+        - title: "Journal Articles"
+          url: /publications/articles/

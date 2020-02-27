@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Books and Edited Volumes
-permalink: /publications/
+title: Journal Articles and Special Issues
+permalink: /publications/articles/
 classes: wide
 entries_layout: grid
 sidebar:
         nav: pubs
-pub-type: book
+pub-type: journal
 ---
 {%- assign type = page.pub-type -%}
 {%- assign publications = site.data.publications[type] | reverse  -%}
@@ -18,7 +18,7 @@ pub-type: book
    <div class="archive__item">
       {%- if pub.image -%}
          {%- if pub.image contains "://" -%}
-            {%- assign pub-img = book.image -%}
+            {%- assign pub-img = pub.image -%}
          {%- else -%}
             {%- assign pub-img = pub.image | relative_url -%}
          {%- endif -%}
