@@ -18,7 +18,7 @@ pub-type: book
    <div class="archive__item">
       {%- if pub.image -%}
          {%- if pub.image contains "://" -%}
-            {%- assign pub-img = book.image -%}
+            {%- assign pub-img = pub.image -%}
          {%- else -%}
             {%- assign pub-img = pub.image | relative_url -%}
          {%- endif -%}
