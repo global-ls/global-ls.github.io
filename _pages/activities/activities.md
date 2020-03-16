@@ -10,28 +10,18 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption  
 ---
-## *Between success and failure – Cultural mediators of regionalist movements (1880-1930)*
-### Maud Gonne (Université de Namur / Université catholique de Louvain)
-##### Wednesday, 11 March 2020, 16:00 - 18:00. UOC | Building Tibidabo 3 | Sala Hannah Arendt | Avinguda Tibidabo, 47 | Barcelona
+## [Future States: Modernity and National Identity in Popular Magazines, 1890-1945. A nearly carbon-neutral conference (NCNC)](https://www.futurestates.org/)
+##### 23 March - 5 April, 2020 - Online
 
-Abstract:  
-Recent studies have demonstrated that the construction of national or regional identities in the 19th and 20th centuries was intimately connected to transfers in the fields of art and literature. These transfers were enacted by a handful of cultural mediators who created networks and exchanged, translated, and manipulated cultural discourses across borders. Yet the traditional historical focus on successful processes has overshadowed the crucial fact that many of these intercultural initiatives failed to result in legitimate cultural constructions. In Belgium, the Walloon cultural identity, which is called “weak” today, due to a perceived lack of a proper language, of founding myths, of canonized literature and art, etc. seems to have missed its process of cultural legitimation, and contrasts with a “strong” Flemish identity, built on a successful movement of cultural and linguistic emancipation. Between 1880 and 1930, however, one witnesses a typical Romantic quest for a Walloon regional identity, including a proliferation of cultural transfer activities by mediators who translated Walloon literature, composed anthologies, set up exhibitions of Walloon art, promoted Walloon identity in international journals, etc. Similar (more or less successful) identity dynamics can be found at the same period in other regional cultures, including in Canada, France and Spain. What can we learn from failed stories? Can our methodological frameworks account for failures? On what comparative scale can we measure failures? I aim to reflect on these questions by connecting Actor-Network-Theory and Complexity thinking and exploring the intricate and unpredictable interactions between local interventions by cultural mediators and global cultural dynamics. I finally hope to open up new avenues for thinking through cultural identity negotiation in relation to interculturality and transfers, while addressing the incompleteness of (intercultural) history, as written by the “winners”.
+With the participation of **Laura Fólica**: "Between the local and the international: The role of literary translation in Revista Nosotros (1907-1943)".
 
-**Maud Gonne** is a FNRS postdoctoral fellow in Translation Studies at the Universities of Namur and Louvain-La-Neuve (Belgium). Her research interests concern literary translations, transfers, cultural mediators, minority identities and Belgian literature. She has published various articles on these topics (see https://researchportal.unamur.be/fr/persons/maud-gonne). She is the author of Contrebande littéraire et culturelle à la Belle Époque (Leuven University Press, 2017) and co-editor of Belgian cultural Mediators, 1830-1945. Crossing Borders, Borders resisting (Revue belge de philologie et d’histoire, 2014). She is an active member of the Namur institute of Language, Text and Transmediality (http://naltt.unamur.be/).
+Future States, a nearly carbon-neutral conference (NCNC) hosted by the Centre for Design History, University of Brighton, is now open for registration. The conference explores the constructive tensions between modernity and nationalism in popular magazines across the globe, in the late nineteenth and early twentieth century. Running from 23 March – 5 April 2020, this is a landmark event in magazine studies, with talks by 35 leading scholars from 15 countries, and multiple Q&As and discussion forums. But there are no air tickets, hotel bookings, or conference packs – and no registration fee. Attendance at Future States is free, and open to all.
 
 
-Texts for discussion:  
-Cronin, Michael (2003). “Translation and minority languages in a global setting”. Translation and Globalization. New York: Routledge, 138-170.
-
-Gonne, Maud (2018). "From binarity to complexity: a Latourian perspective on cultural mediators: The case of Georges Eekhoud’s intra-national activities". In Diana Roig Sanz & Reine Meylaerts (eds.), Literary translation and Cultural Mediators in ‘Peripheral’ Cultures: Customs Officers or Smugglers?  New York: Palgrave MacMillan, 263-290.
-
-Marais, Kobus, and Reine Meylaerts (2019). “Introduction”. Complexity thinking in Translation Studies. Methodological considerations. New York and London: Routledge, 1-18.
-
-
-## IV Global Literary Studies International Seminar: *The Global Novel*
+## POSTPONED: IV Global Literary Studies International Seminar: *The Global Novel*
 ### *La World Literature, entre textualidad y mundialidad*  
 **Fernando Cabo Aseguinolaza** (Universidad de Santiago de Compostela)
-##### Tuesday, 24 March 2020, 16:00-18:00. UOC, Building Tibidabo 3, Room Hannah Arendt.
+
 
 Resumen:  
 Transcurridos algo más de dos décadas desde la eclosión académica de la World Literature, se han ido haciendo patentes algunas de sus ambigüedades y debilidades de fondo, así como la inevitabilidad de la reformulación del marco de análisis de los estudios literarios contemporáneos. En la sesión, se abordarán algunos de estos aspectos, casi como líneas de fuga de una propuesta mucho menos homogénea de lo que a veces se estima. Concretamente, se incidirá en la tensión implícita de ciertas dicotomías, entre términos no siempre excluyentes, que articulan el campo y que se resumen en el título. Para ello se tomará como referencia la conversación entre Pheng Cheah y David Damrosch, que tuvo lugar durante la sesión de 2018 del Instituto de Literatura Mundial, celebrada en Tokio, junto a dos textos propios de distinto alcance en donde, de forma explícita e implícita, se abordan algunas de las dicotomías apuntadas.
@@ -46,10 +36,21 @@ Cabo Aseguinolaza, Fernando. “Memoria, (pos)lugar y biopoder en un thriller li
 
 Cheah, Pheng; David Damrosh. “What Is a World (Literature)?”. Journal of World Literature 4:3 (2019): 305-329. / “¿Qué es un mundo? ¿Qué es una literatura mundial? Una discusión.” Trad. César Domínguez. 1616: Anuario de Literatura Comparada 9 (2019): 287-315.
 
-## Paper: "World, Global, Planetary Novels: Current Debates"
+## POSTPONED Paper: "World, Global, Planetary Novels: Current Debates"
 ### [Society for Novel Studies Biennial Conference: The Novel’s New Worlds](https://www.english.ox.ac.uk/event/society-novel-studies)
-##### 2-4 April 2020, St. John’s College, University of Oxford
+
 Paper by **Neus Rotger**
+
+
+## POSTPONED [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
+
+Avec la participation de **Laura Fólica**
+
+
+Après un premier congrès en juin 2015, Médias 19 et Numapresse organisent une deuxième grande manifestation qui se tiendra à Paris, du 8 au 11 juin 2020, pour faire état de la recherche actuelle sur la presse, à l’heure de la numérisation des corpus.
+
+Le projet scientifique franco-québécois Médias 19, articulé autour de la plateforme numérique www.medias19.org, a été le cadre de développement d’une réflexion, depuis 2011, sur les pratiques journalistiques au XIXe siècle, sur la valorisation et l’analyse des corpus, ainsi que sur l’étude du développement de la culture médiatique dans l’espace francophone. Depuis 2017, le projet scientifique international Numapresse, financé par l’Agence Nationale pour la Recherche française www.numapresse.org, ambitionne de proposer une nouvelle histoire culturelle et littéraire de la presse française, du XIXe siècle à nos jours, en mobilisant les grands corpus de presse numérisés et les nouveaux outils de text et data mining.
+
 
 ## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
 

@@ -10,6 +10,23 @@ photos:
         size:  # small, medium (default), or large
         caption: # photo caption
 ---
+## *Between success and failure – Cultural mediators of regionalist movements (1880-1930)*
+### Maud Gonne (Université de Namur / Université catholique de Louvain)
+##### Wednesday, 11 March 2020, 16:00 - 18:00. UOC | Building Tibidabo 3 | Sala Hannah Arendt | Avinguda Tibidabo, 47 | Barcelona
+
+Abstract:  
+Recent studies have demonstrated that the construction of national or regional identities in the 19th and 20th centuries was intimately connected to transfers in the fields of art and literature. These transfers were enacted by a handful of cultural mediators who created networks and exchanged, translated, and manipulated cultural discourses across borders. Yet the traditional historical focus on successful processes has overshadowed the crucial fact that many of these intercultural initiatives failed to result in legitimate cultural constructions. In Belgium, the Walloon cultural identity, which is called “weak” today, due to a perceived lack of a proper language, of founding myths, of canonized literature and art, etc. seems to have missed its process of cultural legitimation, and contrasts with a “strong” Flemish identity, built on a successful movement of cultural and linguistic emancipation. Between 1880 and 1930, however, one witnesses a typical Romantic quest for a Walloon regional identity, including a proliferation of cultural transfer activities by mediators who translated Walloon literature, composed anthologies, set up exhibitions of Walloon art, promoted Walloon identity in international journals, etc. Similar (more or less successful) identity dynamics can be found at the same period in other regional cultures, including in Canada, France and Spain. What can we learn from failed stories? Can our methodological frameworks account for failures? On what comparative scale can we measure failures? I aim to reflect on these questions by connecting Actor-Network-Theory and Complexity thinking and exploring the intricate and unpredictable interactions between local interventions by cultural mediators and global cultural dynamics. I finally hope to open up new avenues for thinking through cultural identity negotiation in relation to interculturality and transfers, while addressing the incompleteness of (intercultural) history, as written by the “winners”.
+
+**Maud Gonne** is a FNRS postdoctoral fellow in Translation Studies at the Universities of Namur and Louvain-La-Neuve (Belgium). Her research interests concern literary translations, transfers, cultural mediators, minority identities and Belgian literature. She has published various articles on these topics (see https://researchportal.unamur.be/fr/persons/maud-gonne). She is the author of Contrebande littéraire et culturelle à la Belle Époque (Leuven University Press, 2017) and co-editor of Belgian cultural Mediators, 1830-1945. Crossing Borders, Borders resisting (Revue belge de philologie et d’histoire, 2014). She is an active member of the Namur institute of Language, Text and Transmediality (http://naltt.unamur.be/).
+
+
+Texts for discussion:  
+Cronin, Michael (2003). “Translation and minority languages in a global setting”. Translation and Globalization. New York: Routledge, 138-170.
+
+Gonne, Maud (2018). "From binarity to complexity: a Latourian perspective on cultural mediators: The case of Georges Eekhoud’s intra-national activities". In Diana Roig Sanz & Reine Meylaerts (eds.), Literary translation and Cultural Mediators in ‘Peripheral’ Cultures: Customs Officers or Smugglers?  New York: Palgrave MacMillan, 263-290.
+
+Marais, Kobus, and Reine Meylaerts (2019). “Introduction”. Complexity thinking in Translation Studies. Methodological considerations. New York and London: Routledge, 1-18.
+
 ## IV Global Literary Studies International Seminar: *The GLobal Novel*
 
 ##### Wednesday, 29 January 2020, 16:00-18:00. UOC, Building Tibidabo 3, Room Hannah Arendt.
