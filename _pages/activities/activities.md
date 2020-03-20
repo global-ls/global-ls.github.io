@@ -31,6 +31,15 @@ Ana Kvirikashvili
 Pau Bosch
 
 
+## [ISIH 2020 Conference: Change and Exchange](http://isih.history.ox.ac.uk/?page_id=6201)
+
+##### 27 – 29 May 2020, European University Institute
+
+### With the participation of Neus Rotger
+
+The suddenness of many recent changes has led to a widespread feeling of bewilderment and led many to retreat into what are seen as safe places and idealised pasts, rejection of difference and increasingly violent and intolerant social exchange. At the same time, the evidence of climate change is making people increasingly aware of the need to rethink our way of life. It therefore seems an appropriate moment to look at how change has been understood and conceptualised in the past, how changes in ways of thinking, concepts and paradigms have come about, the strength of resistance to change, and the role of exchange – intellectual and material – in this process. Change and Exchange proposes to explore historical, philosophical, cultural, material, social, environmental and scientific change, the varieties of social, intellectual, material, economic, etc. exchange and the interactions between the two. It will also look at change and exchange in the field of Intellectual History itself.
+
+
 ## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
 
 ### [Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion](https://research.uni-leipzig.de/eniugh/congress/)
