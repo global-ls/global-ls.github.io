@@ -17,6 +17,28 @@ With the participation of **Laura Fólica**: "Between the local and the internat
 
 Future States, a nearly carbon-neutral conference (NCNC) hosted by the Centre for Design History, University of Brighton, is now open for registration. The conference explores the constructive tensions between modernity and nationalism in popular magazines across the globe, in the late nineteenth and early twentieth century. Running from 23 March – 5 April 2020, this is a landmark event in magazine studies, with talks by 35 leading scholars from 15 countries, and multiple Q&As and discussion forums. But there are no air tickets, hotel bookings, or conference packs – and no registration fee. Attendance at Future States is free, and open to all.
 
+## X Doctoral Seminar in Literary Studies [Virtual Seminar]
+##### 4-8 May 2020
+*Mediterráneo global. Representaciones del litoral en crisis en la novela contemporánea (1990-2020)*  
+Aina Vidal
+
+##### 25-29 May 2020
+*The circulation of Georgian literature: between the local and the global (1995-2020)*  
+Ana Kvirikashvili
+
+##### 8-12 June 2020
+*The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1970 to the Present Seen through Prizes*  
+Pau Bosch
+
+
+## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
+
+### [Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion](https://research.uni-leipzig.de/eniugh/congress/)
+
+##### 25-28 June 2020, Turku, Finland  
+
+Panel organised by **Ana Kvirikashvili**, **Elisabet Carbó** and **Diana Roig Sainz**
+
 
 ## POSTPONED: IV Global Literary Studies International Seminar: *The Global Novel*
 ### *La World Literature, entre textualidad y mundialidad*  
@@ -50,12 +72,3 @@ Avec la participation de **Laura Fólica**
 Après un premier congrès en juin 2015, Médias 19 et Numapresse organisent une deuxième grande manifestation qui se tiendra à Paris, du 8 au 11 juin 2020, pour faire état de la recherche actuelle sur la presse, à l’heure de la numérisation des corpus.
 
 Le projet scientifique franco-québécois Médias 19, articulé autour de la plateforme numérique www.medias19.org, a été le cadre de développement d’une réflexion, depuis 2011, sur les pratiques journalistiques au XIXe siècle, sur la valorisation et l’analyse des corpus, ainsi que sur l’étude du développement de la culture médiatique dans l’espace francophone. Depuis 2017, le projet scientifique international Numapresse, financé par l’Agence Nationale pour la Recherche française www.numapresse.org, ambitionne de proposer une nouvelle histoire culturelle et littéraire de la presse française, du XIXe siècle à nos jours, en mobilisant les grands corpus de presse numérisés et les nouveaux outils de text et data mining.
-
-
-## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
-
-### [Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion](https://research.uni-leipzig.de/eniugh/congress/)
-
-##### 25-28 June 2020, Turku, Finland  
-
-Panel organised by **Ana Kvirikashvili**, **Elisabet Carbó** and **Diana Roig Sainz**

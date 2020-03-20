@@ -5,20 +5,15 @@
   <table style="font-size: small">
     {% for e in site.data.events %}
       <tr>
-        <td style="text-align:center">
-          {% if e.date2 %}
-            {% if e.separate_dates %}
-            {{ e.date1 }}, {{ e.date2 }}
-            {% else %}
-            {{ e.date1 }} - {{ e.date2 }}
-            {% endif %}
-          {% else %}
-            {{ e.date1 }}
-          {% endif %}
+        <td style="text-align:left; white-space:nowrap">
+            {% for date in e.dates %}
+                {{ date }} <br>
+              {% else %}  {{ "TBD" }}
+            {% endfor %}
         </td>
-        <td> {{ e.title }}  </td>
+        <td> {{ e.title }} </td>
       </tr>
-      {% endfor %}
+    {% endfor %}
   </table>
   </a>
 </nav>
