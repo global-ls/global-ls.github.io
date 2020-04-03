@@ -11,7 +11,11 @@ photos:
       caption: # photo caption  
 ---
 ## [Future States: Modernity and National Identity in Popular Magazines, 1890-1945. A nearly carbon-neutral conference (NCNC)](https://www.futurestates.org/)
-##### 23 March - 5 April, 2020 - Online
+##### <s>23 March - 05 April</s> 30 March - 17 April 2020 - Online
+
+The dates of the conference have been changed to 30 March - 17 April.  
+Check the conference noticeboard [here](https://www.futurestates.org/index.php/noticeboard/).
+{: .notice--primary}
 
 With the participation of **Laura Fólica**: "Between the local and the international: The role of literary translation in Revista Nosotros (1907-1943)".
 
