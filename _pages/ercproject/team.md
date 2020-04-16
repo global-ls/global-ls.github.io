@@ -1,17 +1,18 @@
 ---
+title: "Researchers"
 layout: single
-title: "PhD Students"
-permalink: /team/phd/
+permalink: /ercproject/team/
 classes: wide
 sidebar:
-        nav: "team"
+        nav: mapmodern
 team:
-   - res: Pau Bosch Santos
+   - res: Diana Roig Sanz
+   - res: Laura Fólica
+   - res: Ventsislav Ikoff
    - res: Elisabet Carbó Catalan
    - res: Ainamar Clariana Rodagut
    - res: Pablo Suárez-Mansilla
-   - res: Ana Kvirikashvili
-   - res: Aina Vidal Pérez
+
 ---
 <section class="entries-grid">
 {%- assign team = page.team -%}

@@ -60,3 +60,16 @@ journal:
       url         :  https://www.tandfonline.com/doi/full/10.1080/14780038.2020.1723308
       responsible :  Diana Roig-Sanz
       publisher   :  Cultural and Social History
+      date        :  2020
+
+data:
+   -  title       :  "Translations and Reviews in Iberoamerican Modernist Periodicals (dataset)"
+      url         :  https://b2share.eudat.eu/records/eb5c468d3dc3401c8b2fb4605d868a00
+      responsible :  Laura Fólica, Ventsislav Ikoff and Diana Roig Sanz
+      date       : 12.12.2018
+
+   -  title       : "MapModern database model"
+      url         : http://doi.org/10.5281/zenodo.3737842
+      responsible : Ventsislav Ikoff and Diana Roig-Sanz
+      publisher   : Zenodo
+      date        : 02.04.2020

@@ -1,0 +1,173 @@
+{%- assign type = page.pub-type -%}
+{%- assign publications = site.data.publications[type] | reverse  -%}
+
+{% case type %}
+  {% when "book" %}
+
+  <div class="grid-entries">
+
+  {%- for pub in publications -%}
+    {% comment %} check if the publication is ERC-project related {% endcomment %}
+      {% if page.permalink contains "ercproject" %}
+        {% unless pub.date > 2018 and
+            pub.responsible contains "Diana Roig" or
+            pub.responsible contains "Laura Fólica" or
+            pub.responsible contains "Ventsislav Ikoff" or
+            pub.responsible contains "Elisabet Carbó" or
+            pub.responsible contains "Ainamar Clariana" or
+            pub.responsible contains "Pablo Suárez" %}
+          {% continue %}
+        {% endunless% }
+      {% endif %}
+      {% endif %}
+
+      <div class="grid__item-adjust">
+      <div class="archive__item">
+      {%- if pub.image -%}
+         {%- if pub.image contains "://" -%}
+            {%- assign pub-img = pub.image -%}
+         {%- else -%}
+            {%- assign pub-img = pub.image | relative_url -%}
+         {%- endif -%}
+      {%- else -%}
+         {%- assign pub-img = "assets/images/book-placeholder.png" | relative_url -%}
+      {%- endif -%}
+
+      {%- if pub.url -%}
+         <a href="{{- pub.url -}}">
+         <img src="{{- pub-img -}}" style="max-height:13em">
+         <p style="font-size: 0.65em"><em>{{- pub.title -}}</em></p>
+         </a>
+      {%- else -%}
+         <img src="{{- pub-img -}}" style="height=auto; max-height:13em">
+         <p style="font-size: 0.65em"><em>{{- pub.title -}}</em></p>
+      {%- endif -%}
+      <p style="font-size: 0.61em">
+         {%- if pub.responsible -%}
+            by <span style="color:lightslategray"><strong>{{- pub.responsible -}}</strong></span>
+         {%- endif -%}
+         <br>
+         {%- if pub.date -%}
+            {%- if pub.place and pub.publisher -%}
+               {{ pub.place }}: {{ pub.publisher }}, {{ pub.date }}
+            {%- elsif pub.place or pub.publisher -%}
+               {{- pub.place -}}{{- pub.publisher -}}, {{ pub.date }}
+            {%- else -%} {{- pub.date -}}
+            {%- endif -%}
+         {%- elsif pub.place and pub.publisher -%}
+            {{ pub.place }}: {{ pub.publisher }}
+            {%- else -%} {{- pub.place -}} {{- pub.publisher -}}
+         {%- endif -%}
+      </p>
+
+      </div>
+      </div>
+    {%- endfor -%}
+    </div>
+
+  {% when "journal" %}
+
+  <div class="grid-entries">
+
+  {%- for pub in publications -%}
+
+  {% comment %} check if the publication is ERC-project related {% endcomment %}
+    {% if page.permalink contains "ercproject" %}
+      {% unless pub.date > 2018 and
+          pub.responsible contains "Diana Roig" or
+          pub.responsible contains "Laura Fólica" or
+          pub.responsible contains "Ventsislav Ikoff" or
+          pub.responsible contains "Elisabet Carbó" or
+          pub.responsible contains "Ainamar Clariana" or
+          pub.responsible contains "Pablo Suárez" %}
+        {% continue %}
+      {% endunless% }
+    {% endif %}
+    {% endif %}
+
+    <div class="grid__item-adjust">
+    <div class="archive__item">
+      {%- if pub.image -%}
+         {%- if pub.image contains "://" -%}
+            {%- assign pub-img = pub.image -%}
+         {%- else -%}
+            {%- assign pub-img = pub.image | relative_url -%}
+         {%- endif -%}
+      {%- else -%}
+         {%- assign pub-img = "assets/images/book-placeholder.png" | relative_url -%}
+      {%- endif -%}
+
+      {%- if pub.url -%}
+         <a href="{{- pub.url -}}">
+         <img src="{{- pub-img -}}" style="max-height:13em">
+         <p style="font-size: 0.65em"><em>{{- pub.title -}}</em></p>
+         </a>
+      {%- else -%}
+         <img src="{{- pub-img -}}" style="height=auto; max-height:13em">
+         <p style="font-size: 0.65em"><em>{{- pub.title -}}</em></p>
+      {%- endif -%}
+      <p style="font-size: 0.61em">
+         {%- if pub.responsible -%}
+            by <span style="color:lightslategray"><strong>{{- pub.responsible -}}</strong></span>
+         {%- endif -%}
+         <br>
+         {%- if pub.date -%}
+            {%- if pub.place and pub.publisher -%}
+               {{ pub.place }}: {{ pub.publisher }}, {{ pub.date }}
+            {%- elsif pub.place or pub.publisher -%}
+               {{- pub.place -}}{{- pub.publisher -}}, {{ pub.date }}
+            {%- else -%} {{- pub.date -}}
+            {%- endif -%}
+         {%- elsif pub.place and pub.publisher -%}
+            {{ pub.place }}: {{ pub.publisher }}
+            {%- else -%} {{- pub.place -}} {{- pub.publisher -}}
+         {%- endif -%}
+      </p>
+
+      </div>
+      </div>
+    {%- endfor -%}
+    </div>
+
+  {% when "data" %}
+
+  {%- for pub in publications -%}
+
+  {% comment %} check if the publication is ERC-project related {% endcomment %}
+    {% if page.permalink contains "ercproject" %}
+      {% unless pub.date > 2018 and
+          pub.responsible contains "Diana Roig" or
+          pub.responsible contains "Laura Fólica" or
+          pub.responsible contains "Ventsislav Ikoff" or
+          pub.responsible contains "Elisabet Carbó" or
+          pub.responsible contains "Ainamar Clariana" or
+          pub.responsible contains "Pablo Suárez" %}
+        {% continue %}
+      {% endunless% }
+    {% endif %}
+    {% endif %}
+
+  <p>
+      {%- if pub.url -%}
+         <a href="{{- pub.url -}}"><em>{{- pub.title -}}</em></a>
+      {%- else -%}
+         <p><em>{{- pub.title -}}</em>
+      {%- endif -%}
+         {%- if pub.responsible -%}
+             <span>{{- pub.responsible | prepend: ". " | append: ". " -}}</span>
+         {%- endif -%}
+         {%- if pub.date -%}
+            {%- if pub.place and pub.publisher -%}
+               {{ pub.place }}: {{ pub.publisher }}, {{ pub.date }}
+            {%- elsif pub.place or pub.publisher -%}
+               {{- pub.place -}}{{- pub.publisher -}}, {{ pub.date }}
+            {%- else -%} {{- pub.date -}}
+            {%- endif -%}
+         {%- elsif pub.place and pub.publisher -%}
+            {{ pub.place }}: {{ pub.publisher }}
+            {%- else -%} {{- pub.place -}} {{- pub.publisher -}}
+         {%- endif -%}
+  </p>
+    {%- endfor -%}
+
+{% endcase %}

@@ -1,6 +1,5 @@
 # main links
 main:
-
   - title: "About"
     url: /about/
   - title: "Team"
@@ -11,8 +10,9 @@ main:
     url: /publications/
   - title: "Projects"
     url: /projects/
-  #- title: "Join us"
-   # url: /join-us/
+  - title: "ERC Grant"
+    url: /ercproject/
+    background: special
 #  - title: "Calls"
 #    url: /calls/
   - title: "News archive"
@@ -32,11 +32,8 @@ team:    #navigation sidebar for Team
              url: /team/researchers/marta-puxan/
          -   title: "Neus Rotger"
              url: /team/researchers/neus-rotger/
-         -   title: "Jorge J. Locane"
-             url: /team/researchers/jorge-locane/
          -   title: "Ventsislav Ikoff"
              url: /team/researchers/ventsislav-ikoff/
-
   - title: "PhD Students"
     url: /team/phd/
     children:
@@ -52,6 +49,21 @@ team:    #navigation sidebar for Team
              url: /team/phd/pablo-suarez-mansilla/
          -   title: "Aina Vidal Pérez"
              url: /team/phd/aina-vidal/
+  - title: "Visiting Scholars"
+    url: /team/visiting/
+    children:
+         -   title: "Jorge J. Locane"
+             url: /team/visiting/jorge-locane/
+         -   title: "Paulo Lemos Horta"
+         -   title: Maud Gonne
+#             url: /team/visiting/maud-gonne/
+  - title: "Research Assistants"
+    url: /team/assistants/
+    children:
+         -   title: "Helena Herrera Clapers"
+#             url: /team/assistants/helena-herrera/
+         -   title: Lucía Leandro Hernández
+             url: /team/assistants/lucia-leandro/
 
 activities:   #navigation sidebar for Activities
         - title: "Upcoming events"
@@ -64,7 +76,34 @@ activities:   #navigation sidebar for Activities
           url: /activities/conferences/
 
 pubs:   #navigation sidebar for Publications
-        - title: "Books and Edited Volumes"
+        - title: "Books and edited collections"
           url: /publications/
-        - title: "Journal Articles"
+        - title: "Articles"
           url: /publications/articles/
+        - title: "Data"
+          url: /publications/data/
+
+ercproject: #navigation sidebar for the MapModern project
+        - title: "About the project"
+          url: /ercproject/
+        - title: "Team"
+          url: /ercproject/team/
+        - title: "Events"
+          url: /ercproject/events/
+          children:
+            - title: Conferences
+              url: /ercproject/events/
+            - title: Reading Seminars
+              url: /ercproject/events/seminars/
+            - title: Meetings with Institutions
+              url: /ercproject/events/meetings/
+
+        - title: "Publications"
+          url: /ercproject/publications/
+          children:
+            - title: Books
+              url: /ercproject/publications/
+            - title: Book Chapters
+              url: /ercproject/publications/chapters/
+            - title: Journal Articles
+              url: /ercproject/publications/articles/

@@ -1,17 +1,13 @@
 ---
+title: "Research Assistants"
 layout: single
-title: "PhD Students"
-permalink: /team/phd/
+permalink: /team/assistants/
 classes: wide
 sidebar:
         nav: "team"
 team:
-   - res: Pau Bosch Santos
-   - res: Elisabet Carbó Catalan
-   - res: Ainamar Clariana Rodagut
-   - res: Pablo Suárez-Mansilla
-   - res: Ana Kvirikashvili
-   - res: Aina Vidal Pérez
+   - res: Helena Herrera Clapers
+   - res: Lucía Leandro Hernández   
 ---
 <section class="entries-grid">
 {%- assign team = page.team -%}

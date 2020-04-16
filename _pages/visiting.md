@@ -1,17 +1,14 @@
 ---
+title: "Visiting Scholars"
 layout: single
-title: "PhD Students"
-permalink: /team/phd/
+permalink: /team/visiting/
 classes: wide
 sidebar:
         nav: "team"
 team:
-   - res: Pau Bosch Santos
-   - res: Elisabet Carbó Catalan
-   - res: Ainamar Clariana Rodagut
-   - res: Pablo Suárez-Mansilla
-   - res: Ana Kvirikashvili
-   - res: Aina Vidal Pérez
+   - res: Jorge J. Locane
+   - res: Paulo Lemos Horta
+   - res: Maud Gonne   
 ---
 <section class="entries-grid">
 {%- assign team = page.team -%}
