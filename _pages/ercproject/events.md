@@ -1,6 +1,6 @@
 ---
 layout: single
-#title: Participation in Conferences
+title: UPCOMING CONFERENCES
 permalink: /ercproject/events/
 sidebar:
         nav: ercproject
@@ -13,7 +13,6 @@ sidebar:
 #      size: small # small, medium (default), or large
 #      caption: # Any text
 ---
-# UPCOMING CONFERENCES
 
 ## International Networks and Mexican Mediators
 ##### UNAM, Mexico D.F., Mexico, November 21-22, 2020.  

@@ -4,7 +4,7 @@ layout: single
 permalink: /ercproject/team/
 classes: wide
 sidebar:
-        nav: mapmodern
+        nav: ercproject
 team:
    - res: Diana Roig Sanz
    - res: Laura Fólica
