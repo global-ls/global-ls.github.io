@@ -1,6 +1,6 @@
 ---
 layout: profile
-permalink: "/team/researchers/jorge-locane/"
+permalink: "/team/visiting/jorge-locane/"
 sidebar:
         nav: team
 person: Jorge J. Locane
