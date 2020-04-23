@@ -13,7 +13,7 @@ sidebar:
 #      size: small # small, medium (default), or large
 #      caption: # Any text
 ---
-## Cultural Organizations: Between the Local and the Global (1880s-1960s)
+## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/calls/)
 ##### Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain). November 19-20, 2020
 
 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
