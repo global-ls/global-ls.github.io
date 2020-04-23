@@ -4,7 +4,7 @@ layout: single
 permalink: /calls/
 ---
 
-## International Conference Cultural Organizations: Between the Local and the Global (1880s-1960s)
+## International Conference “Cultural Organizations: Between the Local and the Global (1880s-1960s)”
 
 [Download the full call as pdf.](/assets/docs/cfp_culturalorganizations_uoc_en.pdf){: .btn .btn--inverse .align-center download="cfp-culturalorganizations_uoc_en"}
 
