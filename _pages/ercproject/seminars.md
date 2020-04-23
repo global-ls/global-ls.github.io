@@ -5,7 +5,7 @@ permalink: /ercproject/events/seminars/
 sidebar:
         nav: ercproject
 toc: true
-toc_label: "Semniar subjects"
+toc_label: "Seminar subjects"
 ---
 ## Translation and Press
 
