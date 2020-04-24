@@ -26,7 +26,7 @@ IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 **Submissions**:
 
-Authors should submit an abstract (300 words), filiation, bio-note and a short reference list to Elisabet Carbó (ecarboc@uoc.edu) and Diana Roig Sanz (dsanzr@uoc.edu) **before July 31, 2020**. Papers may be written in English, French, Spanish, or Catalan. During the Conference, an extended summary and a power-point presentation (if used) should be written in English to ensure successful exchanges between participants.
+Authors should submit an abstract (300 words), filiation, bio-note and a short reference list to Elisabet Carbó (ecarboc@uoc.edu) and Diana Roig Sanz (dsanzr@uoc.edu) **before July 15, 2020**. Papers may be written in English, French, Spanish, or Catalan. During the Conference, an extended summary and a power-point presentation (if used) should be written in English to ensure successful exchanges between participants.
 
 **Organizers:**
 

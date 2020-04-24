@@ -54,7 +54,7 @@ What are the main challenges that the study of cultural organizations faces in t
 
 **Submissions:**
 
-Authors should submit an abstract (300 words), filiation, bio-note and a short reference list to Elisabet Carbó (ecarboc@uoc.edu) and Diana Roig Sanz (dsanzr@uoc.edu) **before July 31, 2020**.
+Authors should submit an abstract (300 words), filiation, bio-note and a short reference list to Elisabet Carbó (ecarboc@uoc.edu) and Diana Roig Sanz (dsanzr@uoc.edu) **before July 15, 2020**.
 Papers may be written in English, French, Spanish, or Catalan. During the Conference, an extended summary and a power-point presentation (if used) should be written in English to ensure successful exchanges between participants.
 Participation in the Conference is free, but speakers and assistants must register due to the limited number of seats. The organizers will send the link for registration after the acceptance of all papers.
 The organizers have planned the publication of a collective edited volume in a top-ranked publisher or a special issue in a well-known international journal. All papers will go through a double-blind peer review process.
