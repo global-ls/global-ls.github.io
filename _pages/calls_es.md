@@ -5,7 +5,7 @@ permalink: /es/calls/
 ---
 ## Congreso Internacional "Instituciones Culturales: entre lo local y lo global (1880-1960)"
 
-[Descargar la convocatoria](/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"} [English version](/es/calls/){: .btn .btn--inverse } [Download the call as pdf](/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"}
+[Descargar la convocatoria](/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"} [English version](/calls/){: .btn .btn--inverse } [Download the call as pdf](/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"}
 {: style="text-align:center"}
 
 **Fecha**: 19-20 de noviembre, 2020  
