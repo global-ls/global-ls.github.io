@@ -6,7 +6,8 @@ permalink: /calls/
 
 ## International Conference “Cultural Organizations: Between the Local and the Global (1880s-1960s)”
 
-[Download the full call as pdf.](/assets/docs/cfp_culturalorganizations_uoc_en.pdf){: .btn .btn--inverse .align-center download="cfp-culturalorganizations_uoc_en"}
+[Download the call as pdf](/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"} [Versión en castellano](/es/calls/){: .btn .btn--inverse } [Descargar la convocatoria](/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"}
+{: style="text-align:center"}
 
 **Date**: November 19-20, 2020  
 **Venue**: Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain).
