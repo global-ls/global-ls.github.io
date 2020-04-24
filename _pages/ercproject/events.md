@@ -24,6 +24,8 @@ IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 **Call for Papers**: The call for papers for this conference has been opened. [Read the full call here](/calls/).
 
+[ES] La convocatoria para este congreso está abierta. [Consultar la convocatoria completa aquí](/es/calls/).
+
 **Submissions**:
 
 Authors should submit an abstract (300 words), filiation, bio-note and a short reference list to Elisabet Carbó (ecarboc@uoc.edu) and Diana Roig Sanz (dsanzr@uoc.edu) **before July 15, 2020**. Papers may be written in English, French, Spanish, or Catalan. During the Conference, an extended summary and a power-point presentation (if used) should be written in English to ensure successful exchanges between participants.

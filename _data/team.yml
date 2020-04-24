@@ -281,12 +281,15 @@ Lucía Leandro Hernández:
 
 Paulo Lemos Horta:
    name        : "Paulo Lemos Horta"
-#   bio-short   : "Visiting Scholar"
-#   bio         :
-#   biblio:
-#    - ref:
-   avatar      : "/assets/images/portrait-placeholder.png"
-#   url         : "/team/visiting/paulo-horta/"
+   bio         : "Paulo Lemos Horta is a scholar of world literature, the works, and authors who exert an impact beyond their cultures of origin. He is currently interested in the cross-cultural collaborations that influenced The Thousand and One Nights, and the reception of the works of 16th Century Portuguese author Luis de Camões, who lived in the Middle East and South Asia. His latest book, _Marvellous Thieves: Secret Authors of the Arabian Nights_ will be published by Harvard University Press in January 2017.
+
+
+His position in Abu Dhabi, long a cultural crossroads, will provide him a unique opportunity to further his study of both. He joins NYU Abu Dhabi from Simon Fraser University in Vancouver, Canada, where he was an assistant professor. There, he was instrumental in developing the university’s world literature program from the ground up. He is co-editing a volume for the MLA series Approaches to Teaching World Literature and has presented the results of his research on the 1001 Nights and world literature at Harvard, Cornell, Princeton, SOAS, and the Universidad de Sevilla. At Simon Fraser University he was the recipient of a World Literature and Cultural Research Grant and a President’s Research Grant.
+
+
+At NYU Abu Dhabi, Horta teaches classes on The Thousand and One Nights, the theory and practice of literary translation, and a global history of magic realism, commonly associated with Latin American literature, but also with contemporary Arabic and Persian works. He will bring to the translation course as guest lecturers participants in the Kalima project, an ambitious translation project underway in Abu Dhabi. Horta serves as co-director of a multi-campus research group on world literature, which is hosting a five-year series of interconnected seminars across several continents. He has previously taught classes in political science and literature on globalization, immigration and multiculturalism, and genres and methods in world literature."
+   avatar      : "/assets/images/Paulo.jpg"
+   url         : "/team/visiting/paulo-horta/"
 
 Maud Gonne:
    name        : "Maud Gonne"
