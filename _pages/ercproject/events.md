@@ -1,6 +1,6 @@
 ---
 layout: single
-title: UPCOMING CONFERENCES
+title: ""
 permalink: /ercproject/events/
 sidebar:
         nav: ercproject
