@@ -10,6 +10,30 @@ photos:
         size:  # small, medium (default), or large
         caption: # photo caption  
 ---
+## [ISIH 2020 Conference: Change and Exchange](http://isih.history.ox.ac.uk/?page_id=6201)
+
+##### <s>27 – 29 May 2020, European University Institute</s> Cancelled due to the Covid-19 crisis.
+
+### With the participation of Neus Rotger
+
+The suddenness of many recent changes has led to a widespread feeling of bewilderment and led many to retreat into what are seen as safe places and idealised pasts, rejection of difference and increasingly violent and intolerant social exchange. At the same time, the evidence of climate change is making people increasingly aware of the need to rethink our way of life. It therefore seems an appropriate moment to look at how change has been understood and conceptualised in the past, how changes in ways of thinking, concepts and paradigms have come about, the strength of resistance to change, and the role of exchange – intellectual and material – in this process. Change and Exchange proposes to explore historical, philosophical, cultural, material, social, environmental and scientific change, the varieties of social, intellectual, material, economic, etc. exchange and the interactions between the two. It will also look at change and exchange in the field of Intellectual History itself.
+
+## [Future States: Modernity and National Identity in Popular Magazines, 1890-1945. A nearly carbon-neutral conference (NCNC)](https://www.futurestates.org/)
+##### <s>23 March - 05 April</s> 30 March - 17 April 2020 - Online
+
+The dates of the conference have been changed to 30 March - 17 April.  
+Check the conference noticeboard [here](https://www.futurestates.org/index.php/noticeboard/).
+{: .notice--primary}
+
+With the participation of **Laura Fólica**: "Between the local and the international: The role of literary translation in Revista Nosotros (1907-1943)".
+
+Future States, a nearly carbon-neutral conference (NCNC) hosted by the Centre for Design History, University of Brighton, is now open for registration. The conference explores the constructive tensions between modernity and nationalism in popular magazines across the globe, in the late nineteenth and early twentieth century. Running from 23 March – 5 April 2020, this is a landmark event in magazine studies, with talks by 35 leading scholars from 15 countries, and multiple Q&As and discussion forums. But there are no air tickets, hotel bookings, or conference packs – and no registration fee. Attendance at Future States is free, and open to all.
+
+## Cancelled due to Covid-19 - Paper: "World, Global, Planetary Novels: Current Debates"
+### [Society for Novel Studies Biennial Conference: The Novel’s New Worlds](https://www.english.ox.ac.uk/event/society-novel-studies)
+
+Paper by **Neus Rotger**
+
 ## [CERES Symposium: ‘Circulation of Symbolic Goods’](https://receptionstudies.be/2019/11/04/csg/?fbclid=IwAR1_5kgR1fZUUiBOyFM9DNC0hmStgl9mZ4W7LkLnnD5GaEv2mHaH-_eIn7g)
 
 ##### Tuesday, 21 January 2020, KU Leuven, Brussels Campus, Brussels, Belgium

@@ -13,6 +13,37 @@ sidebar:
 #      size: small # small, medium (default), or large
 #      caption: # Any text
 ---
+# UPCOMING CONFERENCES
+
+## Les transferts culturels dans l'espace international: défis et nouvelles méthodes
+##### Liège, Belgium. July 24, 2020.
+With the participation of **Diana Roig Sanz** (Keynote Speaker)
+
+## The Network Society Today: (Revisiting) The Information Age Trilogy
+##### <s>IN3, Barcelona, June 10-11, 2020.</s> Postponed due to COVID-19.
+With the participation of **Diana Roig Sanz** (Keynote Speaker)
+
+## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
+
+### [Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion](https://research.uni-leipzig.de/eniugh/congress/)
+
+##### <s>25-28 June 2020</s>. Turku, Finland
+
+Due to the Covid-19 crisis, the congress has been postponed for **17-20 June 2021**. The panel will take place in a virtual setting on **29 June 2020**.
+{: .notice--warning}
+
+Participants: Laura Fólica (Open University of Catalonia), Elisabet Carbó (Open University of Catalonia), Maud Gonne (University of Namur), Ana Kvirikashvili (Open University of Catalonia), Ondrej Vimr (Czech Academy of Sciences, Institute of Czech Literature), Golda van der Meer (University of Barcelona)
+
+Panel organised by **Ana Kvirikashvili**, **Elisabet Carbó** and **Diana Roig Sanz**
+
+## IX Congreso Internacional de la Asociación de Hispanistas del Benelux
+##### Antwerpen, Belgium, September 17-18, 2020.
+With the participation of **Diana Roig Sanz** (Keynote Speaker)
+
+## Conference of the European Association for Digital Humanities
+##### Krasnoyarsk, Russia, September 22-25, 2020.
+With the participation of **Diana Roig Sanz** (Keynote Speaker)
+
 ## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/calls/)
 ##### Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain). November 19-20, 2020
 
@@ -20,7 +51,7 @@ sidebar:
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 *Given the exceptional circumstances surrounding the Covid-19 pandemic, the organizers wish to express that we will follow the situation closely and an online version of this conference might be considered if future updates advise it. Even though an on-site format is preferred, a final decision will be provided to all participants at the beginning of September.*
-{: .notice }
+{: .notice--warning }
 
 **Call for Papers**: The call for papers for this conference has been opened. [Read the full call here](/calls/).
 
@@ -36,64 +67,38 @@ Authors should submit an abstract (300 words), filiation, bio-note and a short r
 - [Diana Roig Sanz](/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
 - [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.com  
 
+## Cultural History of Cinema: Experiences and Horizons. \| Histoire culturelle du cinéma : expériences et horizons
+##### Institut national d'histoire de l'art and the École nationale des Chartes, Paris. <s>28-29 May 2020.</s> Due to COVID-19, postponed to 09-11 December 2020
+**Pablo Suárez-Mansilla**: "A Cultural History of the first years of Cinema in Spain until the Civil War (1936) through Film Criticism"  
+**Ainamar Clariana Rodagut**: “Aesthetics of a social network: the Cine-club Mexicano”.  
 
 ## International Networks and Mexican Mediators
-##### UNAM, Mexico D.F., Mexico, November 21-22, 2020.  
-With the participation of Diana Roig-Sanz
+##### UNAM, Mexico D.F., Mexico, <s>November 21-22, 2020</s> Due to COVID-19, postponed to February 2021.
+With the participation of **Diana Roig Sanz**
 
-## Conference of the European Association for Digital Humanities
-##### Krasnoyarsk, Russia, September 22-25, 2020.
-With the participation of Diana Roig-Sanz
-
-## IX Congreso Internacional de la Asociación de Hispanistas del Benelux
-##### Antwerpen, Belgium, September 17-18, 2020.
-With the participation of Diana Roig-Sanz
-
-## Les transferts culturels dans l'espace international: défis et nouvelles méthodes
-##### Liège, Belgium. July 24, 2020.
-With the participation of Diana Roig-Sanz
-
-## Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion.
-##### Åbo Akademi University (ÅAU). June 25-28, 2020.
- Panel “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”.  
- With the participation of Ana Kvirikashvili, Elisabet Carbó, Diana Roig-Sanz.
-
-## The NECS 2020 Conference. Transitions: Moving Images and Bodies.  
-##### University of Palermo. June 18-20, 2020 (Cancelled).
-Workshop: “Studying Film Societies. Methodologies, Sources, Prospects”.
-
-Participants: Prof. Dr. Michael Cowan, (University of St. Andrews) , Prof. Dr. Malte Hagener (Philipps-University Marburg), Dr. Ainamar Clariana Rodagut (PhD candidate, Open University of Catalonia, Barcelona), Dr. Irene Rozsa (Concordia University Montréal), Sanghita Sen (PhD candidate, University of St. Andrews)
-
-## The Network Society Today (Revisiting) The Information Age Trilogy
-##### IN3, Barcelona, June 10-11, 2020.
-With the participation of Diana Roig-Sanz
-
-## Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique.
-##### June 8-11, 2020 (Postponed).
-With the participation of Laura Fólica and Pablo Suárez-Mansilla
-
-## Cultural History of Cinema: Experiences and Horizons.
-##### Institut national d'histoire de l'art and the École nationale des Chartes, Paris. 28-29 Mayo 2020.
-Ainamar Clariana Rodagut: “Aesthetics of a social network: the Cine-club Mexicano”.  
-
-
-## Histoire culturelle du cinéma : expériences et horizons.
-##### Paris, Campus Condorcet, l'Institut national d'histoire de l'art et l’École nationale des Chartes. 28-29 May 2020.
-With the participation of Pablo Suárez-Mansilla
-
-## Doing Women’s Film and Television History V: Forming Histories/Histories in Formation.
-##### Maynooth University, Maynooth, Co. Kildare, Ireland. May 20-22, 2020 (Cancelled).
-Ainamar Clariana Rodagut: “Female audiences in the LEAR’s Film-Club (1931): practices and social networks”.  
-
-
-## BAFTSS Annual Conference Rethinking Screen Cultures.
-##### University of St Andrews. April 16-18, 2020.
-With the participation of Pablo Suárez-Mansilla
+## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
+##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
+**Laura Fólica**  
+**Pablo Suárez-Mansilla**: "Film criticism in Spanish literary, cultural and cinematographic journals in the first third of the 20th century"
 
 ---
 ---
 
 # PAST EVENTS
+
+## The NECS 2020 Conference. Transitions: Moving Images and Bodies.  
+##### <s>University of Palermo. June 18-20, 2020</s> Cancelled due to COVID-19.
+Workshop: “Studying Film Societies. Methodologies, Sources, Prospects”.
+
+Participants: Prof. Dr. Michael Cowan, (University of St. Andrews) , Prof. Dr. Malte Hagener (Philipps-University Marburg), Dr. Ainamar Clariana Rodagut (PhD candidate, Open University of Catalonia, Barcelona), Dr. Irene Rozsa (Concordia University Montréal), Sanghita Sen (PhD candidate, University of St. Andrews)
+
+## Doing Women’s Film and Television History V: Forming Histories/Histories in Formation.
+##### <s>Maynooth University, Maynooth, Co. Kildare, Ireland. May 20-22, 2020</s> Cancelled due to COVID-19.
+**Ainamar Clariana Rodagut**: “Female audiences in the LEAR’s Film-Club (1931): practices and social networks”.  
+
+## BAFTSS Annual Conference Rethinking Screen Cultures
+##### <s>University of St Andrews. April 16-18, 2020.</s> Cancelled due to COVID-19.
+**Pablo Suárez-Mansilla** and **Diana Roig Sanz**: "Absent Figures in Spanish early Cinema through Film Criticism. A methodological proposal"
 
 ## Symposium: Circulation of Symbolic Goods.
 ##### 20-21 January 2020. Brussel, KU Leuven, Belgium.
@@ -122,7 +127,7 @@ Attended by Elisabet Carbó Catalán
 
 ## 9th Congress of the European Society for Translation. Panel: “Big Translation History: The Use of Data Mining and Big Data Approaches”, University of Stellenbosch, South Africa. September 9-13, 2019.
 Panel “Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945”  
-Diana Roig-Sanz and Laura Fólica: "Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945)"
+Diana Roig Sanz and Laura Fólica: "Big Translation History. The Circulation of Books (Spain-Latin America 1900-1945)"
 
 ## Seminario Permanente de Estudios de Traducción
 ##### IES Lenguas Vivas, Buenos Aires. August 15, 2019.
@@ -150,11 +155,11 @@ Attended by Ventsislav Ikoff
 
 ## The Use of Data Mining and Big Data Approaches in Big Translation History
 ### Brussels, Belgium. June 12, 2019
-Conference by Diana Roig-Sanz
+Conference by Diana Roig Sanz
 
 ## Towards a History of Transnational Publishing: Theoretical and Methodological Reflections
 ##### Ghent, Belgium. June 11, 2019
-Conference by Diana Roig-Sanz
+Conference by Diana Roig Sanz
 
 ## Writing Spaces, Mapping Words conference
 ##### Lisbon, Portugal. May 29-30, 2019.
@@ -162,4 +167,4 @@ Diana Roig Sanz: “Las redes sociales del pasado. Cartografía de la modernidad
 
 ## Paradoxes and Misunderstandings in Cultural Transfers
 ##### Louvain-la-Neuve, May 22-24, 2019.
-Diana Roig-Sanz: “Shaping International Literary Exchanges. Ibero-American Modernity as a Case Study”.
+Diana Roig Sanz: “Shaping International Literary Exchanges. Ibero-American Modernity as a Case Study”.
