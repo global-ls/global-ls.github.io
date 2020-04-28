@@ -55,8 +55,9 @@ team:    #navigation sidebar for Team
          -   title: "Jorge J. Locane"
              url: /team/visiting/jorge-locane/
          -   title: "Paulo Lemos Horta"
+             url: /team/visiting/paulo-horta/         
          -   title: Maud Gonne
-#             url: /team/visiting/maud-gonne/
+             url: /team/visiting/maud-gonne/
   - title: "Research Assistants"
     url: /team/assistants/
     children:

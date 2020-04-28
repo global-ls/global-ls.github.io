@@ -10,4 +10,4 @@ pub-type: book
 ---
 # Forthcoming
 
-Fólica, Laura, Diana Roig-Sanz & Stefania Caristia (eds.). *Literary Translation in Periodical Publications. Theoretical Problems and Methodological Challenges for a Transnational Approach*. John Benjamins Publishing Company, 2020
+Fólica, Laura, Diana Roig Sanz & Stefania Caristia (eds.). *Literary Translation in Periodicals. Methodological Challenges for a Transnational Approach*. John Benjamins Publishing Company, 2020

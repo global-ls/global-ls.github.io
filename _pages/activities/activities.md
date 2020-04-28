@@ -68,7 +68,8 @@ Authors should submit an abstract (300 words), filiation, bio-note and a short r
 
 ## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
-Avec la participation de **Laura Fólica**
+**Laura Fólica**: "La traduction littéraire dans les revues ibéro-américaines (1898-1959): défis méthodologiques dans la construction d'un corpus à grande échelle"  
+**Pablo Suárez-Mansilla**: "Film criticism in Spanish literary, cultural and cinematographic journals in the first third of the 20th century"
 
 
 Après un premier congrès en juin 2015, Médias 19 et Numapresse organisent une deuxième grande manifestation qui se tiendra à Paris, du 8 au 11 juin 2020, pour faire état de la recherche actuelle sur la presse, à l’heure de la numérisation des corpus.

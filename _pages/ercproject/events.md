@@ -32,7 +32,13 @@ With the participation of **Diana Roig Sanz** (Keynote Speaker)
 Due to the Covid-19 crisis, the congress has been postponed for **17-20 June 2021**. The panel will take place in a virtual setting on **29 June 2020**.
 {: .notice--warning}
 
-Participants: Laura Fólica (Open University of Catalonia), Elisabet Carbó (Open University of Catalonia), Maud Gonne (University of Namur), Ana Kvirikashvili (Open University of Catalonia), Ondrej Vimr (Czech Academy of Sciences, Institute of Czech Literature), Golda van der Meer (University of Barcelona)
+Participants:  
+Laura Fólica (Open University of Catalonia): "The translation of indigenous languages in Latin American avant-garde literary journals of the first half of the 20th century"  
+Elisabet Carbó (Open University of Catalonia):"The internationalization of Catalan Culture: an overview"  
+Maud Gonne (University of Namur):"Between Belgium, Flanders and the Others. Literary translation practices and beliefs in Wallonia (1850-1930)"  
+Ana Kvirikashvili (Open University of Catalonia):"15 years of translations (1995-2020): from the creation of a Georgian literary field to the internationalization of a minor literature"  
+Ondrej Vimr (Czech Academy of Sciences, Institute of Czech Literature):"Modelling International Trajectories of a Literature. The Case of Czech Literature since 1945"  
+Golda van der Meer (University of Barcelona):"From self-translation to the world: the case of Deborah Vogel and the “choice” of the Yiddish language"  
 
 Panel organised by **Ana Kvirikashvili**, **Elisabet Carbó** and **Diana Roig Sanz**
 
@@ -78,7 +84,8 @@ With the participation of **Diana Roig Sanz**
 
 ## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
-**Laura Fólica**  
+**Laura Fólica**: "La traduction littéraire dans les revues ibéro-américaines (1898-1959):
+défis méthodologiques dans la construction d'un corpus à grande échelle"  
 **Pablo Suárez-Mansilla**: "Film criticism in Spanish literary, cultural and cinematographic journals in the first third of the 20th century"
 
 ---
@@ -90,7 +97,8 @@ With the participation of **Diana Roig Sanz**
 ##### <s>University of Palermo. June 18-20, 2020</s> Cancelled due to COVID-19.
 Workshop: “Studying Film Societies. Methodologies, Sources, Prospects”.
 
-Participants: Prof. Dr. Michael Cowan, (University of St. Andrews) , Prof. Dr. Malte Hagener (Philipps-University Marburg), Dr. Ainamar Clariana Rodagut (PhD candidate, Open University of Catalonia, Barcelona), Dr. Irene Rozsa (Concordia University Montréal), Sanghita Sen (PhD candidate, University of St. Andrews)
+Participants:  
+Prof. Dr. Michael Cowan, (University of St. Andrews), Prof. Dr. Malte Hagener (Philipps-University Marburg), Dr. Ainamar Clariana Rodagut (PhD candidate, Open University of Catalonia, Barcelona), Dr. Irene Rozsa (Concordia University Montréal), Sanghita Sen (PhD candidate, University of St. Andrews)
 
 ## Doing Women’s Film and Television History V: Forming Histories/Histories in Formation.
 ##### <s>Maynooth University, Maynooth, Co. Kildare, Ireland. May 20-22, 2020</s> Cancelled due to COVID-19.

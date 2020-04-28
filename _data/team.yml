@@ -293,16 +293,24 @@ At NYU Abu Dhabi, Horta teaches classes on The Thousand and One Nights, the theo
 
 Maud Gonne:
    name        : "Maud Gonne"
-#   bio-short   : "Visiting Scholar"
-#   bio         :
+   bio         : "Maud Gonne is a FNRS postdoctoral fellow at UNamur and UCLouvain, Belgium. She is currently working on a project that investigates the role of cultural mediators in Wallonia during different stages of (successful and less successful) national and regional identity-building.
+
+
+   Maud received a PhD in Translation studies at KULeuven in 2015 on the transfer activities of Francophone Flemish writer Georges Eekhoud (1854-1927) at the turn of the 20th century, with a special focus on the mediating role that Eekhoud played anonymously in the production of popular and patriotic literature. She has lectured on Belgian literature (UNamur), Translation theory and practice (Dutch into French) (ULiège), and Literary institutionalization (KULeuven).
+
+
+   Her research interests include Translation history, Cultural mediators, Transfers and transmediality, Minority identities and regionalisms, Belgian literature, Complexity thinking, and Actor Network Theory. She is the author of numerous articles on these topics (see <https://researchportal.unamur.be/fr/persons/maud-gonne>), as well as of the monograph *Contrebande littéraire et culturelle à la Belle Époque: Le « hard labour » de Georges Eekhoud entre Anvers, Paris et Bruxelles* (Leuven University Press 2017). She also co-edited a special issue of *Revue Belge de Philologie et d’Histoire* entitled *Cultural Mediators in Belgium, 1830-1945* (2014).
+
+
+   She is an active member of *Namur Institute of Language, Text and Transmediality* (NaLTT) (<https://naltt.unamur.be/>)."
 #   biblio:
 #    - ref:
-   avatar      : "/assets/images/portrait-placeholder.png"
-#   url         : "/team/visiting/maud-gonne/"
-#   links:
-#    - label: "mgonne@uoc.edu"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:mgonne@uoc.edu"
+   avatar      : "/assets/images/Photo_MGonne.JPG"
+   url         : "/team/visiting/maud-gonne/"
+   links:
+    - label: "mgonne@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mgonne@uoc.edu"
 
 Helena Herrera Clapers:
    name        : "Helena Herrera Clapers"
