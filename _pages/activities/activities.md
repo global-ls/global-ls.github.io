@@ -76,6 +76,28 @@ Après un premier congrès en juin 2015, Médias 19 et Numapresse organisent une
 
 Le projet scientifique franco-québécois Médias 19, articulé autour de la plateforme numérique www.medias19.org, a été le cadre de développement d’une réflexion, depuis 2011, sur les pratiques journalistiques au XIXe siècle, sur la valorisation et l’analyse des corpus, ainsi que sur l’étude du développement de la culture médiatique dans l’espace francophone. Depuis 2017, le projet scientifique international Numapresse, financé par l’Agence Nationale pour la Recherche française www.numapresse.org, ambitionne de proposer une nouvelle histoire culturelle et littéraire de la presse française, du XIXe siècle à nos jours, en mobilisant les grands corpus de presse numérisés et les nouveaux outils de text et data mining.
 
+## 9th Making of the Humanities Conference
+##### UOC-UPF. Barcelona, <s>21-23 September 2020</s> September 20-22, 2021
+
+Due to COVID-19, the 9th Making of the Humanities Conference has been postponed until September 20-22, 2021.
+{: .notice--warning}
+
+The call for papers and panels is available on the [SHOH website](http://www.historyofhumanities.org/2019/12/13/call-for-papers-and-panels-the-making-of-the-humanities-ix/){: .btn .btn--inverse}.
+
+### Keynote Speakers MoH-IX
+
+Cristina Dondi (Oxford University): “The history of the book and libraries: from bibliophilia to social and economic history”
+
+Maribel Fierro (CCHS-CSIC Madrid): “Iberian humanities and the historical experience of religious pluralism”
+
+Matthew Rampley (Masaryk University): “Naturalistic Theories in the Humanities: Past and Present”
+
+### Organization
+
+Local Organizing Committee: Daniele Cozzoli (UPF), Linda Gale Jones (UPF), Tomas Macsotay (UPF) and Neus Rotger (UOC)
+
+Program Committee: [International Board of the Society](http://www.historyofhumanities.org/about-the-society/)
+
 ## IV Global Literary Studies International Seminar: *The Global Novel*
 ### *La World Literature, entre textualidad y mundialidad*  
 **Fernando Cabo Aseguinolaza** (Universidad de Santiago de Compostela)
