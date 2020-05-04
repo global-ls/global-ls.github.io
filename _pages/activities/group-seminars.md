@@ -37,6 +37,24 @@ Gonne, Maud (2018). "From binarity to complexity: a Latourian perspective on cul
 
 Marais, Kobus, and Reine Meylaerts (2019). “Introduction”. Complexity thinking in Translation Studies. Methodological considerations. New York and London: Routledge, 1-18.
 
+
+## Reading Seminar: *Global History*
+
+## Tuesday, April 17 2020, 15:00-17:30. [Virtual Seminar]
+
+*Global History*
+[**Diana Roig Sanz** (UOC)](https://globals.research.uoc.edu/team/researchers/diana-roig/)
+
+Texts for discussion:
+Berg, Maxine. “Global History: approaches and new directions”, in _Writing the History of the Global: Challenges for the Twenty-First Century_ edited by Maxine Berg, 1-17. OUP/British Academy, 2013.
+
+Conrad, Sebastian. “Introduction”, in _What Is Global History?_, 1-16. Princeton University Press, 2016.
+
+Freitag, Ulrike & Achim von Oppen. “Introduction. ‘Translocality’: An Approach To Connection And Transfer In Area Studies”, in _The Study of Globalising Processes from a Southern Perspective_, edited by Ulrike Freitag and Achim von Oppen, 1-21.. Brill, 2010.
+
+Middell, Matthias  & Katja Naumann. “Global history and the spatial turn: from the impact of area studies to the study of critical junctures of globalization”. _Journal of Global History_, Volume 5 Issue 1 (2010): 149-170. 
+
+
 ## IV Global Literary Studies International Seminar: *The GLobal Novel*
 
 ##### Wednesday, 29 January 2020, 16:00-18:00. UOC, Building Tibidabo 3, Room Hannah Arendt.
