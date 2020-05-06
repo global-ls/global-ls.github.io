@@ -28,6 +28,18 @@ Team: Diana Roig Sanz (PI, UOC), Elisabet Carbó Catalan (UOC), Ainamar Clariana
 
 Duration: December 2018 - December 2023  
 
+## Ocean +: Sea Crime in Contemporary Literature and Film /Océanos +: Crímenes en el mar en la literatura y el cine contemporáneos
+{: .notice--primary}
+
+Funded by "Europe Research" Dynamization Actions 2019, State R&D Program Oriented to the Challenges of the Society by the Spanish Ministry of Science, Innovation and Universities. Reference: EIN2019-103407 ![Ministerio de Ciencia e Inovación](/assets/images/logo-ministerio-ciencia.png){: .align-right style="width: 20em; height:auto;"}
+{: .notice style="overflow:auto"}
+
+The project "Ocean +: Sea Crime in Contemporary Literature and Film" aims to improve the proposal for an ERC Consolidator Grant project. The ERC proposal of the researcher “Ocean Crime: Environmental and Human Traffic Crime in Contemporary Narratives and Film (1980-present)” aims to study the imaginaries of the sea and its difficulties in regulating the narratives that deal with environmental crimes and human trafficking. The project works from the crossroads of literary and film studies, critical geography, eco-crisis and public international law. The grant will be used to improve the gender perspective, to organize meetings with experts and to attend a course on improving proposals presented in the Horizon 2020 and Horizon Europe programs.
+
+Team: Marta Puxan Oliva
+
+Duration: June 1, 2019 - May 31, 2021
+
 
 ## Trad-Data: Translation and Market. The Circulation of Books (Spain-Latin America, 1900-1945) and Big Data
 {: .notice--primary}
