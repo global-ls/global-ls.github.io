@@ -1,5 +1,5 @@
 ---
-title: "Cosmopolitanism: Virtual seminar with Paulo Lemos Horta (NYU-Abu Dhabi and Bruce Robbins (Columbia University)"
+title: "Cosmopolitanism: Virtual seminar with Paulo Lemos Horta (NYU-Abu Dhabi) and Bruce Robbins (Columbia University)"
 permalink: /news/seminar-virtual-cosmopolitanism/
 tags: [seminar]
 ---
