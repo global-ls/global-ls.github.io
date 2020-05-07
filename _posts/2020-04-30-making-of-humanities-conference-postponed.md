@@ -1,5 +1,5 @@
 ---
-title: "<strong>9th Making of the Humanities conference</strong> - POSTPONED to 2021"
+title: "<strong>9th Making of the Humanities conference, UOC-UPF</strong> - POSTPONED to 2021"
 permalink: /news/making-of-humanities-postponed/
 tags: [call, Neus Rotger]
 ---
