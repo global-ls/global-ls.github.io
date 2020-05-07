@@ -3,6 +3,6 @@ title: "Cosmopolitanism: Virtual seminar with Paulo Lemos Horta (NYU-Abu Dhabi) 
 permalink: /news/seminar-virtual-cosmopolitanism/
 tags: [seminar]
 ---
-Last Tuesday, April 28 the GlobaLS team oraganized a virtual seminar with Paulo Lemos Horta and Bruce Robbins. The discussion explored the concept of _cosmopolitanism_ in literary studies and texts by Lemos Horta and Robbins that contextualize it.
+Last Tuesday, April 28 the GlobaLS team oraganized a virtual seminar with Paulo Lemos Horta and Bruce Robbins. The discussion explored the concept of _cosmopolitanism_ in global literary studies.
 
 You can read more [here](https://globals.research.uoc.edu/activities/group-seminars/).
