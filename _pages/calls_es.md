@@ -65,6 +65,8 @@ La inscripción en la conferencia es gratuita, pero los ponentes y asistentes de
 
 Los organizadores prevén la publicación de un volumen colectivo en una editorial internacional o un número especial con una selección de artículos en una revista internacional indexada con revisión por pares.
 
+**Ayudas para la participación:** Existe disponibilidad de fondos para investigadores del Sur Global, previa solicitud de la persona interesada. Por favor, indique sus necesidades en su propuesta de comunicación.
+
 **Organización:**
 
 - [Elisabet Carbó](/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  

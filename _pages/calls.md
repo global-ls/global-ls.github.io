@@ -63,6 +63,8 @@ Participation in the Conference is free, but speakers and assistants must regist
 
 The organizers have planned the publication of a collective edited volume in a top-ranked publisher or a special issue in a well-known international journal. All papers will go through a double-blind peer review process.
 
+**Attendance bursaries:** Some funds will be available upon request for researchers from the Global South. Please feel free to indicate your needs in your proposal.
+
 **Organizers:**
 
 - [Elisabet Carbó](/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  
