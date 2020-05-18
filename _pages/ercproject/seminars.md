@@ -7,7 +7,7 @@ sidebar:
 ---
 ### _Mapa de la prensa cinematográfica española (1910-1960). Contenidos y discursos_. Virtual Seminar with Jorge Nieto Ferrando (University of Lleida)
 
-Tuesday, May 19 2020,15:00 - 17:30
+Tuesday, May 19 2020,16:00 - 18:30
 
 Texts under discussion:
 - Nieto Ferrando, Jorge. "La prensa cinematográfica española como fuente y objeto dela historia del cine. Análisis y evolución de sus contenidos (1910-2010)". _Historia y comunicación social_ 24, No.1 (2019): 237-258.
