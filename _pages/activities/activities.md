@@ -8,22 +8,22 @@ photos:
    -  file: # file name
       position: # left, center, or right (default)
       size: # small, medium (default), or large
-      caption: # photo caption  
+      caption: # photo caption
 ---
 ## X Doctoral Seminar in Literary Studies [Virtual Seminar]
 ##### 4-8 May 2020
 *Mediterráneo global. Representaciones del litoral en crisis en la novela contemporánea (1990-2020)*  
 Aina Vidal
 
+## XI Doctoral Seminar in Literary Studies [Virtual Seminar]
 ##### 25-29 May 2020
 *The circulation of Georgian literature: between the local and the global (1995-2020)*  
 Ana Kvirikashvili
 
+## XII Doctoral Seminar in Literary Studies [Virtual Seminar]
 ##### 8-12 June 2020
 *The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1970 to the Present Seen through Prizes*  
 Pau Bosch
-
-
 
 ## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
 
@@ -71,18 +71,30 @@ Authors should submit an abstract (300 words), filiation, bio-note and a short r
 **Laura Fólica**: "La traduction littéraire dans les revues ibéro-américaines (1898-1959): défis méthodologiques dans la construction d'un corpus à grande échelle"  
 **Pablo Suárez-Mansilla**: "Film criticism in Spanish literary, cultural and cinematographic journals in the first third of the 20th century"
 
-
 Après un premier congrès en juin 2015, Médias 19 et Numapresse organisent une deuxième grande manifestation qui se tiendra à Paris, du 8 au 11 juin 2020, pour faire état de la recherche actuelle sur la presse, à l’heure de la numérisation des corpus.
 
 Le projet scientifique franco-québécois Médias 19, articulé autour de la plateforme numérique www.medias19.org, a été le cadre de développement d’une réflexion, depuis 2011, sur les pratiques journalistiques au XIXe siècle, sur la valorisation et l’analyse des corpus, ainsi que sur l’étude du développement de la culture médiatique dans l’espace francophone. Depuis 2017, le projet scientifique international Numapresse, financé par l’Agence Nationale pour la Recherche française www.numapresse.org, ambitionne de proposer une nouvelle histoire culturelle et littéraire de la presse française, du XIXe siècle à nos jours, en mobilisant les grands corpus de presse numérisés et les nouveaux outils de text et data mining.
 
-## 9th Making of the Humanities Conference
-##### UOC-UPF. Barcelona, <s>21-23 September 2020</s> September 20-22, 2021
+## Call for papers for the 9th Making of the Humanities conference</strong>, UOC-UPF. Barcelona, 21-23 September 2020"
 
-Due to COVID-19, the 9th Making of the Humanities Conference has been postponed until September 20-22, 2021.
+Due to COVID-19, the 9th Making of the Humanities conference has been postponed until September 20-22, 2021.
 {: .notice--warning}
 
-The call for papers and panels is available on the [SHOH website](http://www.historyofhumanities.org/2019/12/13/call-for-papers-and-panels-the-making-of-the-humanities-ix/){: .btn .btn--inverse}.
+Panels and papers on any period or region are welcome. Special interest is given to work that transcends the history of specific humanities disciplines by comparing scholarly practices across disciplines and civilisations. **Neus Rotger** is part of the local organizing committee. **Final deadline** for the submission of abstracts and panel proposals: **1 May 2021**.
+
+### Goal of the Making of the Humanities (MoH) Conferences
+
+The MoH conferences are organized by the [Society for the History of the Humanities](http://www.historyofhumanities.org/) and bring together scholars and historians interested in the history of a wide variety of disciplines, including archaeology, art history, historiography, linguistics, literary studies, media studies, musicology, and philology, tracing these fields from their earliest developments to the modern day.
+
+The organisers welcome panels and papers on any period or region. The organisers are especially interested in work that transcends the history of specific humanities disciplines by comparing scholarly practices across disciplines and civilisations.
+
+This year there is a special conference theme. The organisers encourage submissions that explore this theme, but remain fully open to submissions addressing other subjects.
+
+This year’s conference theme is **Unfolding Disciplines in the History of the Humanities**.  
+
+A growing body of scholarship suggests that the historiography of the humanities is increasingly organized around new interdisciplinary collaborations that affect the very understanding of what it means to belong to a Humanities discipline. This year the organisers invite contributions that interlace different disciplinary approaches in order to frame humanistic scholarship in terms of a continued engagement with the limits and possibilities offered by the softening and even erasure of disciplinary boundaries. Participants are also encouraged to think expansively about the impact of the ongoing process of reinvention of established as well as new disciplinary fields as a result of increased cross-pollination and collaboration.
+
+Please note that the Making of the Humanities conferences are not concerned with the history of art, the history of music or the history of literature, and so on, but instead with the history of art history, the history of musicology, the history of literary studies, etc.
 
 ### Keynote Speakers MoH-IX
 
@@ -91,12 +103,31 @@ Cristina Dondi (Oxford University): “The history of the book and libraries: fr
 Maribel Fierro (CCHS-CSIC Madrid): “Iberian humanities and the historical experience of religious pluralism”
 
 Matthew Rampley (Masaryk University): “Naturalistic Theories in the Humanities: Past and Present”
+### Paper Submissions
+
+Abstracts of single papers (30 minutes including discussion) should contain the name of the speaker, full contact address (including email address), the title and a summary of the paper of maximally 250 words. For more information about submitting abstracts, see the [submission page](http://www.historyofhumanities.org/how-to-submit-your-papers-and-panel-proposals-to-the-making-of-humanities-vii/).
+
+Deadline for abstracts: **1 May 2021**
+
+Notification of acceptance: June 2021
+### Panel Submissions
+
+Panels last 1.5 to 2 hours and can consist of 3-4 papers and possibly a commentary on a coherent theme including discussion. Panel proposals should contain respectively the name of the chair, the names of the speakers and commentator, full contact addresses (including email addresses), the title of the panel, a short (150 words) description of the panel’s content and for each paper an abstract of maximally 250 words. For more information about submitting panels, see the [submission page](http://www.historyofhumanities.org/how-to-submit-your-papers-and-panel-proposals-to-the-making-of-humanities-vii/).
+
+Deadline for panel proposals: **1 May 2021**
+
+Notification of acceptance: June 2021
+### Conference fee
+
+The exact conference fee will be determined in spring 2020 and will be ca. €100 for regular participants and ca. €80 for PhD students. The fee includes access to all sessions, access to the welcoming reception, simple lunches, and tea and/or coffee during the breaks.
 
 ### Organization
 
 Local Organizing Committee: Daniele Cozzoli (UPF), Linda Gale Jones (UPF), Tomas Macsotay (UPF) and Neus Rotger (UOC)
 
 Program Committee: [International Board of the Society](http://www.historyofhumanities.org/about-the-society/)
+
+This call is originally published on the site of [The Society for the History of the Humanities](http://www.historyofhumanities.org/2019/12/13/call-for-papers-and-panels-the-making-of-the-humanities-ix/).
 
 ## IV Global Literary Studies International Seminar: *The Global Novel*
 ### *La World Literature, entre textualidad y mundialidad*  
