@@ -10,9 +10,9 @@ nav: ercproject
 Friday, June 5, 11:00 - 13:30 
 
 Texts under discussion: 
-- Cronin, Michael."Altered States: Translation and Minority Languages". _TTR_ 8,Issue 1 (1995):85–10.
+- Cronin, Michael. "Altered States: Translation and Minority Languages". _TTR_ 8,Issue 1 (1995):85–10.
 - Lionnet, Françoise & Shih Shu-mei. _Minor Transnationalism_. Duke University Press, 2005. 
-- Wallerstein, Immanuel."Historical Origins of World-Systems Analysis: From Social Science Disciplines to Historical Social Sciences". _World-Systems Analysis: An Introduction_. Duke University Press, 2004:1-22.
+- Wallerstein, Immanuel. "Historical Origins of World-Systems Analysis: From Social Science Disciplines to Historical Social Sciences". _World-Systems Analysis: An Introduction_. Duke University Press, 2004:1-22.
 
 ### _Mapa de la prensa cinematográfica española (1910-1960). Contenidos y discursos_. Virtual Seminar with Jorge Nieto Ferrando (University of Lleida)
 
