@@ -3,24 +3,24 @@ layout: single
 title: Seminars organised in the framework of the project
 permalink: /ercproject/events/seminars/
 sidebar:
-nav: ercproject
+        nav: ercproject
 ---
 ### _Regionalismos y transferencias culturales en la Europa del siglo XX_. Virtual Seminar with Xosé Manoel Núñez Seixas (Universidad de Santiago de Compostela)
 
 Friday, June 26, 9:30 - 12:00
 
 Texts under discussion:
-- Núñez Seixas,Xosé M. & Eric Storm."Introduction". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M. Núñez Seixas & Eric Storm (eds.).Bloomsbury, 2018: 1-25.
+- Núñez Seixas,Xosé M. & Eric Storm."Introduction". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M. Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 1-25.
 - Núñez Seixas,Xosé M. & Eric Storm."Conclusions". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M.Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 343-354.
 - Núñez Seixas,Xosé M. "¿Negar o reescribir la Hispanidad?. Los Nacionalismos subsestatales ibéricos y América Latina, 1898-1936". _Patriotas transnacionales: Ensayos sobre nacionalismos y transferencias culturales en la Europa del siglo XX_. Cátedra, 2019: 155-187.
 
 ### _The use of "minor" and "peripheral" in intercultural history_. Virtual Seminar with [Maud Gonne](https://globals.research.uoc.edu/team/visiting/maud-gonne/)
 
-Friday, June 5, 11:00 - 13:30 
+Friday, June 5, 11:00 - 13:30
 
-Texts under discussion: 
+Texts under discussion:
 - Cronin, Michael. "Altered States: Translation and Minority Languages". _TTR_ 8,Issue 1 (1995):85–10.
-- Lionnet, Françoise & Shih Shu-mei. _Minor Transnationalism_. Duke University Press, 2005. 
+- Lionnet, Françoise & Shih Shu-mei. _Minor Transnationalism_. Duke University Press, 2005.
 - Wallerstein, Immanuel. "Historical Origins of World-Systems Analysis: From Social Science Disciplines to Historical Social Sciences". _World-Systems Analysis: An Introduction_. Duke University Press, 2004:1-22.
 
 ### _Mapa de la prensa cinematográfica española (1910-1960). Contenidos y discursos_. Virtual Seminar with Jorge Nieto Ferrando (University of Lleida)

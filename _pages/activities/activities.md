@@ -10,16 +10,6 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption
 ---
-## XI Doctoral Seminar in Literary Studies [Virtual Seminar]
-##### 25-29 May 2020
-*The circulation of Georgian literature: between the local and the global (1995-2020)*  
-Ana Kvirikashvili
-
-## XII Doctoral Seminar in Literary Studies [Virtual Seminar]
-##### 8-12 June 2020
-*The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1970 to the Present Seen through Prizes*  
-Pau Bosch
-
 ## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
 
 ### [Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion](https://research.uni-leipzig.de/eniugh/congress/)
