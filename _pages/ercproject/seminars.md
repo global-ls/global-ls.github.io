@@ -10,9 +10,9 @@ sidebar:
 Friday, June 26, 9:30 - 12:00
 
 Texts under discussion:
-- Núñez Seixas,Xosé M. & Eric Storm."Introduction". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M. Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 1-25.
-- Núñez Seixas,Xosé M. & Eric Storm."Conclusions". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M.Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 343-354.
-- Núñez Seixas,Xosé M. "¿Negar o reescribir la Hispanidad?. Los Nacionalismos subsestatales ibéricos y América Latina, 1898-1936". _Patriotas transnacionales: Ensayos sobre nacionalismos y transferencias culturales en la Europa del siglo XX_. Cátedra, 2019: 155-187.
+- Núñez Seixas, Xosé M. & Eric Storm. "Introduction". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M. Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 1-25.
+- Núñez Seixas, Xosé M. & Eric Storm. "Conclusions". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M.Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 343-354.
+- Núñez Seixas, Xosé M. "¿Negar o reescribir la Hispanidad?. Los Nacionalismos subsestatales ibéricos y América Latina, 1898-1936". _Patriotas transnacionales: Ensayos sobre nacionalismos y transferencias culturales en la Europa del siglo XX_. Cátedra, 2019: 155-187.
 
 ### _The use of "minor" and "peripheral" in intercultural history_. Virtual Seminar with [Maud Gonne](https://globals.research.uoc.edu/team/visiting/maud-gonne/)
 
