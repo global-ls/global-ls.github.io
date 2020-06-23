@@ -12,12 +12,12 @@ photos:
 ---
 ## Webinar “Between the Nation and the World: the Role of Translation and Para-Diplomatic Initiatives in the Circulation of Small/Minor/Peripheral/Less Translated Literatures” ##
 
-Monday, June 29 2020 from 2:00 p.m. to 5:30 p.m. and on Tuesday, June 30 2020 from 2:30 p.m. to 6:00 p.m. [through _Google Meet_]
+Monday, June 29 2020 from 2:00 p.m. to 5:30 p.m. and on Tuesday, June 30 2020 from 2:30 p.m. to 6:00 p.m. [through _Google Meet_].
+
+![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 The ERC StG project Social Networks of the Past. Mapping Hispanic and Lusophone Literary Modernity, 1989-1959, part of the Global Literary Studies Research Group (GlobaLS), organizes the webinar **Between the Nation and the World: the Role of Translation and Para-Diplomatic Initiatives in the Circulation of Small/Minor/Peripheral/Less Translated Literatures**. This webinar aims at further defining the notion of the ‘minor’ and related concepts such as the ones above-mentioned within an historical perspective. We advance the hypothesis that minor cultures and literatures are not only relevant in their own right, but also from a broader perspective. In that respect, there is an urgent need to reassess the value of the minor and the role of translation in nation building processes, but also in relation to different scales (regional-national- transnational-international-global). The webinar gathers different case studies which are related to the translation, circulation and institutionalization of small/minor/peripheral and less translated literatures (Czech, Georgian, Yiddish, Catalan, Walloon, native indigenous literatures in Latin America, and Swahili) through processes that may imply intranslation and extranslation and para-diplomatic initiatives in the light of power struggles for legitimization. 
-
-Organised by the ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary
-Modernity (1989-1959) (Grant agreement No 803860), led by **Diana Roig Sanz**.
 
 Organising Committee: **Ana Kvirikashvili**, **Elisabet Carbó** and **Diana Roig Sanz**.
  
