@@ -9,6 +9,9 @@ sidebar:
 
 Friday, June 26, 9:30 - 12:00
 
+![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
+
 Texts under discussion:
 - Núñez Seixas, Xosé M. & Eric Storm. "Introduction". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M. Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 1-25.
 - Núñez Seixas, Xosé M. & Eric Storm. "Conclusions". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M.Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 343-354.
