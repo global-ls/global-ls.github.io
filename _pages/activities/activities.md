@@ -10,18 +10,6 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption
 ---
-### _Regionalismos y transferencias culturales en la Europa del siglo XX_. Virtual Seminar with Xosé Manoel Núñez Seixas (Universidad de Santiago de Compostela)
-
-Friday, June 26, 9:30 - 12:00
-
-![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
-IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
-
-Texts under discussion:
-- Núñez Seixas, Xosé M. & Eric Storm. "Introduction". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M. Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 1-25.
-- Núñez Seixas, Xosé M. & Eric Storm. "Conclusions". _Regionalism and Modern Europe. Identity Construction and Movements from 1890 to the Present Day_. Xosé M.Núñez Seixas & Eric Storm (eds.). Bloomsbury, 2018: 343-354.
-- Núñez Seixas, Xosé M. "¿Negar o reescribir la Hispanidad?. Los Nacionalismos subsestatales ibéricos y América Latina, 1898-1936". _Patriotas transnacionales: Ensayos sobre nacionalismos y transferencias culturales en la Europa del siglo XX_. Cátedra, 2019: 155-187.
-
 ## Webinar “Between the Nation and the World: the Role of Translation and Para-Diplomatic Initiatives in the Circulation of Small/Minor/Peripheral/Less Translated Literatures” ##
 
 Monday, June 29 2020 from 2:00 p.m. to 5:30 p.m. and on Tuesday, June 30 2020 from 2:30 p.m. to 6:00 p.m. [through _Google Meet_].
