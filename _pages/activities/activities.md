@@ -10,9 +10,9 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption
 ---
-## ERC Seminar with Christophe Gauthier (École des Chartes)
+## Virtual Seminar with Christophe Gauthier (École des Chartes)
 
-Wednesday, July 8, 10:00 - 12:30 [Virtual] 
+Wednesday, July 8, 10:00 - 12:30 
 
 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
