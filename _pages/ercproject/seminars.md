@@ -5,7 +5,7 @@ permalink: /ercproject/events/seminars/
 sidebar:
         nav: ercproject
 ---
-## Virtual Seminar with Christophe Gauthier (École des Chartes)
+### Virtual Seminar with Christophe Gauthier (École des Chartes)
 
 Wednesday, July 8, 10:00 - 12:30
 

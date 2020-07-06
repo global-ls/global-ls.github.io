@@ -10,9 +10,9 @@ photos:
         size:  # small, medium (default), or large
         caption: # photo caption
 ---
-### _Regionalismos y transferencias culturales en la Europa del siglo XX_. Virtual Seminar with Xosé Manoel Núñez Seixas (Universidad de Santiago de Compostela)
-
-Friday, June 26, 9:30 - 12:00
+## _Regionalismos y transferencias culturales en la Europa del siglo XX_. Virtual Seminar.
+### Xosé Manoel Núñez Seixas (Universidad de Santiago de Compostela)
+##### Friday, June 26, 9:30 - 12:00
 
 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
