@@ -10,6 +10,7 @@ team:
    - res: Laura Fólica
    - res: Marta Puxan Oliva
    - res: Neus Rotger
+   - res: Aurea Mota
    - res: Ventsislav Ikoff
 
 ---

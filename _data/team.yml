@@ -127,22 +127,23 @@ Aurea Mota:
    name        : "Aurea Mota"
    bio-short   : "Postdoctoral researcher (UOC)"
    bio         : "Aurea Mota is an interdisciplinary oriented sociologist whose main research interests lie in social theory and comparative historical sociology. She studied Sociology at the Minas
-Gerais Federal University, Brazil (BA and MA) and her PhD is at the Institute for the Study of Society and Politics in Rio de Janeiro. While doing her PhD, Aurea was a Visiting
-Researcher in the Department of Sociology, Sussex University/UK. She was also a visiting fellow at the University of Hamburg in 2019. She was the recipient of two awards from the
-Latin American Social Science Research Council (CLACSO). 
+                  Gerais Federal University, Brazil (BA and MA) and her PhD is at the Institute for the Study of Society and Politics in Rio de Janeiro. While doing her PhD, Aurea was a Visiting
+                  Researcher in the Department of Sociology, Sussex University/UK. She was also a visiting fellow at the University of Hamburg in 2019. She was the recipient of two awards from the
+                  Latin American Social Science Research Council (CLACSO).
 
-Aurea worked a post-doctoral research in the ERC project Trajectories of Modernity – as a product of this project, she
-wrote the book “Collective Action and Political Transformation”, co-authored with Professor Peter Wagner. Currently, she is a member of the Political Philosophy Group of the Latin
-American Research Council (CLACSO) and an associate researcher of the Centre d&#39;Estudis sobre Cultura, Política i Sociedad at the University of Barcelona (CECUPS/UB). Her
-publications (articles and books) are about Latin America social and political thought, the human condition in the Anthropocene age, historical sociology, and social theory."
-#   biblio:
-#    - ref:
-avatar      : "/assets/images/Aurea Mota.JPG"
-url         : "/team/researchers/aurea-mota/"
-links:
-- label: "aureamotta@gmail.com"
-icon: "fas fa-fw fa-envelope-square"
-url: "mailto:aureamotta@gmail.com"
+
+                  Aurea worked a post-doctoral research in the ERC project Trajectories of Modernity – as a product of this project, she
+                  wrote the book “Collective Action and Political Transformation”, co-authored with Professor Peter Wagner. Currently, she is a member of the Political Philosophy Group of the Latin
+                  American Research Council (CLACSO) and an associate researcher of the Centre d&#39;Estudis sobre Cultura, Política i Sociedad at the University of Barcelona (CECUPS/UB). Her
+                  publications (articles and books) are about Latin America social and political thought, the human condition in the Anthropocene age, historical sociology, and social theory."
+  #   biblio:
+  #    - ref:
+   avatar      : "/assets/images/aurea-mota.jpg"
+   url         : "/team/researchers/aurea-mota/"
+   links:
+    - label: "aureamotta@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aureamotta@gmail.com"
 
 Pau Bosch Santos:
    name        : "Pau Bosch Santos"
