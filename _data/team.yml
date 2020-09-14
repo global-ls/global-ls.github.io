@@ -297,6 +297,14 @@ Lucía Leandro Hernández:
                   She is member of the GlobaLS team in the communication and research support area."
     avatar     : "/assets/images/lucia-leandro.jpg"
     url        : "team/assistants/lucia-leandro/"
+    
+    name       : "Helena Herrera Clapers"
+    bio-short  : "Research support"
+    bio        : "Helena Herrera Clapers is a third-year student in the Literary Studies degree at the University of Barcelona. Her interests are mainly related to comparative literature and the connections that exist between different artistic fields, translation, and linguistic and literary phenomena that happens in border areas.
+
+                  She is member of the GlobaLS team in the research support area."
+    avatar     : "/assets/images/Helena_Herrera.jpg"
+    url        : "team/assistants/Helena_Herrera/"
 
 Paulo Lemos Horta:
    name        : "Paulo Lemos Horta"
