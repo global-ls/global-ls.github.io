@@ -303,7 +303,7 @@ Lucía Leandro Hernández:
     - label: "lleandro@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lleandro@uoc.edu"
-      
+
 Paulo Lemos Horta:
    name        : "Paulo Lemos Horta"
    bio         : "Paulo Lemos Horta is a scholar of world literature, the works, and authors who exert an impact beyond their cultures of origin. He is currently interested in the cross-cultural collaborations that influenced The Thousand and One Nights, and the reception of the works of 16th Century Portuguese author Luis de Camões, who lived in the Middle East and South Asia. His latest book, _Marvellous Thieves: Secret Authors of the Arabian Nights_ will be published by Harvard University Press in January 2017.
@@ -339,15 +339,15 @@ Maud Gonne:
 
 Helena Herrera Clapers:
    name        : "Helena Herrera Clapers"
-#   bio-short   : "Research Assistant"
-#   bio         : "Helena Herrera Clapers is a third-year student in the Literary Studies degree at the University of Barcelona. Her interests are mainly related to comparative literature and the connections that exist between different artistic fields, translation, and linguistic and literary phenomena that happens in border areas.
+   bio-short   : "Research Assistant"
+   bio         : "Helena Herrera Clapers is a third-year student in the Literary Studies degree at the University of Barcelona. Her interests are mainly related to comparative literature and the connections that exist between different artistic fields, translation, and linguistic and literary phenomena that happens in border areas.
 
                   She is member of the GlobaLS team in the research support area."
 #   biblio:
 #    - ref:
    avatar      : "/assets/images/Helena_Herrera.jpg"
-#   url         : "/team/assistants/helena-herrera/"
-#   links:
-#    - label: "hherrerac@uoc.edu"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:hherrerac@uoc.edu"
+   url         : "/team/assistants/helena-herrera/"
+   links:
+    - label: "hherrerac@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hherrerac@uoc.edu"
