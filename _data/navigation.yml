@@ -64,7 +64,7 @@ team:    #navigation sidebar for Team
     url: /team/assistants/
     children:
          -   title: "Helena Herrera Clapers"
-#             url: /team/assistants/helena-herrera/
+             url: /team/assistants/helena-herrera/
          -   title: Lucía Leandro Hernández
              url: /team/assistants/lucia-leandro/
 
