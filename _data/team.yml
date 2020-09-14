@@ -295,9 +295,15 @@ Lucía Leandro Hernández:
 
 
                   She is member of the GlobaLS team in the communication and research support area."
+    #   biblio:
+    #    - ref:
     avatar     : "/assets/images/lucia-leandro.jpg"
     url        : "team/assistants/lucia-leandro/"
-    
+    links:
+    - label: "lleandro@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lleandro@uoc.edu"
+      
 Paulo Lemos Horta:
    name        : "Paulo Lemos Horta"
    bio         : "Paulo Lemos Horta is a scholar of world literature, the works, and authors who exert an impact beyond their cultures of origin. He is currently interested in the cross-cultural collaborations that influenced The Thousand and One Nights, and the reception of the works of 16th Century Portuguese author Luis de Camões, who lived in the Middle East and South Asia. His latest book, _Marvellous Thieves: Secret Authors of the Arabian Nights_ will be published by Harvard University Press in January 2017.
