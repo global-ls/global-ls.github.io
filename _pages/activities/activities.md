@@ -10,10 +10,6 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption
 ---
-## Film History from a Transnational Approach
-### Malte Hagener (University of Marburg)
-##### October 8 2020, Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona
-
 ## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/calls/)
 ##### Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain). November 19-20, 2020
 
