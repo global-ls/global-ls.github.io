@@ -10,10 +10,10 @@ sidebar:
 September 15, 2020
 
 Texts for discussion:
-- Raymond Williams, “Culture”, en *Keywords: A vocabulary of culture and society*. Oxford University Press, 1983, pp. 87-93.
-- Roger Chartier, “Le monde comme représentation”, en *Annales. Economies, sociétés, civilisations*, 44 (6), 1989, pp. 1505-1520.  
-- Peter Burke, “The Rise of Constructivism”, en *What is Cultural History?*. Polity Press, 2004, pp. 75-79.
-- Alessandro Arcangeli, Jörg Rogge i Hannu Salmi, “General Introduction”, en *The Routledge Companion to Cultural History in the Western World*. Routledge, 2020, pp. 1-5. 
+- Raymond Williams, “Culture”. *Keywords: A vocabulary of culture and society*. Oxford University Press, 1983, pp. 87-93.
+- Roger Chartier, “Le monde comme représentation”. *Annales. Economies, sociétés, civilisations*, 44 (6), 1989, pp. 1505-1520.  
+- Peter Burke, “The Rise of Constructivism”. *What is Cultural History?*. Polity Press, 2004, pp. 75-79.
+- Alessandro Arcangeli, Jörg Rogge and Hannu Salmi. “General Introduction”, *The Routledge Companion to Cultural History in the Western World*. Routledge, 2020, pp. 1-5. 
 
 ### Virtual Seminar with Christophe Gauthier (École des Chartes)
 
@@ -23,9 +23,9 @@ Wednesday, July 8, 10:00 - 12:30
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 Texts under discussion:
-- Christophe Gauthier, “Des Femmes aux origines de la cinémathèque française”, en L'écran rouge, syndicalisme et cinéma de Gabin à Belmondo (Tangui Perron dir.). Ivry-sur-Seine, L'Atelier, 2018.
-- Christophe Gauthier, “L'introuvable critique. Légitimation de l'art et hybridation des discours aux sources de la critique cinématographique”. En Mil neuf cent. Revue d’histoire intellectuelle, 26 (1), 2008, pp. 51-72.
-- Germán Silveira, “The literary origins of film criticism in Argentina and Uruguay: Horacio Quiroga’s reviews, 1918–1931”. In Historical Journal of Film, Radio and Television, 36 (2), 2016, pp. 232-251.
+- Christophe Gauthier, “Des Femmes aux origines de la cinémathèque française”. _L'écran rouge, syndicalisme et cinéma de Gabin à Belmondo_ (Tangui Perron dir.). Ivry-sur-Seine, L'Atelier, 2018.
+- Christophe Gauthier, “L'introuvable critique. Légitimation de l'art et hybridation des discours aux sources de la critique cinématographique”. _Mil neuf cent. Revue d’histoire intellectuelle_, 26 (1), 2008, pp. 51-72.
+- Germán Silveira, “The literary origins of film criticism in Argentina and Uruguay: Horacio Quiroga’s reviews, 1918–1931”. _Historical Journal of Film, Radio and Television_, 36 (2), 2016, pp. 232-251.
 
 ### _Regionalismos y transferencias culturales en la Europa del siglo XX_. Virtual Seminar with Xosé Manoel Núñez Seixas (Universidad de Santiago de Compostela)
 
