@@ -12,7 +12,7 @@ photos:
 ---
 ## Project presentation
 ### _"Spaces of Experience. Displacement and Knowledge in Modernity"_ 
-[**Aurea Mota** (Universitat Oberta de Catalunya)] (https://globals.research.uoc.edu/team/researchers/aurea-mota/)
+[**Aurea Mota** (Universitat Oberta de Catalunya)](https://globals.research.uoc.edu/team/researchers/aurea-mota/)
 ##### October 14 2020, 12:00 - 13:30. [Virtual]
 
 ## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/calls/)
