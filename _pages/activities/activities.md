@@ -15,6 +15,10 @@ photos:
 [**Aurea Mota** (Universitat Oberta de Catalunya)](https://globals.research.uoc.edu/team/researchers/aurea-mota/)
 ##### October 14 2020, 12:00 - 13:30. [Virtual]
 
+Texts under discussion:
+
+Aurea Mota, "On Spaces and Experiences: modern displacements, interpretationsand universal claims", in _Annual of European and Global Studies_,4. Edinburgh University Press, 2018, pp. 161-182.
+
 ## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/calls/)
 ##### Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain). November 19-20, 2020
 
