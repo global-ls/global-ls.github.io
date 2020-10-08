@@ -13,8 +13,8 @@ main:
   - title: "ERC Grant"
     url: /ercproject/
     background: special
-  - title: "Calls"
-    url: /calls/
+#  - title: "Calls"
+#    url: /calls/
   - title: "News archive"
     url: /news/
   - title: "Contact"
