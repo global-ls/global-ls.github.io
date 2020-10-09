@@ -5,6 +5,9 @@ permalink: /ercproject/events/seminars/
 sidebar:
         nav: ercproject
 ---
+### Seminar "Principis del Web Scraping i OCR” with Marc Moreno 
+October 13 2020, 13.00h - 14.15h. [Virtual]
+
 ### Reading Seminar on Cultural History. Moderated by Pablo Suárez-Mansilla (UOC - GlobaLS)
 
 September 15, 2020
