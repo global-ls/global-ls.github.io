@@ -10,6 +10,11 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption
 ---
+## ERC Seminar
+### _"Principis del Web Scraping i OCR"_ 
+**Marc Moreno** 
+#### October 13 2020, 13.00h - 14.15h. [Virtual] 
+
 ## Project presentation
 ### _"Spaces of Experience. Displacement and Knowledge in Modernity"_ 
 [**Aurea Mota** (Universitat Oberta de Catalunya)](https://globals.research.uoc.edu/team/researchers/aurea-mota/)
