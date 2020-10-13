@@ -6,7 +6,7 @@ sidebar:
         nav: ercproject
 ---
 ### ERC Seminar
-### _"“Leer la imagen: Cine y teoría de género”_
+### _"Leer la imagen: Cine y teoría de género"_
 **Katarzyna Paszkiewicz**
 #### November 3 2020, 15_00 - 17_30. [Virtual]
 
