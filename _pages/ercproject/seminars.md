@@ -5,6 +5,22 @@ permalink: /ercproject/events/seminars/
 sidebar:
         nav: ercproject
 ---
+### ERC Seminar
+### _"“Leer la imagen: Cine y teoría de género”_
+**Katarzyna Paszkiewicz**
+#### November 3 2020, 15_00 - 17_30. [Virtual]
+
+![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
+
+Texts under discussion: 
+
+- Colaizzi, Giulia (2007). “Género y tecnología: de la voz femenina a la estilización del cuerpo”, La pasión del significante: Teoría de género y cultura visual, Madrid: Biblioteca Nueva, pp. 21-35.
+- Mulvey, Laura (1989). “Visual Pleasure and Narrative Cinema”, Visual and Other Pleasures, Bloomington: Indiana University Press, pp. 14-26.
+- Paszkiewicz, Katarzyna (2018). “Introduction: Impossible Liaisons? Genre and Feminist Film Criticism”, Genre, Authorship and Contemporary Women Filmmakers, Edinburgh: Edinburgh University Press, pp. 1-33.
+
+**Katarzyna Paszkiewicz** is Lecturer in English Studies at the University of the Balearic Islands and a member of ADHUC – Research Centre for Theory, Gender and Sexuality (University of Barcelona). Her primary research is in Film Studies, Cultural Studies and Gender Studies, with an emphasis on film genres and women’s cinema in the USA and Spain. She has co-edited, with Mary Harrod, _Women Do Genre in Film and Television_ (Routledge, 2017), and published two monographs: _Rehacer los géneros: Mujeres cineastas dentro y fuera de Hollywood_ (Icaria, 2017) and _Genre, Authorship and Contemporary Women Filmmakers_ (Edinburgh University Press, 2018). Her most recent edited collection, _Final Girls, Femininity and Popular Culture_ (Palgrave, 2020)co-edited with Stacy Rusnak, addresses contemporary reformulations of the Final Girl in film, TV and literature. She is Principal Researcher in the project “Cinema and Environment: Affective Ecologies in the Anthropocene” (PID2019-110068GA-I00, Ministerio de Ciencia e Innovación). 
+
 ### Seminar "Principis del Web Scraping i OCR” with Marc Moreno 
 October 13 2020, 13.00h - 14.15h. [Virtual]
 
