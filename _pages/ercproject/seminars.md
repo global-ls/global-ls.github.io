@@ -5,8 +5,8 @@ permalink: /ercproject/events/seminars/
 sidebar:
         nav: ercproject
 ---
-### ERC Seminar
-### _"Leer la imagen: Cine y teoría de género"_
+## ERC Seminar
+### _"Cine y teoría de género"_
 **Katarzyna Paszkiewicz**
 #### November 3 2020, 15:00 - 17:30. [Virtual]
 
