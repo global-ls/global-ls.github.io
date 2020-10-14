@@ -24,8 +24,8 @@ Texts under discussion:
 
 Aurea Mota, "On Spaces and Experiences: modern displacements, interpretationsand universal claims", in _Annual of European and Global Studies_, 4. Edinburgh University Press, 2018, pp. 161-182.
 
-### ERC Seminar
-### _"Leer la imagen: Cine y teoría de género"_
+## ERC Seminar
+### _"Cine y teoría de género"_
 **Katarzyna Paszkiewicz**
 #### November 3 2020, 15:00 - 17:30. [Virtual]
 
