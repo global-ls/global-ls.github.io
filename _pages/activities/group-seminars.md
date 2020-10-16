@@ -10,6 +10,14 @@ photos:
         size:  # small, medium (default), or large
         caption: # photo caption
 ---
+## Project presentation
+### _"Spaces of Experience. Displacement and Knowledge in Modernity"_ 
+[**Aurea Mota** (Universitat Oberta de Catalunya)](https://globals.research.uoc.edu/team/researchers/aurea-mota/)
+##### October 14 2020, 12:00 - 13:30. [Virtual]
+
+Texts under discussion:
+- Aurea Mota, "On Spaces and Experiences: modern displacements, interpretationsand universal claims", in _Annual of European and Global Studies_, 4. Edinburgh University Press, 2018, pp. 161-182.
+
 ## Virtual Seminar with Christophe Gauthier (École des Chartes)
 ##### Wednesday, July 8, 10:00 - 12:30
 
