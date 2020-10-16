@@ -18,7 +18,7 @@ photos:
 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
-**Blaise Wilfert** is Lecturer at the École Normale Supérieure (Department of Social Sciences) and Associate Researcher at the Institute of Modern and Contemporary History (CNRS), his research work focuses on cultural internationality (closely articulated cultural movements and nationalizations) in Europe between 1850 and 1930. He was also been deputy director of the [Masters in Transnational History](https://histoire.ens.psl.eu/-master-) (École Normale Supérieure / École Nationale des Chartes) since it opened in September 2016. 
+**Blaise Wilfert** is Lecturer at the École Normale Supérieure (Department of Social Sciences) and Associate Researcher at the Institute of Modern and Contemporary History (CNRS), his research work focuses on cultural internationality (closely articulated cultural movements and nationalizations) in Europe between 1850 and 1930. He was also been deputy director of the [Master in Transnational History](https://histoire.ens.psl.eu/-master-) (École Normale Supérieure / École Nationale des Chartes) since it opened in September 2016. 
 
 ## ERC Seminar
 ### _"Cine y teoría de género"_
