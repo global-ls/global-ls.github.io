@@ -10,14 +10,15 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption
 ---
-## Project presentation
-### _"Spaces of Experience. Displacement and Knowledge in Modernity"_ 
-[**Aurea Mota** (Universitat Oberta de Catalunya)](https://globals.research.uoc.edu/team/researchers/aurea-mota/)
-##### October 14 2020, 12:00 - 13:30. [Virtual]
+## ERC Seminar
+### _Transnational History_
+**Blaise Wilfert**
+#### October 22 2020, 10:30 - 13:00. [Virtual]
 
-Texts under discussion:
+![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
-Aurea Mota, "On Spaces and Experiences: modern displacements, interpretationsand universal claims", in _Annual of European and Global Studies_, 4. Edinburgh University Press, 2018, pp. 161-182.
+**Blaise Wilfert** is Lecturer at the École Normale Supérieure (Department of Social Sciences) and Associate Researcher at the Institute of Modern and Contemporary History (CNRS), his research work focuses on cultural internationality (closely articulated cultural movements and nationalizations) in Europe between 1850 and 1930. He was also been deputy director of the [https://histoire.ens.psl.eu/-master-](Masters in Transnational History) (École Normale Supérieure / École Nationale des Chartes) since it opened in September 2016. 
 
 ## ERC Seminar
 ### _"Cine y teoría de género"_
