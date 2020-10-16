@@ -11,7 +11,7 @@ photos:
       caption: # photo caption
 ---
 ## ERC Seminar
-### _Transnational History_
+### _"Transnational History"_
 **Blaise Wilfert**
 #### October 22 2020, 10:30 - 13:00. [Virtual]
 
