@@ -64,7 +64,7 @@ With the participation of **Diana Roig Sanz** (Keynote Speaker)
 With the participation of **Diana Roig Sanz** (Keynote Speaker)
 
 ## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/calls/)
-##### Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain). November 19-20, 2020
+##### Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona (Spain). November 18-20, 2020
 
 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
