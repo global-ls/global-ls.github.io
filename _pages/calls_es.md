@@ -8,7 +8,7 @@ permalink: /es/calls/
 [Descargar la convocatoria](/assets/docs/CfP_Instituciones_Culturales_ES.pdf){: .btn .btn--inverse download="convocatoria_institucionesculturales_uoc_es"} [English version](/calls/){: .btn .btn--inverse } [Download the call as pdf](/assets/docs/CfP_CulturalorganizationsUOC_EN.pdf){: .btn .btn--inverse download="cfp-culturalorganizations_uoc_en"}
 {: style="text-align:center"}
 
-**Fecha**: 19-20 de noviembre, 2020  
+**Fecha**: 18-20 de noviembre, 2020  
 **Lugar**: Universitat Oberta de Catalunya, Av. Tibidabo 39, 08035, Barcelona.
 
 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organizado por el proyecto *ERC StG Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*, dirigido por Diana Roig Sanz.  
