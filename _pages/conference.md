@@ -11,7 +11,7 @@ permalink: /conference/
 The program has been published and is [available here (pdf)](/assets/docs/programme.pdf)
 
 **Attendance**  
-Participation in the conference is free of charge. Please register by contacting Lucía Lleandro (lleandro@uoc.edu).  
+Participation in the conference is free of charge. Please register by contacting Lucía Leandro (lleandro@uoc.edu).  
 A link to the virtual room will be sent to you the day before the conference.
 
 **Summary**

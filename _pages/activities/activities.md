@@ -33,10 +33,10 @@ IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 
 **Programme**
-The programme for the conference is [available here](assets/docs/programme.pdf).
+The programme for the conference is [available here](/assets/docs/programme.pdf).
 
 **Attendance**
-Participation in the conference is free of charge. Please register by contacting Lucía Lleandro (lleandro@uoc.edu)
+Participation in the conference is free of charge. Please register by contacting Lucía Leandro (lleandro@uoc.edu)
 
 
 **Organizers:**
@@ -55,7 +55,7 @@ Après un premier congrès en juin 2015, Médias 19 et Numapresse organisent une
 
 Le projet scientifique franco-québécois Médias 19, articulé autour de la plateforme numérique www.medias19.org, a été le cadre de développement d’une réflexion, depuis 2011, sur les pratiques journalistiques au XIXe siècle, sur la valorisation et l’analyse des corpus, ainsi que sur l’étude du développement de la culture médiatique dans l’espace francophone. Depuis 2017, le projet scientifique international Numapresse, financé par l’Agence Nationale pour la Recherche française www.numapresse.org, ambitionne de proposer une nouvelle histoire culturelle et littéraire de la presse française, du XIXe siècle à nos jours, en mobilisant les grands corpus de presse numérisés et les nouveaux outils de text et data mining.
 
-## Call for papers for the 9th Making of the Humanities conference</strong>, UOC-UPF. Barcelona, 21-23 September 2020"
+## Call for papers for the 9th Making of the Humanities conference, UOC-UPF. Barcelona, 21-23 September 2020"
 
 Due to COVID-19, the 9th Making of the Humanities conference has been postponed until September 20-22, 2021.
 {: .notice--warning}
