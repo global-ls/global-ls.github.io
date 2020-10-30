@@ -49,6 +49,7 @@ Authors should submit an abstract (300 words), filiation, bio-note and a short r
 - [Diana Roig Sanz](/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
 - [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.com  
 
+[Read the full programme here](assets/docs/CulturalOrganizations_programa.pdf)
 
 ## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
