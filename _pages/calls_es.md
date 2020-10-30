@@ -72,3 +72,5 @@ Los organizadores prevén la publicación de un volumen colectivo en una editori
 - [Elisabet Carbó](/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  
 - [Diana Roig Sanz](/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
 - [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.com  
+
+[Read the full programme here](assets/docs/CulturalOrganizations_programa.pdf)
