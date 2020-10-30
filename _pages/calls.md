@@ -69,4 +69,4 @@ The organizers have planned the publication of a collective edited volume in a t
 
 - [Elisabet Carbó](/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  
 - [Diana Roig Sanz](/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
-- [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.com  
+- [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.edu  
