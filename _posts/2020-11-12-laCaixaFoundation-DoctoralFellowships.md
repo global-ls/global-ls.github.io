@@ -1,5 +1,5 @@
 ---
-title: "Call of 'la Caixa" Foundation Doctoral Fellowships"
+title: "Call of \"la Caixa\" Foundation Doctoral Fellowships"
 permalink: /news/CaixaFoundation-DoctoralFellowships/
 tags: [la Caixa Foundation, Doctoral Fellowships]
 ---
