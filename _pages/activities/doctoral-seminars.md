@@ -10,6 +10,11 @@ photos:
         size:  # small, medium (default), or large
         caption: # photo caption  
 ---
+## XIII Doctoral Seminar in Literary Studies [Virtual seminar]
+##### 23-26 November 2020
+*Lola Álvarez Bravo, creadora de audiencias y mediadora cultural en el Cine Club Mexicano (1931-1934) y en el 16MM Cine Club (1938-¿?)*
+Ainamar Clariana 
+
 ## XII Doctoral Seminar in Literary Studies [Virtual Seminar]
 ##### 8-12 June 2020
 *The Library of Disaster: The Market of Memory Literature and Its Agents in English, French and Spanish from 1970 to the Present Seen through Prizes*  
