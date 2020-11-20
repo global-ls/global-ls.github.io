@@ -30,6 +30,10 @@ Participation in the conference is free of charge. Please register by contacting
 - [Diana Roig Sanz](/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
 - [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.edu
 
+## XIII Doctoral Seminar in Literary Studies [Virtual seminar]
+##### 23-26 November 2020
+*Lola Álvarez Bravo, creadora de audiencias y mediadora cultural en el Cine Club Mexicano (1931-1934) y en el 16MM Cine Club (1938-¿?)*
+Ainamar Clariana 
 
 ## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
