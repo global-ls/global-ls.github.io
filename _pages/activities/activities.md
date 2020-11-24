@@ -18,9 +18,6 @@ Ainamar Clariana
 ## \"#NoviembreHD\". Asociación Argentina de Humanidades Digitales (AAHD)
 ##### November 27, 2020 - Virtual Conference
 
-![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
-IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
-
 Diana Roig-Sanz and Laura Fólica participate in the virtual conference "#NovemberHD" of the Asociación Argentina de Humanidades Digitales (AAHD). Their participation is titled “Redes sociales del pasado. Mapear la modernidad literaria hispánica y lusófona a través de las publicaciones periódicas”.
 
 You can see the information to the conference [here](https://www.aacademica.org/noviembrehd)!
