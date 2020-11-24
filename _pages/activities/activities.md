@@ -10,30 +10,20 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption
 ---
-## [Cultural Organizations: Between the Local and the Global (1880s-1960s)](/conference/)
-##### November 18-20, 2020 - Virtual Conference
-
-![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
-IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
-
-
-**Programme**
-The programme for the conference is [available here](/assets/docs/programme.pdf).
-
-**Attendance**
-Participation in the conference is free of charge. Please register by contacting Lucía Leandro (lleandro@uoc.edu)
-
-
-**Organizers:**
-
-- [Elisabet Carbó](/team/phd/elisabet-carbo/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): ecarboc@uoc.edu  
-- [Diana Roig Sanz](/team/researchers/diana-roig/) (Social Networks of the Past/GlobaLS, IN3, Estudis d’Arts i Humanitats, UOC): dsanzr@uoc.edu  
-- [Lucía Leandro Hernández](/team/assistants/lucia-leandro/) (GlobaLS, UOC): lleandro@uoc.edu
-
 ## XIII Doctoral Seminar in Literary Studies [Virtual seminar]
 ##### 23-26 November 2020
 *Lola Álvarez Bravo, creadora de audiencias y mediadora cultural en el Cine Club Mexicano (1931-1934) y en el 16MM Cine Club (1938-¿?)*
 Ainamar Clariana 
+
+## \"#NoviembreHD\". Asociación Argentina de Humanidades Digitales (AAHD)
+##### November 27, 2020 - Virtual Conference
+
+![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
+
+Diana Roig-Sanz and Laura Fólica participate in the virtual conference "#NovemberHD" of the Asociación Argentina de Humanidades Digitales (AAHD). Their participation is titled “Redes sociales del pasado. Mapear la modernidad literaria hispánica y lusófona a través de las publicaciones periódicas”.
+
+You can see the information to the conference [here](https://www.aacademica.org/noviembrehd)!
 
 ## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
