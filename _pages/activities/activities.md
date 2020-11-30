@@ -10,17 +10,15 @@ photos:
       size: # small, medium (default), or large
       caption: # photo caption
 ---
-## XIII Doctoral Seminar in Literary Studies [Virtual seminar]
-##### 23-26 November 2020
-*Lola Álvarez Bravo, creadora de audiencias y mediadora cultural en el Cine Club Mexicano (1931-1934) y en el 16MM Cine Club (1938-¿?)*
-Ainamar Clariana 
+## ERC Seminar
+### _"Cine y teoría de género"_
+**Mar Binimelis**
+#### December 15 2020, 15:00 - 17:30. [Virtual]
 
-## \"#NoviembreHD\". Asociación Argentina de Humanidades Digitales (AAHD)
-##### November 27, 2020 - Virtual Conference
+![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
-Diana Roig-Sanz and Laura Fólica participate in the virtual conference "#NovemberHD" of the Asociación Argentina de Humanidades Digitales (AAHD). Their participation is titled “Redes sociales del pasado. Mapear la modernidad literaria hispánica y lusófona a través de las publicaciones periódicas”.
-
-You can see the information to the conference [here](https://www.aacademica.org/noviembrehd)!
+**Mar Binimelis** is a professor at the University of Vic-Central University of Catalonia (Spain). She received his PhD (with honours) in International Cinema Co-production from University Rovira i Virgili. Her research interests include Gender, Audiovisuals, Cinema and Participation in Media.
 
 ## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
