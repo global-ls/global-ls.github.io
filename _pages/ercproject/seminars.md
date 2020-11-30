@@ -7,6 +7,16 @@ sidebar:
 ---
 ## ERC Seminar
 ### _"Cine y teoría de género"_
+**Mar Binimelis**
+#### December 15 2020, 15:00 - 17:30. [Virtual]
+
+![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
+IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
+
+**Mar Binimelis** is a professor at the University of Vic-Central University of Catalonia (Spain). She received his PhD (with honours) in International Cinema Co-production from University Rovira i Virgili. Her research interests include Gender, Audiovisuals, Cinema and Participation in Media.
+
+## ERC Seminar
+### _"Cine y teoría de género"_
 **Katarzyna Paszkiewicz**
 #### November 3 2020, 15:00 - 17:30. [Virtual]
 
