@@ -20,7 +20,7 @@ IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
 [Impresso Project](https://impresso-project.ch/) "Media monitoring of the past. Mining 200 years of historical newspapers" is to enable critical text mining of newspaper archives with the implementation of a technological framework to extract, process, link, and explore data from print media archives. Supported by an [interdisciplinary consortium](https://impresso-project.ch/consortium/) composed of computational linguists, digital humanists, designers, historians, librarians and archivists, impresso (i.e. “what has been printed”) will tackle the challenges of content enrichment and data representation, visualization and analysis, completed by methodological and epistemological reflections. Expected outcomes include, among others, a set of natural language processing (NLP) tools dedicated to historical print media, visualization interfaces for active exploration and critical analysis of newspaper corpora in a transparent manner, as well as a digital history research project on resistance to European unification in the late 19th and early 20th centuries.
 
-Time frame to the project: September 2017 - August 2020
+Time frame to the project: September 2017 - August 2020. 
 
 ## ERC Seminar
 ### _"Cine y teoría de género"_
