@@ -8,7 +8,7 @@ sidebar:
 ## ERC Seminar
 ### _"Presentation: Impresso Project"_
 **Maud Ehrmann and Marten Düring**
-#### December 1 2020, 13:30 - 15:00. [Virtual]
+#### December 1 2020, 13:30 - 16:30. [Virtual]
 
 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
