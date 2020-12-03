@@ -11,14 +11,26 @@ photos:
       caption: # photo caption
 ---
 ## ERC Seminar
-### _"Cine y teoría de género"_
-**Mar Binimelis**
+### _"Qui compta? Representacions de gènere al cinema i la seva circulació"_
+**Mar Binimelis Adell**
 #### December 15 2020, 15:00 - 17:30. [Virtual]
 
 ![European Research Council](/assets/images/logo-eu-erc.png){: .align-right style="width: 10em; height:auto;"} Organized by the *ERC StG project Social Networks of the Past: Mapping Hispanic and Lusophone Literary Modernity (1898-1959)*   (Grant agreement No 803860), led by Diana Roig Sanz.  
 IN3- Arts and Humanities Department, Universitat Oberta de Catalunya.
 
-**Mar Binimelis** is a professor at the University of Vic-Central University of Catalonia (Spain). She received his PhD (with honours) in International Cinema Co-production from University Rovira i Virgili. Her research interests include Gender, Audiovisuals, Cinema and Participation in Media.
+Texts under discussion:
+
+Mar Binimelis. "Perspectivas teóricas en torno a la representación de las mujeres en el cine: una breve aproximación histórica", _Secuencias: Revista de historia del cine_, 42, 2015: 7-34. 
+
+Mar Binimelis, Josetxo Cerdán & Miguel Fernández Labayen. "In and out: the transnational circulation of Spanish cinema in digital times", _Journal of Spanish Cultural Studies_, 16 (1), 2015: 1-8. 
+
+Elena Ortega Oroz & Mar Binimelis. "Who counts? The presence of women directors in Spanish independent cinema through a data analysis of film circulation", _Comunicación y Sociedad_, 3 (33), 2020: 101-118.
+
+**Mar Binimelis Adell** is a professor of the Department of Communication of the Universitat de Vic - Universitat Central de Catalunya (UVic-UCC) and the Interuniversity Master's Degree in Women's Studies, Gender and Citizenship (UB). Member of the TRACTE research group (Traducción Audiovisual, Comunicación y Territorio), of the MYC project (red internacional de investigación [Mujeres y Cine](https://mujeresycine.home.blog/)) and CEIG researcher ([Center for Interdisciplinary Gender Studies of the UVic-UCC](https://www.uvic.cat/recerca/ceig)). 
+
+She publishes regularly in academic journals. She is currently working on editing from the books _Espectáculo de frontera y contranarrativas migrantes. Estudios de caso sobre la representacíón y autorepresentación audiovisual de los migrantes y refugiados en dos orillas del Atlántico_ (Binimelis-Adell, Mar & Varela Huertas, Amarela, (eds.) Peter Lang) and _Conversaciones con mujeres profesionales del sector cinematográfico español_ (Annette Scholz, Elena Oroz, Mar Binimelis-Adell & Marta Álvarez, (eds.) Peter Lang. Romania Viva Collection).
+
+Researcher of the project of I+D “Las relaciones transnacionales en el cine digital hispanoamericano: los ejes de España, México y Argentina” (CSO2014-52750-P). Project coordinator of ‘Crossroads’ (European Comission. Erasmus+) and ‘Transformando imaginarios de género’ (ICD), among others. In addition to around gender also investigates other axes of inequality and power in the media communication and audiovisuals. She has been a visiting researcher at Vassar College (New York), at the Universidad Autónoma de México (UNAM) and Universidad Autónoma de la Ciudad de México (UACM) and at the Humboldt-Universität in Berlin between other institutions.
 
 ## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
