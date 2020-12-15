@@ -15,8 +15,8 @@ main:
     background: special
 #  - title: "Calls"
 #    url: /calls/
-  - title: "Conference"
-    url: /conference/
+#  - title: "Conference"
+#    url: /conference/
   - title: "News archive"
     url: /news/
   - title: "Contact"
