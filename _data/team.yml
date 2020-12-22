@@ -285,25 +285,6 @@ Jorge J. Locane:
    avatar      : "/assets/images/jorge-locane.jpg"
    url         : "/team/visiting/jorge-locane/"
 
-Lucía Leandro Hernández:
-    name       : "Lucía Leandro Hernández"
-    bio-short  : "Communications and research support"
-    bio        : "Lucía Leandro Hernández has a bachelor's degree in music from the Universidad de Costa Rica, where she also has studies in music education and Latin American literature. She has obtained a pedagogy degree from the Universidad San Marcos, Costa Rica. She was an active music professor in the National Education System of Costa Rica (Ministerio de Educación Publica) and member of the Heredia Symphony Orchestra. In 2014 she obtained a professional performance certificate in music from Penn State University, USA.
-
-
-                  She has a master degree in literary theory and comparative literature from the Universitat de Barcelona, where she is currently a PhD student in the program of linguistic, literary and cultural studies. She centers her research on fantastic literature and science fiction literature written by women in Central America, among late twentieth and early twenty-first century.
-
-
-                  She is member of the GlobaLS team in the communication and research support area."
-    #   biblio:
-    #    - ref:
-    avatar     : "/assets/images/lucia-leandro.jpg"
-    url        : "team/assistants/lucia-leandro/"
-    links:
-    - label: "lleandro@uoc.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lleandro@uoc.edu"
-
 Paulo Lemos Horta:
    name        : "Paulo Lemos Horta"
    bio         : "Paulo Lemos Horta is a scholar of world literature, the works, and authors who exert an impact beyond their cultures of origin. He is currently interested in the cross-cultural collaborations that influenced The Thousand and One Nights, and the reception of the works of 16th Century Portuguese author Luis de Camões, who lived in the Middle East and South Asia. His latest book, _Marvellous Thieves: Secret Authors of the Arabian Nights_ will be published by Harvard University Press in January 2017.
