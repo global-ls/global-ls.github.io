@@ -6,8 +6,7 @@ classes: wide
 sidebar:
         nav: "team"
 team:
-   - res: Helena Herrera Clapers
-   - res: Lucía Leandro Hernández   
+   - res: Helena Herrera Clapers 
 ---
 <section class="entries-grid">
 {%- assign team = page.team -%}
