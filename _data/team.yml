@@ -1,6 +1,6 @@
 Diana Roig Sanz:
    name        : "Diana Roig Sanz"
-   bio-short   : " - Coordinator of GlobaLS - 2018 ERC Starting Grant holder - Ramon y Cajal Research Fellow (UOC) - PI of MapModern"
+   bio-short   : " - Coordinator of GlobaLS - 2018 ERC Starting Grant holder - Ramón y Cajal Research Fellow (UOC) - PI of MapModern"
    bio         : "Diana Roig-Sanz is an ERC Starting Grant holder and a Ramón y Cajal senior research fellow at the Universitat Oberta de Catalunya (UOC). She has been visiting professor at the Oxford Internet Institute, at the University of Oxford, and has developed research residencies and postdoctoral fellowships at top-ranked institutions such the Centre for Translation Studies (KU Leuven); the IHMC (École Normale Supérieure), the Department of European and Intercultural Studies (La Sapienza), or the Amsterdam School for Cultural Analyses (Amsterdam).
 
 
@@ -55,8 +55,8 @@ Laura Fólica:
 
 Marta Puxan Oliva:
    name        : "Marta Puxan Oliva"
-   bio-short   : "Postdoctoral researcher (UOC) - Assistant Professor at the Universitat de Barcelona."
-   bio         : "Marta Puxan-Oliva is a postdoctoral researcher in the Department of Arts and Humanities at the Universitat Oberta de Catalunya (UOC) and an Assistant Professor in the Department of Modern Languages and Literatures and English Studies at the Universitat de Barcelona.
+   bio-short   : "Ramón y Cajal Research Fellow (Universitat de les Illes Balears)"
+   bio         : "Marta Puxan-Oliva is a Senior Ramón y Cajal Researcher in the Literary Theory Section in the Department of Catalan Philology and General Linguistics at the Universitat de les Illes Balears. 
 
 
                   She specializes in comparative literature with an expertise in Narrative Theory, Racial Studies, World Literature, and Ecocriticism.
@@ -284,25 +284,6 @@ Jorge J. Locane:
     - ref: "Locane, Jorge J. (2016). *Miradas locales en tiempos globales. Intervenciones literarias sobre la ciudad latinoamericana*. Madrid / Frankfurt: Iberoamericana Vervuert."
    avatar      : "/assets/images/jorge-locane.jpg"
    url         : "/team/visiting/jorge-locane/"
-
-Lucía Leandro Hernández:
-    name       : "Lucía Leandro Hernández"
-    bio-short  : "Communications and research support"
-    bio        : "Lucía Leandro Hernández has a bachelor's degree in music from the Universidad de Costa Rica, where she also has studies in music education and Latin American literature. She has obtained a pedagogy degree from the Universidad San Marcos, Costa Rica. She was an active music professor in the National Education System of Costa Rica (Ministerio de Educación Publica) and member of the Heredia Symphony Orchestra. In 2014 she obtained a professional performance certificate in music from Penn State University, USA.
-
-
-                  She has a master degree in literary theory and comparative literature from the Universitat de Barcelona, where she is currently a PhD student in the program of linguistic, literary and cultural studies. She centers her research on fantastic literature and science fiction literature written by women in Central America, among late twentieth and early twenty-first century.
-
-
-                  She is member of the GlobaLS team in the communication and research support area."
-    #   biblio:
-    #    - ref:
-    avatar     : "/assets/images/lucia-leandro.jpg"
-    url        : "team/assistants/lucia-leandro/"
-    links:
-    - label: "lleandro@uoc.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lleandro@uoc.edu"
 
 Paulo Lemos Horta:
    name        : "Paulo Lemos Horta"
