@@ -36,17 +36,3 @@ This conference is organized by the Global Literary Studies Research Lab (GlobaL
 [**More information**](https://symposium.uoc.edu/65506/detail/international-symposium-on-global-literary-studies_-key-concepts.html)
 
 ![European Research Council](/assets/images/logo-eu-erc.png){: style="width: 13em; height:auto;"} ![GlobaLS](/assets/images/GLS-RL-negre.png){: style="width: 10em; height:auto;"}
-
-
-## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
-
-### [Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion](https://research.uni-leipzig.de/eniugh/congress/)
-
-##### <s>25-28 June 2020</s>. Turku, Finland
-
-Due to the Covid-19 crisis, the congress has been postponed for **17-20 June 2021**. The panel will take place in a virtual setting on **29 June 2020**.
-{: .notice--warning}
-
-Participants: Laura Fólica (Open University of Catalonia), Elisabet Carbó (Open University of Catalonia), Maud Gonne (University of Namur), Ana Kvirikashvili (Open University of Catalonia), Ondrej Vimr (Czech Academy of Sciences, Institute of Czech Literature), Golda van der Meer (University of Barcelona)
-
-Panel organised by **Ana Kvirikashvili**, **Elisabet Carbó** and **Diana Roig Sanz**

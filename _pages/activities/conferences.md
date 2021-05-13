@@ -43,6 +43,19 @@ Organising Committee: **Ana Kvirikashvili**, **Elisabet Carbó** and **Diana Roi
 
 [Read the full programme here](/assets/docs/Final_programme_Between_the_Nation_and_the_World.pdf).
 
+## Panel  “Between the nation and the world: The role of translation in the circulation of small/minor/peripheral/less translated literatures”
+
+### [Sixth European Congress on World and Global History: Minorities, Cultures of Integration, and Patterns of Exclusion](https://research.uni-leipzig.de/eniugh/congress/)
+
+##### <s>25-28 June 2020</s>. Turku, Finland
+
+Due to the Covid-19 crisis, the congress has been postponed for **17-20 June 2021**. The panel will take place in a virtual setting on **29 June 2020**.
+{: .notice--warning}
+
+Participants: Laura Fólica (Open University of Catalonia), Elisabet Carbó (Open University of Catalonia), Maud Gonne (University of Namur), Ana Kvirikashvili (Open University of Catalonia), Ondrej Vimr (Czech Academy of Sciences, Institute of Czech Literature), Golda van der Meer (University of Barcelona)
+
+Panel organised by **Ana Kvirikashvili**, **Elisabet Carbó** and **Diana Roig Sanz**
+
 
 ## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
 ##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.

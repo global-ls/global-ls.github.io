@@ -43,12 +43,6 @@ This conference is organized by the Global Literary Studies Research Lab (GlobaL
 ![European Research Council](/assets/images/logo-eu-erc.png){: style="width: 13em; height:auto;"} ![GlobaLS](/assets/images/GLS-RL-negre.png){: style="width: 10em; height:auto;"}
 
 
-## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
-##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
-**Laura Fólica**: "La traduction littéraire dans les revues ibéro-américaines (1898-1959):
-défis méthodologiques dans la construction d'un corpus à grande échelle"  
-**Pablo Suárez-Mansilla**: "Film criticism in Spanish literary, cultural and cinematographic journals in the first third of the 20th century"
-
 ---
 ---
 
@@ -168,6 +162,12 @@ Workshop: “Studying Film Societies. Methodologies, Sources, Prospects”.
 
 Participants:  
 Prof. Dr. Michael Cowan, (University of St. Andrews), Prof. Dr. Malte Hagener (Philipps-University Marburg), Dr. Ainamar Clariana Rodagut (PhD candidate, Open University of Catalonia, Barcelona), Dr. Irene Rozsa (Concordia University Montréal), Sanghita Sen (PhD candidate, University of St. Andrews)
+
+## [Congrès Médias 19-Numapresse:Presses anciennes et contemporaines, à l’heure du numérique](http://www.medias19.org/index.php?id=24370)
+##### Paris, <s>8-11 June 2020</s>. Due to the Covid-19 crisis, the conference has been postponed for May 2021.
+**Laura Fólica**: "La traduction littéraire dans les revues ibéro-américaines (1898-1959):
+défis méthodologiques dans la construction d'un corpus à grande échelle"  
+**Pablo Suárez-Mansilla**: "Film criticism in Spanish literary, cultural and cinematographic journals in the first third of the 20th century"
 
 ## Doing Women’s Film and Television History V: Forming Histories/Histories in Formation.
 ##### <s>Maynooth University, Maynooth, Co. Kildare, Ireland. May 20-22, 2020</s> Cancelled due to COVID-19.
