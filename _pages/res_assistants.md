@@ -6,7 +6,9 @@ classes: wide
 sidebar:
         nav: "team"
 team:
-   - res: Helena Herrera Clapers 
+   - res: Helena Herrera Clapers
+   - res: Cristina Sánchez
+
 ---
 <section class="entries-grid">
 {%- assign team = page.team -%}
@@ -23,7 +25,9 @@ team:
     {%- endif -%}
 
       <article class="archive__item">
+      {%- if person.url -%}
        <a href="{{- person_url -}}">
+      {%- endif -%}
 
        <img src="
               {%- if person.avatar contains "://" -%}
@@ -34,7 +38,9 @@ team:
             alt="{%- if person.name -%}{{- person.name -}}{%- endif -%}">
 
          <h2 class="archive__item-title">{{- person.name -}}</h2>
-         </a>
+         {%- if person.url -%}
+            </a>
+         {%- endif -%}
 
         {%- if person.bio-short -%}
          <div class="archive__item-excerpt">

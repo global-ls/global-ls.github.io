@@ -7,12 +7,14 @@ sidebar:
         nav: "team"
 team:
    - res: Diana Roig Sanz
+   - res: Marvin Agüero   
    - res: Laura Fólica
+   - res: Maud Gonne      
+   - res: Ventsislav Ikoff
+   - res: Marc Moreno 
+   - res: Aurea Mota   
    - res: Marta Puxan Oliva
    - res: Neus Rotger
-   - res: Aurea Mota
-   - res: Maud Gonne
-   - res: Ventsislav Ikoff
 
 ---
 <section class="entries-grid">

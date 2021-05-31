@@ -1,6 +1,6 @@
 Diana Roig Sanz:
    name        : "Diana Roig Sanz"
-   bio-short   : " - Coordinator of GlobaLS - 2018 ERC Starting Grant holder - Ramón y Cajal Research Fellow (UOC) - PI of MapModern"
+   bio-short   : " - Coordinator of GlobaLS - ICREA Research Professor and ERC Starting Grant holder (IN3-UOC) - PI of MapModern"
    bio         : "Diana Roig-Sanz is an ERC Starting Grant holder and a Ramón y Cajal senior research fellow at the Universitat Oberta de Catalunya (UOC). She has been visiting professor at the Oxford Internet Institute, at the University of Oxford, and has developed research residencies and postdoctoral fellowships at top-ranked institutions such the Centre for Translation Studies (KU Leuven); the IHMC (École Normale Supérieure), the Department of European and Intercultural Studies (La Sapienza), or the Amsterdam School for Cultural Analyses (Amsterdam).
 
 
@@ -55,7 +55,7 @@ Laura Fólica:
 
 Marta Puxan Oliva:
    name        : "Marta Puxan Oliva"
-   bio-short   : "Ramón y Cajal Research Fellow (Universitat de les Illes Balears). Former Group Member."
+   bio-short   : "Ramón y Cajal Research Fellow (Universitat de les Illes Balears). Former Group Member"
    bio         : "Marta Puxan-Oliva is a Senior Ramón y Cajal Researcher in the Literary Theory Section in the Department of Catalan Philology and General Linguistics at the Universitat de les Illes Balears.
 
 
@@ -346,3 +346,42 @@ Lucía Campanella:
     - label: "lacmpanella@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:lacmpanella@uoc.edu"
+
+Marc Moreno:
+   name        : "Marc Moreno"
+   bio-short   : "Data Scientist"
+#   bio         : ""
+#   biblio:
+#    - ref:
+   avatar      : "/assets/images/marc-moreno.jpg"
+#   url         : "/team/researchers/marc-moreno/"
+   links:
+    - label: "mmorenogali@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mmorenogali@uoc.edu"
+
+Marvin Agüero:
+   name        : "Marvin Agüero"
+   bio-short   : "Data Scientist"
+#   bio         : ""
+#   biblio:
+#    - ref:
+   avatar      : "/assets/images/marvin-aguero.jpg"
+#   url         : "/team/researchers/marvin-aguero/"
+   links:
+    - label: "maguerot@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:maguerot@uoc.edu"
+
+Cristina Sánchez:
+   name        : "Cristina Sánchez"
+   bio-short   : "Communications Manager"
+#   bio         : ""
+#   biblio:
+#    - ref:
+   avatar      : "/assets/images/cristina-sanchez.jpeg"
+#   url         : "/team/assistants/cristina-sanchez/"
+   links:
+    - label: "csanchezsanchez3@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:csanchezsanchez3@uoc.edu"
