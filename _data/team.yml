@@ -55,8 +55,8 @@ Laura Fólica:
 
 Marta Puxan Oliva:
    name        : "Marta Puxan Oliva"
-   bio-short   : "Ramón y Cajal Research Fellow (Universitat de les Illes Balears)"
-   bio         : "Marta Puxan-Oliva is a Senior Ramón y Cajal Researcher in the Literary Theory Section in the Department of Catalan Philology and General Linguistics at the Universitat de les Illes Balears. 
+   bio-short   : "Ramón y Cajal Research Fellow (Universitat de les Illes Balears). Former Group Member."
+   bio         : "Marta Puxan-Oliva is a Senior Ramón y Cajal Researcher in the Literary Theory Section in the Department of Catalan Philology and General Linguistics at the Universitat de les Illes Balears.
 
 
                   She specializes in comparative literature with an expertise in Narrative Theory, Racial Studies, World Literature, and Ecocriticism.
@@ -75,7 +75,7 @@ Marta Puxan Oliva:
     - ref: "PUXAN-OLIVA, M. (2013). “A Mysterious Heart: ‘Passing’ and the Narrative Enigma in William Faulkner’s Light in August and Absalom, Absalom!”. *Amerikastudien/American Studies*. 58 (1), pp. 51-78."
     - ref: "PUXAN, M. (2007). “Narrative Strategies on the Color Line: the Unreliable Narrator Shreve and Racial Ambiguity in Faulkner’s Absalom, Absalom!”. *Mississippi Quarterly*. 60 (3), pp. 529-559."
    avatar      : "/assets/images/marta-puxan.png"
-   url         : "/team/researchers/marta-puxan/"
+#   url         : "/team/researchers/marta-puxan/"
    links:
     - label: "mpuxano@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -147,7 +147,7 @@ Aurea Mota:
 
 Pau Bosch Santos:
    name        : "Pau Bosch Santos"
-   #bio-short   : "..."
+   bio-short   : "Former PhD Student"
    bio         : "Pau Bosch is a PhD candidate at the UOC and Sorbonne Université Paris IV. His research deals with the consecration of memory literature through literary prizes since the memory boom of the 90s.
 
 
@@ -158,7 +158,7 @@ Pau Bosch Santos:
 #   biblio:
 #    - ref:
    avatar      : "/assets/images/pau-bosch.jpg"
-   url         : "/team/phd/pau-bosch/"
+#   url         : "/team/phd/pau-bosch/"
    links:
     - label: "pboschsantos@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -299,6 +299,7 @@ At NYU Abu Dhabi, Horta teaches classes on The Thousand and One Nights, the theo
 
 Maud Gonne:
    name        : "Maud Gonne"
+   bio-short   : "Marie Skłodowska-Curie Fellow (UOC, Université de Namur, KU Leuven)"
    bio         : "Maud Gonne is a FNRS postdoctoral fellow at UNamur and UCLouvain, Belgium. She is currently working on a project that investigates the role of cultural mediators in Wallonia during different stages of (successful and less successful) national and regional identity-building.
 
 
@@ -312,7 +313,7 @@ Maud Gonne:
 #   biblio:
 #    - ref:
    avatar      : "/assets/images/Photo_MGonne.JPG"
-   url         : "/team/visiting/maud-gonne/"
+   url         : "/team/researchers/maud-gonne/"
    links:
     - label: "mgonne@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
@@ -332,3 +333,16 @@ Helena Herrera Clapers:
     - label: "hherrerac@uoc.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hherrerac@uoc.edu"
+
+Lucía Campanella:
+   name        : "Lucía Campanella"
+   bio-short   : "Visiting Scholar"
+#   bio         : ""
+#   biblio:
+#    - ref:
+   avatar      : "/assets/images/lucia-campanella.jpg"
+#   url         : "/team/visiting/lucia-campanella/"
+   links:
+    - label: "lacmpanella@uoc.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lacmpanella@uoc.edu"

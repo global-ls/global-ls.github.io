@@ -36,13 +36,15 @@ team:    #navigation sidebar for Team
              url: /team/researchers/neus-rotger/
          -   title: "Aurea Mota"
              url: /team/researchers/aurea-mota/
+         -   title: "Maud Gonne"
+             url: /team/researchers/maud-gonne/
          -   title: "Ventsislav Ikoff"
              url: /team/researchers/ventsislav-ikoff/
   - title: "PhD Students"
     url: /team/phd/
     children:
-         -   title: "Pau Bosch Santos"
-             url: /team/phd/pau-bosch/
+#         -   title: "Pau Bosch Santos"
+#             url: /team/phd/pau-bosch/
          -   title: "Elisabet Carbó Catalan"
              url: /team/phd/elisabet-carbo/
          -   title: "Ainamar Clariana Rodagut"
@@ -60,8 +62,8 @@ team:    #navigation sidebar for Team
              url: /team/visiting/jorge-locane/
          -   title: "Paulo Lemos Horta"
              url: /team/visiting/paulo-horta/
-         -   title: Maud Gonne
-             url: /team/visiting/maud-gonne/
+#         -   title: Lucía Campanella
+#             url: /team/visiting/lucia-campanella/
   - title: "Research Assistants"
     url: /team/assistants/
     children:

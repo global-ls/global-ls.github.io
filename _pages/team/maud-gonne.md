@@ -2,6 +2,6 @@
 layout: profile
 sidebar:
         nav: "team"
-permalink: "/team/visiting/maud-gonne/"
+permalink: "/team/researchers/maud-gonne/"
 person: Maud Gonne
 ---
