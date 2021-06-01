@@ -6,7 +6,6 @@ classes: wide
 sidebar:
         nav: "team"
 team:
-   - res: Pau Bosch Santos
    - res: Elisabet Carbó Catalan
    - res: Ainamar Clariana Rodagut
    - res: Ana Kvirikashvili

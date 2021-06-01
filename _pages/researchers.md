@@ -11,9 +11,8 @@ team:
    - res: Laura Fólica
    - res: Maud Gonne      
    - res: Ventsislav Ikoff
-   - res: Marc Moreno 
+   - res: Marc Moreno
    - res: Aurea Mota   
-   - res: Marta Puxan Oliva
    - res: Neus Rotger
 
 ---

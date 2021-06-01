@@ -30,16 +30,15 @@ team:    #navigation sidebar for Team
              url: /team/researchers/diana-roig/
          -   title: "Laura Fólica"
              url: /team/researchers/laura-folica/
-         -   title: "Marta Puxan Oliva"
-             url: /team/researchers/marta-puxan/
-         -   title: "Neus Rotger"
-             url: /team/researchers/neus-rotger/
-         -   title: "Aurea Mota"
-             url: /team/researchers/aurea-mota/
          -   title: "Maud Gonne"
              url: /team/researchers/maud-gonne/
          -   title: "Ventsislav Ikoff"
              url: /team/researchers/ventsislav-ikoff/
+         -   title: "Aurea Mota"
+             url: /team/researchers/aurea-mota/
+         -   title: "Neus Rotger"
+             url: /team/researchers/neus-rotger/
+
   - title: "PhD Students"
     url: /team/phd/
     children:
@@ -64,6 +63,8 @@ team:    #navigation sidebar for Team
              url: /team/visiting/paulo-horta/
 #         -   title: Lucía Campanella
 #             url: /team/visiting/lucia-campanella/
+#         -   title: "Marta Puxan Oliva"
+#             url: /team/researchers/marta-puxan/
   - title: "Research Assistants"
     url: /team/assistants/
     children:

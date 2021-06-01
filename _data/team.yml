@@ -267,6 +267,8 @@ contents, formats and technology– (GEA, USC)."
 
 Jorge J. Locane:
    name        : "Jorge J. Locane"
+   bio-short   : "University of Oslo"
+
    bio         : "JORGE J. LOCANE studied literature at the University of Buenos Aires and obtained his PhD at the Free University of Berlin. His doctoral thesis was awarded with the German ADLAF prize and published under the title *Miradas locales en tiempos globales* by Iberoamericana/Vervuert.
 
 
@@ -287,6 +289,7 @@ Jorge J. Locane:
 
 Paulo Lemos Horta:
    name        : "Paulo Lemos Horta"
+   bio-short   : "New York University Abu Dhabi"
    bio         : "Paulo Lemos Horta is a scholar of world literature, the works, and authors who exert an impact beyond their cultures of origin. He is currently interested in the cross-cultural collaborations that influenced The Thousand and One Nights, and the reception of the works of 16th Century Portuguese author Luis de Camões, who lived in the Middle East and South Asia. His latest book, _Marvellous Thieves: Secret Authors of the Arabian Nights_ will be published by Harvard University Press in January 2017.
 
 
@@ -336,7 +339,7 @@ Helena Herrera Clapers:
 
 Lucía Campanella:
    name        : "Lucía Campanella"
-   bio-short   : "Visiting Scholar"
+   bio-short   : "Universidad de la República, Uruguay"
 #   bio         : ""
 #   biblio:
 #    - ref:

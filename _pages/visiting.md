@@ -1,5 +1,5 @@
 ---
-title: "Visiting Scholars"
+title: "Visiting Scholars and Former Members"
 layout: single
 permalink: /team/visiting/
 classes: wide
@@ -9,7 +9,9 @@ team:
    - res: Jorge J. Locane
    - res: Paulo Lemos Horta
    - res: Maud Gonne
-   - res: Lucía Campanella   
+   - res: Lucía Campanella
+   - res: Marta Puxan Oliva
+   - res: Pau Bosch Santos   
 ---
 <section class="entries-grid">
 {%- assign team = page.team -%}
